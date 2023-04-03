@@ -1,0 +1,2183 @@
+abalaaaalal	ABalaaaalal	AINL	76.0	341.0	0.0	neuron
+abalaaaalar	ABalaaaalar	ABalaaaalar	76.0	341.0	45.0	
+abalaaaala	ABalaaaala	ABalaaaala	76.0	266.0	0.0		abalaaaalal,abalaaaalar	341.0
+abalaaaalpa	ABalaaaalpa	ABalaaaalpa	68.0	334.0	84.0	
+abalaaaalpp	ABalaaaalpp	ILshL	68.0	334.0	0.0	sheath
+abalaaaalp	ABalaaaalp	ABalaaaalp	76.0	266.0	0.0		abalaaaalpa,abalaaaalpp	334.0
+abalaaaal	ABalaaaal	ABalaaaal	53.0	190.0	0.0		abalaaaala,abalaaaalp	266.0
+abalaaaarla	ABalaaaarla	ABalaaaarla	61.0	327.0	91.0	
+abalaaaarlp	ABalaaaarlp	RMEL	61.0	327.0	0.0	neuron
+abalaaaarl	ABalaaaarl	ABalaaaarl	76.0	266.0	0.0		abalaaaarla,abalaaaarlp	327.0
+abalaaaarra	ABalaaaarra	ABalaaaarra	61.0	327.0	91.0	
+abalaaaarrp	ABalaaaarrp	RMER	61.0	327.0	0.0	neuron
+abalaaaarr	ABalaaaarr	ABalaaaarr	76.0	266.0	0.0		abalaaaarra,abalaaaarrp	327.0
+abalaaaar	ABalaaaar	ABalaaaar	53.0	190.0	0.0		abalaaaarl,abalaaaarr	266.0
+abalaaaa	ABalaaaa	ABalaaaa	28.0	137.0	0.0		abalaaaal,abalaaaar	190.0
+abalaaapall	ABalaaapall	ILsoL	61.0	302.0	0.0	socket
+abalaaapalr	ABalaaapalr	AVDL	61.0	302.0	0.0	neuron
+abalaaapal	ABalaaapal	ABalaaapal	55.0	241.0	0.0		abalaaapall,abalaaapalr	302.0
+abalaaaparl	ABalaaaparl	ABalaaaparl	71.0	312.0	96.0	
+abalaaaparr	ABalaaaparr	ILshDL	71.0	312.0	0.0	sheath
+abalaaapar	ABalaaapar	ABalaaapar	55.0	241.0	0.0		abalaaaparl,abalaaaparr	312.0
+abalaaapa	ABalaaapa	ABalaaapa	48.0	186.0	0.0		abalaaapal,abalaaapar	241.0
+abalaaappll	ABalaaappll	ILshDR	71.0	312.0	0.0	sheath
+abalaaapplr	ABalaaapplr	ABalaaapplr	71.0	312.0	96.0	
+abalaaappl	ABalaaappl	ABalaaappl	55.0	241.0	0.0		abalaaappll,abalaaapplr	312.0
+abalaaapprl	ABalaaapprl	AVDR	61.0	302.0	0.0	neuron
+abalaaapprr	ABalaaapprr	ILsoR	61.0	302.0	0.0	socket
+abalaaappr	ABalaaappr	ABalaaappr	55.0	241.0	0.0		abalaaapprl,abalaaapprr	302.0
+abalaaapp	ABalaaapp	ABalaaapp	48.0	186.0	0.0		abalaaappl,abalaaappr	241.0
+abalaaap	ABalaaap	ABalaaap	28.0	137.0	0.0		abalaaapa,abalaaapp	186.0
+abalaaa	ABalaaa	ABalaaa	26.0	109.0	0.0		abalaaaa,abalaaap	137.0
+abalaapaaal	ABalaapaaal	ABalaapaaal	86.0	341.0	51.0	
+abalaapaaar	ABalaapaaar	AINR	86.0	341.0	0.0	neuron
+abalaapaaa	ABalaapaaa	ABalaapaaa	65.0	256.0	0.0		abalaapaaal,abalaapaaar	341.0
+abalaapaapa	ABalaapaapa	ABalaapaapa	78.0	334.0	81.0	
+abalaapaapp	ABalaapaapp	ILshR	78.0	334.0	0.0	sheath
+abalaapaap	ABalaapaap	ABalaapaap	65.0	256.0	0.0		abalaapaapa,abalaapaapp	334.0
+abalaapaa	ABalaapaa	ABalaapaa	52.0	190.0	0.0		abalaapaaa,abalaapaap	256.0
+abalaapapa	ABalaapapa	ABalaapapa	65.0	256.0	20.0	
+abalaapappa	ABalaapappa	ABalaapappa	55.0	311.0	96.0	
+abalaapappp	ABalaapappp	CEPsoVR	55.0	311.0	0.0	socket
+abalaapapp	ABalaapapp	ABalaapapp	65.0	256.0	0.0		abalaapappa,abalaapappp	311.0
+abalaapap	ABalaapap	ABalaapap	52.0	190.0	0.0		abalaapapa,abalaapapp	256.0
+abalaapa	ABalaapa	ABalaapa	29.0	138.0	0.0		abalaapaa,abalaapap	190.0
+abalaappaa	ABalaappaa	ABalaappaa	71.0	256.0	20.0	
+abalaappapa	ABalaappapa	AVAR	55.0	312.0	0.0	neuron
+abalaappapp	ABalaappapp	OLQsoVR	55.0	312.0	0.0	socket
+abalaappap	ABalaappap	ABalaappap	71.0	256.0	0.0		abalaappapa,abalaappapp	312.0
+abalaappa	ABalaappa	ABalaappa	47.0	186.0	0.0		abalaappaa,abalaappap	256.0
+abalaapppaa	ABalaapppaa	RIAR	91.0	327.0	0.0	neuron
+abalaapppap	ABalaapppap	ABalaapppap	91.0	327.0	20.0	
+abalaapppa	ABalaapppa	ABalaapppa	51.0	236.0	0.0		abalaapppaa,abalaapppap	327.0
+abalaappppaa	ABalaappppaa	IL1R	121.0	428.0	0.0	neuron
+abalaappppap	ABalaappppap	ABalaappppap	121.0	428.0	25.0	
+abalaappppa	ABalaappppa	ABalaappppa	71.0	307.0	0.0		abalaappppaa,abalaappppap	428.0
+abalaappppp	ABalaappppp	IL2R	71.0	307.0	0.0	neuron
+abalaapppp	ABalaapppp	ABalaapppp	51.0	236.0	0.0		abalaappppa,abalaappppp	307.0
+abalaappp	ABalaappp	ABalaappp	47.0	186.0	0.0		abalaapppa,abalaapppp	236.0
+abalaapp	ABalaapp	ABalaapp	29.0	138.0	0.0		abalaappa,abalaappp	186.0
+abalaap	ABalaap	ABalaap	26.0	109.0	0.0		abalaapa,abalaapp	138.0
+abalaa	ABalaa	ABalaa	18.0	83.0	0.0		abalaaa,abalaap	109.0
+abalapaaaaa	ABalapaaaaa	AVHL	121.0	352.0	0.0	neuron
+abalapaaaap	ABalapaaaap	ABalapaaaap	121.0	352.0	62.0	
+abalapaaaa	ABalapaaaa	ABalapaaaa	45.0	231.0	0.0		abalapaaaaa,abalapaaaap	352.0
+abalapaaapa	ABalapaaapa	CANL	76.0	306.0	0.0	neuron
+abalapaaapp	ABalapaaapp	OLLsoL	76.0	306.0	0.0	socket
+abalapaaap	ABalapaaap	ABalapaaap	45.0	231.0	0.0		abalapaaapa,abalapaaapp	306.0
+abalapaaa	ABalapaaa	ABalapaaa	51.0	186.0	0.0		abalapaaaa,abalapaaap	231.0
+abalapaapaa	ABalapaapaa	RIAL	103.0	334.0	0.0	neuron
+abalapaapap	ABalapaapap	ABalapaapap	103.0	334.0	23.0	
+abalapaapa	ABalapaapa	ABalapaapa	45.0	231.0	0.0		abalapaapaa,abalapaapap	334.0
+abalapaappaa	ABalapaappaa	IL1L	113.0	414.0	0.0	neuron
+abalapaappap	ABalapaappap	ABalapaappap	113.0	414.0	28.0	
+abalapaappa	ABalapaappa	ABalapaappa	71.0	302.0	0.0		abalapaappaa,abalapaappap	414.0
+abalapaappp	ABalapaappp	IL2L	71.0	302.0	0.0	neuron
+abalapaapp	ABalapaapp	ABalapaapp	45.0	231.0	0.0		abalapaappa,abalapaappp	302.0
+abalapaap	ABalapaap	ABalapaap	51.0	186.0	0.0		abalapaapa,abalapaapp	231.0
+abalapaa	ABalapaa	ABalapaa	28.0	135.0	0.0		abalapaaa,abalapaap	186.0
+abalapapaa	ABalapapaa	ABalapapaa	55.0	231.0	35.0	
+abalapapapaa	ABalapapapaa	OLQDL	116.0	418.0	0.0	neuron
+abalapapapap	ABalapapapap	ABalapapapap	116.0	418.0	30.0	
+abalapapapa	ABalapapapa	ABalapapapa	71.0	302.0	0.0		abalapapapaa,abalapapapap	418.0
+abalapapapp	ABalapapapp	URYDL	71.0	302.0	0.0	neuron
+abalapapap	ABalapapap	ABalapapap	55.0	231.0	0.0		abalapapapa,abalapapapp	302.0
+abalapapa	ABalapapa	ABalapapa	40.0	176.0	0.0		abalapapaa,abalapapap	231.0
+abalapappaaa	ABalapappaaa	IL1DL	111.0	408.0	0.0	neuron
+abalapappaap	ABalapappaap	ABalapappaap	111.0	408.0	45.0	
+abalapappaa	ABalapappaa	ABalapappaa	71.0	297.0	0.0		abalapappaaa,abalapappaap	408.0
+abalapappap	ABalapappap	IL2DL	71.0	297.0	0.0	neuron
+abalapappa	ABalapappa	ABalapappa	51.0	226.0	0.0		abalapappaa,abalapappap	297.0
+abalapapppa	ABalapapppa	AVJL	81.0	307.0	0.0	neuron
+abalapapppp	ABalapapppp	CEPsoDL	81.0	307.0	0.0	socket
+abalapappp	ABalapappp	ABalapappp	51.0	226.0	0.0		abalapapppa,abalapapppp	307.0
+abalapapp	ABalapapp	ABalapapp	40.0	176.0	0.0		abalapappa,abalapappp	226.0
+abalapap	ABalapap	ABalapap	28.0	135.0	0.0		abalapapa,abalapapp	176.0
+abalapa	ABalapa	ABalapa	24.0	107.0	0.0		abalapaa,abalapap	135.0
+abalappaaa	ABalappaaa	ABalappaaa	71.0	256.0	30.0	
+abalappaapa	ABalappaapa	RID	101.0	357.0	0.0	neuron
+abalappaapp	ABalappaapp	ABalappaapp	101.0	357.0	30.0	
+abalappaap	ABalappaap	ABalappaap	71.0	256.0	0.0		abalappaapa,abalappaapp	357.0
+abalappaa	ABalappaa	ABalappaa	49.0	186.0	0.0		abalappaaa,abalappaap	256.0
+abalappapaa	ABalappapaa	AVHR	111.0	342.0	0.0	neuron
+abalappapap	ABalappapap	ABalappapap	111.0	342.0	72.0	
+abalappapa	ABalappapa	ABalappapa	45.0	231.0	0.0		abalappapaa,abalappapap	342.0
+abalappappa	ABalappappa	CANR	76.0	306.0	0.0	neuron
+abalappappp	ABalappappp	OLLsoR	76.0	306.0	0.0	socket
+abalappapp	ABalappapp	ABalappapp	45.0	231.0	0.0		abalappappa,abalappappp	306.0
+abalappap	ABalappap	ABalappap	49.0	186.0	0.0		abalappapa,abalappapp	231.0
+abalappa	ABalappa	ABalappa	29.0	136.0	0.0		abalappaa,abalappap	186.0
+abalapppaaa	ABalapppaaa	ALA	91.0	320.0	0.0	neuron
+abalapppaap	ABalapppaap	RMED	91.0	320.0	0.0	neuron
+abalapppaa	ABalapppaa	ABalapppaa	53.0	229.0	0.0		abalapppaaa,abalapppaap	320.0
+abalapppapaa	ABalapppapaa	OLQDR	116.0	417.0	0.0	neuron
+abalapppapap	ABalapppapap	ABalapppapap	116.0	417.0	30.0	
+abalapppapa	ABalapppapa	ABalapppapa	72.0	301.0	0.0		abalapppapaa,abalapppapap	417.0
+abalapppapp	ABalapppapp	URYDR	72.0	301.0	0.0	neuron
+abalapppap	ABalapppap	ABalapppap	53.0	229.0	0.0		abalapppapa,abalapppapp	301.0
+abalapppa	ABalapppa	ABalapppa	39.0	176.0	0.0		abalapppaa,abalapppap	229.0
+abalappppaaa	ABalappppaaa	IL1DR	111.0	408.0	0.0	neuron
+abalappppaap	ABalappppaap	ABalappppaap	111.0	408.0	45.0	
+abalappppaa	ABalappppaa	ABalappppaa	71.0	297.0	0.0		abalappppaaa,abalappppaap	408.0
+abalappppap	ABalappppap	IL2DR	71.0	297.0	0.0	neuron
+abalappppa	ABalappppa	ABalappppa	51.0	226.0	0.0		abalappppaa,abalappppap	297.0
+abalapppppa	ABalapppppa	AVJR	81.0	307.0	0.0	neuron
+abalapppppp	ABalapppppp	CEPsoDR	81.0	307.0	0.0	socket
+abalappppp	ABalappppp	ABalappppp	51.0	226.0	0.0		abalapppppa,abalapppppp	307.0
+abalapppp	ABalapppp	ABalapppp	39.0	176.0	0.0		abalappppa,abalappppp	226.0
+abalappp	ABalappp	ABalappp	29.0	136.0	0.0		abalapppa,abalapppp	176.0
+abalapp	ABalapp	ABalapp	24.0	107.0	0.0		abalappa,abalappp	136.0
+abalap	ABalap	ABalap	18.0	83.0	0.0		abalapa,abalapp	107.0
+abala	ABala	ABala	15.0	65.0	0.0		abalaa,abalap	83.0
+abalpaaaaaa	ABalpaaaaaa	e3VL	84.0	337.0	0.0	epithelium
+abalpaaaaap	ABalpaaaaap	m2VL	84.0	337.0	0.0	muscle
+abalpaaaaa	ABalpaaaaa	ABalpaaaaa	62.0	253.0	0.0		abalpaaaaaa,abalpaaaaap	337.0
+abalpaaaapa	ABalpaaaapa	m1VL	84.0	337.0	0.0	muscle
+abalpaaaapp	ABalpaaaapp	ABalpaaaapp	84.0	337.0	25.0	
+abalpaaaap	ABalpaaaap	ABalpaaaap	62.0	253.0	0.0		abalpaaaapa,abalpaaaapp	337.0
+abalpaaaa	ABalpaaaa	ABalpaaaa	40.0	191.0	0.0		abalpaaaaa,abalpaaaap	253.0
+abalpaaapaa	ABalpaaapaa	m2L	106.0	359.0	0.0	muscle
+abalpaaapap	ABalpaaapap	ABalpaaapap	106.0	359.0	28.0	
+abalpaaapa	ABalpaaapa	ABalpaaapa	62.0	253.0	0.0		abalpaaapaa,abalpaaapap	359.0
+abalpaaappa	ABalpaaappa	ABalpaaappa	101.0	354.0	33.0	
+abalpaaappp	ABalpaaappp	MCL	101.0	354.0	0.0	neuron
+abalpaaapp	ABalpaaapp	ABalpaaapp	62.0	253.0	0.0		abalpaaappa,abalpaaappp	354.0
+abalpaaap	ABalpaaap	ABalpaaap	40.0	191.0	0.0		abalpaaapa,abalpaaapp	253.0
+abalpaaa	ABalpaaa	ABalpaaa	30.0	151.0	0.0		abalpaaaa,abalpaaap	191.0
+abalpaapaaa	ABalpaapaaa	arc post DL	76.0	317.0	0.0	other
+abalpaapaap	ABalpaapaap	e2DL	76.0	317.0	0.0	epithelium
+abalpaapaa	ABalpaapaa	ABalpaapaa	61.0	241.0	0.0		abalpaapaaa,abalpaapaap	317.0
+abalpaapapa	ABalpaapapa	mc1DL	55.0	297.0	0.0	marginal
+abalpaapapp	ABalpaapapp	m3L	55.0	297.0	0.0	muscle
+abalpaapap	ABalpaapap	ABalpaapap	61.0	241.0	0.0		abalpaapapa,abalpaapapp	297.0
+abalpaapa	ABalpaapa	ABalpaapa	30.0	181.0	0.0		abalpaapaa,abalpaapap	241.0
+abalpaappaa	ABalpaappaa	arc ant DL	76.0	322.0	0.0	other
+abalpaappap	ABalpaappap	arc post VL	76.0	322.0	0.0	other
+abalpaappa	ABalpaappa	ABalpaappa	65.0	246.0	0.0		abalpaappaa,abalpaappap	322.0
+abalpaapppa	ABalpaapppa	hyp1DL	65.0	312.0	0.0	hypoderm
+abalpaapppp	ABalpaapppp	hyp2DL	65.0	312.0	0.0	hypoderm
+abalpaappp	ABalpaappp	ABalpaappp	65.0	246.0	0.0		abalpaapppa,abalpaapppp	312.0
+abalpaapp	ABalpaapp	ABalpaapp	30.0	181.0	0.0		abalpaappa,abalpaappp	246.0
+abalpaap	ABalpaap	ABalpaap	30.0	151.0	0.0		abalpaapa,abalpaapp	181.0
+abalpaa	ABalpaa	ABalpaa	37.0	120.0	0.0		abalpaaa,abalpaap	151.0
+abalpapaaaa	ABalpapaaaa	RIPL	57.0	302.0	0.0	neuron
+abalpapaaap	ABalpapaaap	hyp2V	57.0	302.0	0.0	hypoderm
+abalpapaaa	ABalpapaaa	ABalpapaaa	63.0	244.0	0.0		abalpapaaaa,abalpapaaap	302.0
+abalpapaapa	ABalpapaapa	arc ant V	82.0	327.0	0.0	other
+abalpapaapp	ABalpapaapp	ABalpapaapp	82.0	327.0	51.0	
+abalpapaap	ABalpapaap	ABalpapaap	63.0	244.0	0.0		abalpapaapa,abalpapaapp	327.0
+abalpapaa	ABalpapaa	ABalpapaa	30.0	181.0	0.0		abalpapaaa,abalpapaap	244.0
+abalpapapaa	ABalpapapaa	RMDDL	61.0	302.0	0.0	neuron
+abalpapapapa	ABalpapapapa	ABalpapapapa	106.0	408.0	30.0	
+abalpapapapp	ABalpapapapp	SMBDL	106.0	408.0	0.0	neuron
+abalpapapap	ABalpapapap	ABalpapapap	61.0	302.0	0.0		abalpapapapa,abalpapapapp	408.0
+abalpapapa	ABalpapapa	ABalpapapa	61.0	241.0	0.0		abalpapapaa,abalpapapap	302.0
+abalpapappa	ABalpapappa	ABalpapappa	81.0	322.0	28.0	
+abalpapappp	ABalpapappp	SMBVL	81.0	322.0	0.0	neuron
+abalpapapp	ABalpapapp	ABalpapapp	61.0	241.0	0.0		abalpapappa,abalpapappp	322.0
+abalpapap	ABalpapap	ABalpapap	30.0	181.0	0.0		abalpapapa,abalpapapp	241.0
+abalpapa	ABalpapa	ABalpapa	30.0	151.0	0.0		abalpapaa,abalpapap	181.0
+abalpappaaa	ABalpappaaa	ABalpappaaa	79.0	312.0	35.0	
+abalpappaapa	ABalpappaapa	I2L	91.0	403.0	0.0	neuron
+abalpappaapp	ABalpappaapp	ABalpappaapp	91.0	403.0	30.0	
+abalpappaap	ABalpappaap	ABalpappaap	79.0	312.0	0.0		abalpappaapa,abalpappaapp	403.0
+abalpappaa	ABalpappaa	ABalpappaa	52.0	233.0	0.0		abalpappaaa,abalpappaap	312.0
+abalpappapa	ABalpappapa	e2V	53.0	286.0	0.0	epithelium
+abalpappapp	ABalpappapp	mc3V	53.0	286.0	0.0	marginal
+abalpappap	ABalpappap	ABalpappap	52.0	233.0	0.0		abalpappapa,abalpappapp	286.0
+abalpappa	ABalpappa	ABalpappa	30.0	181.0	0.0		abalpappaa,abalpappap	233.0
+abalpapppaa	ABalpapppaa	I1L	104.0	335.0	0.0	neuron
+abalpapppap	ABalpapppap	ABalpapppap	104.0	335.0	52.0	
+abalpapppa	ABalpapppa	ABalpapppa	51.0	231.0	0.0		abalpapppaa,abalpapppap	335.0
+abalpappppa	ABalpappppa	mc1V	43.0	274.0	0.0	marginal
+abalpappppp	ABalpappppp	m3VL	43.0	274.0	0.0	muscle
+abalpapppp	ABalpapppp	ABalpapppp	51.0	231.0	0.0		abalpappppa,abalpappppp	274.0
+abalpappp	ABalpappp	ABalpappp	30.0	181.0	0.0		abalpapppa,abalpapppp	231.0
+abalpapp	ABalpapp	ABalpapp	30.0	151.0	0.0		abalpappa,abalpappp	181.0
+abalpap	ABalpap	ABalpap	37.0	120.0	0.0		abalpapa,abalpapp	151.0
+abalpa	ABalpa	ABalpa	18.0	83.0	0.0		abalpaa,abalpap	120.0
+abalppaaaa	ABalppaaaa	ABalppaaaa	74.0	253.0	23.0	
+abalppaaapa	ABalppaaapa	AVAL	59.0	311.0	0.0	neuron
+abalppaaapp	ABalppaaapp	OLQsoVL	59.0	311.0	0.0	socket
+abalppaaap	ABalppaaap	ABalppaaap	74.0	253.0	0.0		abalppaaapa,abalppaaapp	311.0
+abalppaaa	ABalppaaa	ABalppaaa	23.0	178.0	0.0		abalppaaaa,abalppaaap	253.0
+abalppaapa	ABalppaapa	ABalppaapa	68.0	246.0	25.0	
+abalppaappa	ABalppaappa	ABalppaappa	76.0	321.0	106.0	
+abalppaappp	ABalppaappp	CEPsoVL	76.0	321.0	0.0	socket
+abalppaapp	ABalppaapp	ABalppaapp	68.0	246.0	0.0		abalppaappa,abalppaappp	321.0
+abalppaap	ABalppaap	ABalppaap	23.0	178.0	0.0		abalppaapa,abalppaapp	246.0
+abalppaa	ABalppaa	ABalppaa	35.0	155.0	0.0		abalppaaa,abalppaap	178.0
+abalppapaaa	ABalppapaaa	RMDVL	81.0	316.0	0.0	neuron
+abalppapaap	ABalppapaap	ILshVL	81.0	316.0	0.0	sheath
+abalppapaa	ABalppapaa	ABalppapaa	68.0	236.0	0.0		abalppapaaa,abalppapaap	316.0
+abalppapapa	ABalppapapa	SAADL	72.0	308.0	0.0	neuron
+abalppapapp	ABalppapapp	ILsoVL	72.0	308.0	0.0	socket
+abalppapap	ABalppapap	ABalppapap	68.0	236.0	0.0		abalppapapa,abalppapapp	308.0
+abalppapa	ABalppapa	ABalppapa	13.0	168.0	0.0		abalppapaa,abalppapap	236.0
+abalppappaa	ABalppappaa	SMDVL	73.0	306.0	0.0	neuron
+abalppappap	ABalppappap	BAGL	73.0	306.0	0.0	neuron
+abalppappa	ABalppappa	ABalppappa	64.0	232.0	0.0		abalppappaa,abalppappap	306.0
+abalppapppaa	ABalppapppaa	IL1VL	126.0	427.0	0.0	neuron
+abalppapppap	ABalppapppap	ABalppapppap	126.0	427.0	30.0	
+abalppapppa	ABalppapppa	ABalppapppa	69.0	301.0	0.0		abalppapppaa,abalppapppap	427.0
+abalppapppp	ABalppapppp	IL2VL	69.0	301.0	0.0	neuron
+abalppappp	ABalppappp	ABalppappp	64.0	232.0	0.0		abalppapppa,abalppapppp	301.0
+abalppapp	ABalppapp	ABalppapp	13.0	168.0	0.0		abalppappa,abalppappp	232.0
+abalppap	ABalppap	ABalppap	35.0	155.0	0.0		abalppapa,abalppapp	168.0
+abalppa	ABalppa	ABalppa	37.0	120.0	0.0		abalppaa,abalppap	155.0
+abalpppaaaa	ABalpppaaaa	AVEL	79.0	332.0	0.0	neuron
+abalpppaaap	ABalpppaaap	OLQshVL	79.0	332.0	0.0	sheath
+abalpppaaa	ABalpppaaa	ABalpppaaa	72.0	253.0	0.0		abalpppaaaa,abalpppaaap	332.0
+abalpppaapd	ABalpppaapd	OLLshL	84.0	337.0	0.0	sheath
+abalpppaapv	ABalpppaapv	ABalpppaapv	84.0	337.0	22.0	
+abalpppaap	ABalpppaap	ABalpppaap	72.0	253.0	0.0		abalpppaapd,abalpppaapv	337.0
+abalpppaa	ABalpppaa	ABalpppaa	30.0	181.0	0.0		abalpppaaa,abalpppaap	253.0
+abalpppapad	ABalpppapad	RMDL	81.0	322.0	0.0	neuron
+abalpppapav	ABalpppapav	AFDL	81.0	322.0	0.0	neuron
+abalpppapa	ABalpppapa	ABalpppapa	61.0	241.0	0.0		abalpppapad,abalpppapav	322.0
+abalpppappa	ABalpppappa	ABalpppappa	61.0	302.0	25.0	
+abalpppapppa	ABalpppapppa	ASKL	91.0	393.0	0.0	neuron
+abalpppapppp	ABalpppapppp	ABalpppapppp	91.0	393.0	35.0	
+abalpppappp	ABalpppappp	ABalpppappp	61.0	302.0	0.0		abalpppapppa,abalpppapppp	393.0
+abalpppapp	ABalpppapp	ABalpppapp	61.0	241.0	0.0		abalpppappa,abalpppappp	302.0
+abalpppap	ABalpppap	ABalpppap	30.0	181.0	0.0		abalpppapa,abalpppapp	241.0
+abalpppa	ABalpppa	ABalpppa	30.0	151.0	0.0		abalpppaa,abalpppap	181.0
+abalppppaad	ABalppppaad	ADLL	68.0	306.0	0.0	neuron
+abalppppaav	ABalppppaav	ABalppppaav	68.0	306.0	43.0	
+abalppppaa	ABalppppaa	ABalppppaa	76.0	239.0	0.0		abalppppaad,abalppppaav	306.0
+abalppppapaa	ABalppppapaa	OLLL	111.0	428.0	0.0	neuron
+abalppppapap	ABalppppapap	ABalppppapap	111.0	428.0	30.0	
+abalppppapa	ABalppppapa	ABalppppapa	78.0	316.0	0.0		abalppppapaa,abalppppapap	428.0
+abalppppapp	ABalppppapp	ABalppppapp	78.0	316.0	20.0	
+abalppppap	ABalppppap	ABalppppap	76.0	239.0	0.0		abalppppapa,abalppppapp	316.0
+abalppppa	ABalppppa	ABalppppa	13.0	163.0	0.0		abalppppaa,abalppppap	239.0
+abalpppppaa	ABalpppppaa	ADFL	63.0	296.0	0.0	neuron
+abalpppppap	ABalpppppap	AWBL	63.0	296.0	0.0	neuron
+abalpppppa	ABalpppppa	ABalpppppa	70.0	233.0	0.0		abalpppppaa,abalpppppap	296.0
+abalppppppaa	ABalppppppaa	ASEL	88.0	359.0	0.0	neuron
+abalppppppap	ABalppppppap	ABalppppppap	88.0	359.0	33.0	
+abalppppppa	ABalppppppa	ABalppppppa	38.0	271.0	0.0		abalppppppaa,abalppppppap	359.0
+abalpppppppa	ABalpppppppa	ASJL	88.0	359.0	0.0	neuron
+abalpppppppp	ABalpppppppp	AUAL	88.0	359.0	0.0	neuron
+abalppppppp	ABalppppppp	ABalppppppp	38.0	271.0	0.0		abalpppppppa,abalpppppppp	359.0
+abalpppppp	ABalpppppp	ABalpppppp	70.0	233.0	0.0		abalppppppa,abalppppppp	271.0
+abalppppp	ABalppppp	ABalppppp	13.0	163.0	0.0		abalpppppa,abalpppppp	233.0
+abalpppp	ABalpppp	ABalpppp	30.0	151.0	0.0		abalppppa,abalppppp	163.0
+abalppp	ABalppp	ABalppp	37.0	120.0	0.0		abalpppa,abalpppp	151.0
+abalpp	ABalpp	ABalpp	18.0	83.0	0.0		abalppa,abalppp	120.0
+abalp	ABalp	ABalp	15.0	65.0	0.0		abalpa,abalpp	83.0
+abal	ABal	ABal	18.0	50.0	0.0		abala,abalp	65.0
+abaraaaaaaa	ABaraaaaaaa	e1VL	86.0	342.0	0.0	epithelium
+abaraaaaaap	ABaraaaaaap	m1L	86.0	342.0	0.0	muscle
+abaraaaaaa	ABaraaaaaa	ABaraaaaaa	61.0	256.0	0.0		abaraaaaaaa,abaraaaaaap	342.0
+abaraaaaapa	ABaraaaaapa	e1VR	91.0	347.0	0.0	epithelium
+abaraaaaapp	ABaraaaaapp	m1R	91.0	347.0	0.0	muscle
+abaraaaaap	ABaraaaaap	ABaraaaaap	61.0	256.0	0.0		abaraaaaapa,abaraaaaapp	347.0
+abaraaaaa	ABaraaaaa	ABaraaaaa	45.0	196.0	0.0		abaraaaaaa,abaraaaaap	256.0
+abaraaaapaa	ABaraaaapaa	ABaraaaapaa	76.0	342.0	45.0	
+abaraaaapap	ABaraaaapap	e1D	76.0	342.0	0.0	epithelium
+abaraaaapa	ABaraaaapa	ABaraaaapa	71.0	266.0	0.0		abaraaaapaa,abaraaaapap	342.0
+abaraaaapp	ABaraaaapp	ABaraaaapp	71.0	266.0	30.0	
+abaraaaap	ABaraaaap	ABaraaaap	45.0	196.0	0.0		abaraaaapa,abaraaaapp	266.0
+abaraaaa	ABaraaaa	ABaraaaa	30.0	151.0	0.0		abaraaaaa,abaraaaap	196.0
+abaraaapaaa	ABaraaapaaa	arc post DR	71.0	312.0	0.0	other
+abaraaapaap	ABaraaapaap	e2DR	71.0	312.0	0.0	epithelium
+abaraaapaa	ABaraaapaa	ABaraaapaa	51.0	241.0	0.0		abaraaapaaa,abaraaapaap	312.0
+abaraaapapa	ABaraaapapa	mc1DR	55.0	297.0	0.0	marginal
+abaraaapapp	ABaraaapapp	m4R	55.0	297.0	0.0	muscle
+abaraaapap	ABaraaapap	ABaraaapap	51.0	241.0	0.0		abaraaapapa,abaraaapapp	297.0
+abaraaapa	ABaraaapa	ABaraaapa	40.0	191.0	0.0		abaraaapaa,abaraaapap	241.0
+abaraaappaa	ABaraaappaa	arc post D	76.0	322.0	0.0	other
+abaraaappap	ABaraaappap	arc post VR	76.0	322.0	0.0	other
+abaraaappa	ABaraaappa	ABaraaappa	55.0	246.0	0.0		abaraaappaa,abaraaappap	322.0
+abaraaapppa	ABaraaapppa	arc ant DR	71.0	317.0	0.0	other
+abaraaapppp	ABaraaapppp	hyp1DR	71.0	317.0	0.0	hypoderm
+abaraaappp	ABaraaappp	ABaraaappp	55.0	246.0	0.0		abaraaapppa,abaraaapppp	317.0
+abaraaapp	ABaraaapp	ABaraaapp	40.0	191.0	0.0		abaraaappa,abaraaappp	246.0
+abaraaap	ABaraaap	ABaraaap	30.0	151.0	0.0		abaraaapa,abaraaapp	191.0
+abaraaa	ABaraaa	ABaraaa	30.0	120.0	0.0		abaraaaa,abaraaap	151.0
+abaraapaaaa	ABaraapaaaa	e3D	72.0	316.0	0.0	epithelium
+abaraapaaap	ABaraapaaap	m1DL	72.0	316.0	0.0	muscle
+abaraapaaa	ABaraapaaa	ABaraapaaa	53.0	244.0	0.0		abaraapaaaa,abaraapaaap	316.0
+abaraapaapa	ABaraapaapa	m2DL	62.0	306.0	0.0	muscle
+abaraapaapp	ABaraapaapp	mc2DL	62.0	306.0	0.0	marginal
+abaraapaap	ABaraapaap	ABaraapaap	53.0	244.0	0.0		abaraapaapa,abaraapaapp	306.0
+abaraapaa	ABaraapaa	ABaraapaa	40.0	191.0	0.0		abaraapaaa,abaraapaap	244.0
+abaraapapaad	ABaraapapaad	ABaraapapaad	136.0	432.0	25.0	
+abaraapapaav	ABaraapapaav	NSML	136.0	432.0	0.0	neuron
+abaraapapaa	ABaraapapaa	ABaraapapaa	52.0	296.0	0.0		abaraapapaad,abaraapapaav	432.0
+abaraapapap	ABaraapapap	m5L	52.0	296.0	0.0	muscle
+abaraapapa	ABaraapapa	ABaraapapa	53.0	244.0	0.0		abaraapapaa,abaraapapap	296.0
+abaraapappa	ABaraapappa	M2L	98.0	342.0	0.0	neuron
+abaraapappp	ABaraapappp	M3L	98.0	342.0	0.0	neuron
+abaraapapp	ABaraapapp	ABaraapapp	53.0	244.0	0.0		abaraapappa,abaraapappp	342.0
+abaraapap	ABaraapap	ABaraapap	40.0	191.0	0.0		abaraapapa,abaraapapp	244.0
+abaraapa	ABaraapa	ABaraapa	30.0	151.0	0.0		abaraapaa,abaraapap	191.0
+abaraappaaa	ABaraappaaa	MI	78.0	322.0	0.0	neuron
+abaraappaap	ABaraappaap	m1DR	78.0	322.0	0.0	muscle
+abaraappaa	ABaraappaa	ABaraappaa	53.0	244.0	0.0		abaraappaaa,abaraappaap	322.0
+abaraappapa	ABaraappapa	m2DR	62.0	306.0	0.0	muscle
+abaraappapp	ABaraappapp	mc2DR	62.0	306.0	0.0	marginal
+abaraappap	ABaraappap	ABaraappap	53.0	244.0	0.0		abaraappapa,abaraappapp	306.0
+abaraappa	ABaraappa	ABaraappa	40.0	191.0	0.0		abaraappaa,abaraappap	244.0
+abaraapppaad	ABaraapppaad	ABaraapppaad	136.0	432.0	25.0	
+abaraapppaav	ABaraapppaav	NSMR	136.0	432.0	0.0	neuron
+abaraapppaa	ABaraapppaa	ABaraapppaa	52.0	296.0	0.0		abaraapppaad,abaraapppaav	432.0
+abaraapppap	ABaraapppap	m5R	52.0	296.0	0.0	muscle
+abaraapppa	ABaraapppa	ABaraapppa	53.0	244.0	0.0		abaraapppaa,abaraapppap	296.0
+abaraappppa	ABaraappppa	M2R	93.0	337.0	0.0	neuron
+abaraappppp	ABaraappppp	M3R	93.0	337.0	0.0	neuron
+abaraapppp	ABaraapppp	ABaraapppp	53.0	244.0	0.0		abaraappppa,abaraappppp	337.0
+abaraappp	ABaraappp	ABaraappp	40.0	191.0	0.0		abaraapppa,abaraapppp	244.0
+abaraapp	ABaraapp	ABaraapp	30.0	151.0	0.0		abaraappa,abaraappp	191.0
+abaraap	ABaraap	ABaraap	30.0	120.0	0.0		abaraapa,abaraapp	151.0
+abaraa	ABaraa	ABaraa	25.0	90.0	0.0		abaraaa,abaraap	120.0
+abarapaaaaa	ABarapaaaaa	e3VR	89.0	335.0	0.0	epithelium
+abarapaaaap	ABarapaaaap	m2VR	89.0	335.0	0.0	muscle
+abarapaaaa	ABarapaaaa	ABarapaaaa	51.0	246.0	0.0		abarapaaaaa,abarapaaaap	335.0
+abarapaaapa	ABarapaaapa	m1VR	91.0	337.0	0.0	muscle
+abarapaaapp	ABarapaaapp	ABarapaaapp	91.0	337.0	40.0	
+abarapaaap	ABarapaaap	ABarapaaap	51.0	246.0	0.0		abarapaaapa,abarapaaapp	337.0
+abarapaaa	ABarapaaa	ABarapaaa	45.0	196.0	0.0		abarapaaaa,abarapaaap	246.0
+abarapaapaa	ABarapaapaa	m2R	113.0	357.0	0.0	muscle
+abarapaapap	ABarapaapap	ABarapaapap	113.0	357.0	30.0	
+abarapaapa	ABarapaapa	ABarapaapa	48.0	244.0	0.0		abarapaapaa,abarapaapap	357.0
+abarapaappa	ABarapaappa	m3R	62.0	306.0	0.0	muscle
+abarapaappp	ABarapaappp	MCR	62.0	306.0	0.0	neuron
+abarapaapp	ABarapaapp	ABarapaapp	48.0	244.0	0.0		abarapaappa,abarapaappp	306.0
+abarapaap	ABarapaap	ABarapaap	45.0	196.0	0.0		abarapaapa,abarapaapp	244.0
+abarapaa	ABarapaa	ABarapaa	30.0	151.0	0.0		abarapaaa,abarapaap	196.0
+abarapapaaa	ABarapapaaa	ABarapapaaa	94.0	325.0	22.0	
+abarapapaapa	ABarapapaapa	I2R	78.0	403.0	0.0	neuron
+abarapapaapp	ABarapapaapp	ABarapapaapp	78.0	403.0	35.0	
+abarapapaap	ABarapapaap	ABarapapaap	94.0	325.0	0.0		abarapapaapa,abarapapaapp	403.0
+abarapapaa	ABarapapaa	ABarapapaa	40.0	231.0	0.0		abarapapaaa,abarapapaap	325.0
+abarapapapa	ABarapapapa	arc post V	65.0	297.0	0.0	other
+abarapapapp	ABarapapapp	I5	65.0	297.0	0.0	neuron
+abarapapap	ABarapapap	ABarapapap	40.0	231.0	0.0		abarapapapa,abarapapapp	297.0
+abarapapa	ABarapapa	ABarapapa	40.0	191.0	0.0		abarapapaa,abarapapap	231.0
+abarapappaa	ABarapappaa	I1R	109.0	335.0	0.0	neuron
+abarapappap	ABarapappap	ABarapappap	109.0	335.0	32.0	
+abarapappa	ABarapappa	ABarapappa	35.0	226.0	0.0		abarapappaa,abarapappap	335.0
+abarapapppa	ABarapapppa	mc2V	55.0	281.0	0.0	marginal
+abarapapppp	ABarapapppp	m3VR	55.0	281.0	0.0	muscle
+abarapappp	ABarapappp	ABarapappp	35.0	226.0	0.0		abarapapppa,abarapapppp	281.0
+abarapapp	ABarapapp	ABarapapp	40.0	191.0	0.0		abarapappa,abarapappp	226.0
+abarapap	ABarapap	ABarapap	30.0	151.0	0.0		abarapapa,abarapapp	191.0
+abarapa	ABarapa	ABarapa	30.0	120.0	0.0		abarapaa,abarapap	151.0
+abarappaaaa	ABarappaaaa	RIPR	78.0	322.0	0.0	neuron
+abarappaaap	ABarappaaap	ABarappaaap	78.0	322.0	51.0	
+abarappaaa	ABarappaaa	ABarappaaa	53.0	244.0	0.0		abarappaaaa,abarappaaap	322.0
+abarappaapa	ABarappaapa	hyp1V	88.0	332.0	0.0	hypoderm
+abarappaapp	ABarappaapp	ABarappaapp	88.0	332.0	15.0	
+abarappaap	ABarappaap	ABarappaap	53.0	244.0	0.0		abarappaapa,abarappaapp	332.0
+abarappaa	ABarappaa	ABarappaa	40.0	191.0	0.0		abarappaaa,abarappaap	244.0
+abarappapaa	ABarappapaa	RMDDR	72.0	309.0	0.0	neuron
+abarappapapa	ABarappapapa	ABarappapapa	114.0	422.0	20.0	
+abarappapapp	ABarappapapp	SMBDR	114.0	422.0	0.0	neuron
+abarappapap	ABarappapap	ABarappapap	72.0	309.0	0.0		abarappapapa,abarappapapp	422.0
+abarappapa	ABarappapa	ABarappapa	45.0	236.0	0.0		abarappapaa,abarappapap	309.0
+abarappappa	ABarappappa	DB2	81.0	317.0	0.0	neuron
+abarappappp	ABarappappp	SMBVR	81.0	317.0	0.0	neuron
+abarappapp	ABarappapp	ABarappapp	45.0	236.0	0.0		abarappappa,abarappappp	317.0
+abarappap	ABarappap	ABarappap	40.0	191.0	0.0		abarappapa,abarappapp	236.0
+abarappa	ABarappa	ABarappa	30.0	151.0	0.0		abarappaa,abarappap	191.0
+abarapppaaa	ABarapppaaa	RMDVR	76.0	312.0	0.0	neuron
+abarapppaap	ABarapppaap	ILshVR	76.0	312.0	0.0	sheath
+abarapppaa	ABarapppaa	ABarapppaa	45.0	236.0	0.0		abarapppaaa,abarapppaap	312.0
+abarapppapa	ABarapppapa	SAADR	76.0	312.0	0.0	neuron
+abarapppapp	ABarapppapp	ILsoVR	76.0	312.0	0.0	socket
+abarapppap	ABarapppap	ABarapppap	45.0	236.0	0.0		abarapppapa,abarapppapp	312.0
+abarapppa	ABarapppa	ABarapppa	40.0	191.0	0.0		abarapppaa,abarapppap	236.0
+abarappppaa	ABarappppaa	SMDVR	78.0	312.0	0.0	neuron
+abarappppap	ABarappppap	BAGR	78.0	312.0	0.0	neuron
+abarappppa	ABarappppa	ABarappppa	43.0	234.0	0.0		abarappppaa,abarappppap	312.0
+abarapppppaa	ABarapppppaa	IL1VR	20.0	327.0	0.0	neuron
+abarapppppap	ABarapppppap	ABarapppppap	20.0	327.0	35.0	
+abarapppppa	ABarapppppa	ABarapppppa	72.0	306.0	0.0		abarapppppaa,abarapppppap	327.0
+abarapppppp	ABarapppppp	IL2VR	72.0	306.0	0.0	neuron
+abarappppp	ABarappppp	ABarappppp	43.0	234.0	0.0		abarapppppa,abarapppppp	306.0
+abarapppp	ABarapppp	ABarapppp	40.0	191.0	0.0		abarappppa,abarappppp	234.0
+abarappp	ABarappp	ABarappp	30.0	151.0	0.0		abarapppa,abarapppp	191.0
+abarapp	ABarapp	ABarapp	30.0	120.0	0.0		abarappa,abarappp	151.0
+abarap	ABarap	ABarap	25.0	90.0	0.0		abarapa,abarapp	120.0
+abara	ABara	ABara	15.0	65.0	0.0		abaraa,abarap	90.0
+abarpaaaaal	ABarpaaaaal	OLQsoDL	81.0	337.0	0.0	socket
+abarpaaaaar	ABarpaaaaar	OLQsoDR	81.0	337.0	0.0	socket
+abarpaaaaa	ABarpaaaaa	ABarpaaaaa	61.0	256.0	0.0		abarpaaaaal,abarpaaaaar	337.0
+abarpaaaapa	ABarpaaaapa	OLQshDL	81.0	337.0	0.0	sheath
+abarpaaaapp	ABarpaaaapp	CEPshDL	81.0	337.0	0.0	sheath
+abarpaaaap	ABarpaaaap	ABarpaaaap	61.0	256.0	0.0		abarpaaaapa,abarpaaaapp	337.0
+abarpaaaa	ABarpaaaa	ABarpaaaa	45.0	196.0	0.0		abarpaaaaa,abarpaaaap	256.0
+abarpaaapaa	ABarpaaapaa	OLQshDR	76.0	332.0	0.0	sheath
+abarpaaapap	ABarpaaapap	CEPshDR	76.0	332.0	0.0	sheath
+abarpaaapa	ABarpaaapa	ABarpaaapa	61.0	256.0	0.0		abarpaaapaa,abarpaaapap	332.0
+abarpaaapp	ABarpaaapp	ABarpaaapp	61.0	256.0	30.0	
+abarpaaap	ABarpaaap	ABarpaaap	45.0	196.0	0.0		abarpaaapa,abarpaaapp	256.0
+abarpaaa	ABarpaaa	ABarpaaa	30.0	151.0	0.0		abarpaaaa,abarpaaap	196.0
+abarpaapaa	ABarpaapaa	hyp6	55.0	241.0	0.0	hypoderm
+abarpaapap	ABarpaapap	hyp7	55.0	241.0	0.0	hypoderm
+abarpaapa	ABarpaapa	ABarpaapa	35.0	186.0	0.0		abarpaapaa,abarpaapap	241.0
+abarpaappa	ABarpaappa	hyp7	45.0	231.0	0.0	hypoderm
+abarpaappp	ABarpaappp	hyp7	45.0	231.0	0.0	hypoderm
+abarpaapp	ABarpaapp	ABarpaapp	35.0	186.0	0.0		abarpaappa,abarpaappp	231.0
+abarpaap	ABarpaap	ABarpaap	30.0	151.0	0.0		abarpaapa,abarpaapp	186.0
+abarpaa	ABarpaa	ABarpaa	37.0	120.0	0.0		abarpaaa,abarpaap	151.0
+abarpapaaaa	ABarpapaaaa	URADR	86.0	337.0	0.0	neuron
+abarpapaaap	ABarpapaaap	CEMDR	86.0	337.0	152.0	neuron
+abarpapaaa	ABarpapaaa	ABarpapaaa	61.0	252.0	0.0		abarpapaaaa,abarpapaaap	337.0
+abarpapaapa	ABarpapaapa	ABarpapaapa	61.0	312.0	25.0	
+abarpapaappa	ABarpapaappa	CEPDR	86.0	398.0	0.0	neuron
+abarpapaappp	ABarpapaappp	URXR	86.0	398.0	0.0	neuron
+abarpapaapp	ABarpapaapp	ABarpapaapp	61.0	312.0	0.0		abarpapaappa,abarpapaappp	398.0
+abarpapaap	ABarpapaap	ABarpapaap	61.0	252.0	0.0		abarpapaapa,abarpapaapp	312.0
+abarpapaa	ABarpapaa	ABarpapaa	40.0	191.0	0.0		abarpapaaa,abarpapaap	252.0
+abarpapapa	ABarpapapa	hyp4	55.0	246.0	0.0	hypoderm
+abarpapapp	ABarpapapp	hyp6	55.0	246.0	0.0	hypoderm
+abarpapap	ABarpapap	ABarpapap	40.0	191.0	0.0		abarpapapa,abarpapapp	246.0
+abarpapa	ABarpapa	ABarpapa	30.0	151.0	0.0		abarpapaa,abarpapap	191.0
+abarpappaa	ABarpappaa	XXXR	65.0	256.0	0.0	hypoderm
+abarpappap	ABarpappap	hyp5	65.0	256.0	0.0	hypoderm
+abarpappa	ABarpappa	ABarpappa	40.0	191.0	0.0		abarpappaa,abarpappap	256.0
+abarpapppa	ABarpapppa	H0R	51.0	241.0	0.0	hypoderm
+h1raa	H1Raa	se	527.0	1804.0	0.0	hypoderm
+h1rapa	H1Rapa	hyp7	594.0	2398.0	0.0	hypoderm
+h1rappa	H1Rappa	hyp7	576.0	2974.0	0.0	hypoderm
+h1rappp	H1Rappp	se	576.0	2974.0	0.0	hypoderm
+h1rapp	H1Rapp	H1Rapp	594.0	2398.0	0.0		h1rappa,h1rappp	2974.0
+h1rap	H1Rap	H1Rap	527.0	1804.0	0.0		h1rapa,h1rapp	2398.0
+h1ra	H1Ra	H1Ra	1036.0	1277.0	0.0		h1raa,h1rap	1804.0
+h1rp	H1Rp	hyp7	1036.0	1277.0	0.0	hypoderm
+abarpapppp	ABarpapppp	H1R	51.0	241.0	0.0	hypoderm	h1ra,h1rp	1277.0
+abarpappp	ABarpappp	ABarpappp	40.0	191.0	0.0		abarpapppa,abarpapppp	241.0
+abarpapp	ABarpapp	ABarpapp	30.0	151.0	0.0		abarpappa,abarpappp	191.0
+abarpap	ABarpap	ABarpap	37.0	120.0	0.0		abarpapa,abarpapp	151.0
+abarpa	ABarpa	ABarpa	18.0	83.0	0.0		abarpaa,abarpap	120.0
+abarppaaaa	ABarppaaaa	ADEshL	48.0	251.0	0.0	sheath
+h2laa	H2Laa	ADEsoL	121.0	1368.0	0.0	socket
+h2lap	H2Lap	hyp7	121.0	1368.0	0.0	hypoderm
+h2la	H2La	H2La	995.0	1246.0	0.0		h2laa,h2lap	1368.0
+h2lpa	H2Lpa	hyp7	546.0	1792.0	0.0	hypoderm
+h2lppa	H2Lppa	hyp7	546.0	2338.0	0.0	hypoderm
+h2lpppa	H2Lpppa	hyp7	546.0	2884.0	0.0	hypoderm
+h2lpppp	H2Lpppp	se	546.0	2884.0	0.0	hypoderm
+h2lppp	H2Lppp	H2Lppp	546.0	2338.0	0.0		h2lpppa,h2lpppp	2884.0
+h2lpp	H2Lpp	H2Lpp	546.0	1792.0	0.0		h2lppa,h2lppp	2338.0
+h2lp	H2Lp	H2Lp	995.0	1246.0	0.0		h2lpa,h2lpp	1792.0
+abarppaaap	ABarppaaap	H2L	48.0	251.0	0.0		h2la,h2lp	1246.0
+abarppaaa	ABarppaaa	ABarppaaa	52.0	203.0	0.0		abarppaaaa,abarppaaap	251.0
+abarppaapa	ABarppaapa	hyp7	43.0	246.0	0.0	hypoderm
+abarppaappa	ABarppaappa	ALML	207.0	453.0	0.0	neuron
+abarppaappp	ABarppaappp	BDUL	207.0	453.0	0.0	neuron
+abarppaapp	ABarppaapp	ABarppaapp	43.0	246.0	0.0		abarppaappa,abarppaappp	453.0
+abarppaap	ABarppaap	ABarppaap	52.0	203.0	0.0		abarppaapa,abarppaapp	246.0
+abarppaa	ABarppaa	ABarppaa	30.0	151.0	0.0		abarppaaa,abarppaap	203.0
+v1la	V1La	hyp7	879.0	1126.0	0.0	hypoderm
+v1lpaa	V1Lpaa	hyp7	61.0	1853.0	0.0	hypoderm
+v1lpapa	V1Lpapa	hyp7	485.0	2338.0	0.0	hypoderm
+v1lpappa	V1Lpappa	hyp7	546.0	2884.0	0.0	hypoderm
+v1lpappp	V1Lpappp	se	546.0	2884.0	0.0	hypoderm
+v1lpapp	V1Lpapp	V1Lpapp	485.0	2338.0	0.0		v1lpappa,v1lpappp	2884.0
+v1lpap	V1Lpap	V1Lpap	61.0	1853.0	0.0		v1lpapa,v1lpapp	2338.0
+v1lpa	V1Lpa	V1Lpa	667.0	1793.0	0.0		v1lpaa,v1lpap	1853.0
+v1lppa	V1Lppa	hyp7	61.0	1853.0	0.0	hypoderm
+v1lpppa	V1Lpppa	hyp7	485.0	2338.0	0.0	hypoderm
+v1lppppa	V1Lppppa	hyp7	546.0	2884.0	0.0	hypoderm
+v1lppppp	V1Lppppp	se	546.0	2884.0	0.0	hypoderm
+v1lpppp	V1Lpppp	V1Lpppp	485.0	2338.0	0.0		v1lppppa,v1lppppp	2884.0
+v1lppp	V1Lppp	V1Lppp	61.0	1853.0	0.0		v1lpppa,v1lpppp	2338.0
+v1lpp	V1Lpp	V1Lpp	667.0	1793.0	0.0		v1lppa,v1lppp	1853.0
+v1lp	V1Lp	V1Lp	879.0	1126.0	0.0		v1lpa,v1lpp	1793.0
+abarppapaa	ABarppapaa	V1L	51.0	246.0	0.0		v1la,v1lp	1126.0
+v2la	V2La	hyp7	879.0	1126.0	0.0	hypoderm
+v2lpaa	V2Lpaa	hyp7	61.0	1853.0	0.0	hypoderm
+v2lpapa	V2Lpapa	hyp7	485.0	2338.0	0.0	hypoderm
+v2lpappa	V2Lpappa	hyp7	546.0	2884.0	0.0	hypoderm
+v2lpappp	V2Lpappp	se	546.0	2884.0	0.0	hypoderm
+v2lpapp	V2Lpapp	V2Lpapp	485.0	2338.0	0.0		v2lpappa,v2lpappp	2884.0
+v2lpap	V2Lpap	V2Lpap	61.0	1853.0	0.0		v2lpapa,v2lpapp	2338.0
+v2lpa	V2Lpa	V2Lpa	667.0	1793.0	0.0		v2lpaa,v2lpap	1853.0
+v2lppa	V2Lppa	hyp7	61.0	1853.0	0.0	hypoderm
+v2lpppa	V2Lpppa	hyp7	485.0	2338.0	0.0	hypoderm
+v2lppppa	V2Lppppa	hyp7	546.0	2884.0	0.0	hypoderm
+v2lppppp	V2Lppppp	se	546.0	2884.0	0.0	hypoderm
+v2lpppp	V2Lpppp	V2Lpppp	485.0	2338.0	0.0		v2lppppa,v2lppppp	2884.0
+v2lppp	V2Lppp	V2Lppp	61.0	1853.0	0.0		v2lpppa,v2lpppp	2338.0
+v2lpp	V2Lpp	V2Lpp	667.0	1793.0	0.0		v2lppa,v2lppp	1853.0
+v2lp	V2Lp	V2Lp	879.0	1126.0	0.0		v2lpa,v2lpp	1793.0
+abarppapap	ABarppapap	V2L	51.0	246.0	0.0		v2la,v2lp	1126.0
+abarppapa	ABarppapa	ABarppapa	45.0	196.0	0.0		abarppapaa,abarppapap	246.0
+v4la	V4La	hyp7	879.0	1126.0	0.0	hypoderm
+v4lpaa	V4Lpaa	hyp7	61.0	1853.0	0.0	hypoderm
+v4lpapa	V4Lpapa	hyp7	485.0	2338.0	0.0	hypoderm
+v4lpappa	V4Lpappa	hyp7	546.0	2884.0	0.0	hypoderm
+v4lpappp	V4Lpappp	se	546.0	2884.0	0.0	hypoderm
+v4lpapp	V4Lpapp	V4Lpapp	485.0	2338.0	0.0		v4lpappa,v4lpappp	2884.0
+v4lpap	V4Lpap	V4Lpap	61.0	1853.0	0.0		v4lpapa,v4lpapp	2338.0
+v4lpa	V4Lpa	V4Lpa	667.0	1793.0	0.0		v4lpaa,v4lpap	1853.0
+v4lppa	V4Lppa	hyp7	61.0	1853.0	0.0	hypoderm
+v4lpppa	V4Lpppa	hyp7	485.0	2338.0	0.0	hypoderm
+v4lppppa	V4Lppppa	hyp7	546.0	2884.0	0.0	hypoderm
+v4lppppp	V4Lppppp	se	546.0	2884.0	0.0	hypoderm
+v4lpppp	V4Lpppp	V4Lpppp	485.0	2338.0	0.0		v4lppppa,v4lppppp	2884.0
+v4lppp	V4Lppp	V4Lppp	61.0	1853.0	0.0		v4lpppa,v4lpppp	2338.0
+v4lpp	V4Lpp	V4Lpp	667.0	1793.0	0.0		v4lppa,v4lppp	1853.0
+v4lp	V4Lp	V4Lp	879.0	1126.0	0.0		v4lpa,v4lpp	1793.0
+abarppappa	ABarppappa	V4L	51.0	246.0	0.0		v4la,v4lp	1126.0
+v6la	V6La	hyp7	885.0	1131.0	0.0	hypoderm
+v6lpaa	V6Lpaa	hyp7	72.0	1913.0	0.0	hypoderm
+v6lpapa	V6Lpapa	hyp7	455.0	2368.0	0.0	hypoderm
+v6lpappa	V6Lpappa	hyp7	576.0	2944.0	0.0	hypoderm
+v6lpappp	V6Lpappp	se	576.0	2944.0	0.0	hypoderm
+v6lpapp	V6Lpapp	V6Lpapp	455.0	2368.0	0.0		v6lpappa,v6lpappp	2944.0
+v6lpap	V6Lpap	V6Lpap	72.0	1913.0	0.0		v6lpapa,v6lpapp	2368.0
+v6lpa	V6Lpa	V6Lpa	709.0	1840.0	0.0		v6lpaa,v6lpap	1913.0
+v6lppa	V6Lppa	hyp7	72.0	1913.0	0.0	hypoderm
+v6lpppa	V6Lpppa	hyp7	455.0	2368.0	0.0	hypoderm
+v6lppppa	V6Lppppa	hyp7	576.0	2944.0	0.0	hypoderm
+v6lppppp	V6Lppppp	se	576.0	2944.0	0.0	hypoderm
+v6lpppp	V6Lpppp	V6Lpppp	455.0	2368.0	0.0		v6lppppa,v6lppppp	2944.0
+v6lppp	V6Lppp	V6Lppp	72.0	1913.0	0.0		v6lpppa,v6lpppp	2368.0
+v6lpp	V6Lpp	V6Lpp	709.0	1840.0	0.0		v6lppa,v6lppp	1913.0
+v6lp	V6Lp	V6Lp	885.0	1131.0	0.0		v6lpa,v6lpp	1840.0
+abarppappp	ABarppappp	V6L	51.0	246.0	0.0		v6la,v6lp	1131.0
+abarppapp	ABarppapp	ABarppapp	45.0	196.0	0.0		abarppappa,abarppappp	246.0
+abarppap	ABarppap	ABarppap	30.0	151.0	0.0		abarppapa,abarppapp	196.0
+abarppa	ABarppa	ABarppa	37.0	120.0	0.0		abarppaa,abarppap	151.0
+abarpppaaa	ABarpppaaa	ADEshR	48.0	251.0	0.0	sheath
+h2raa	H2Raa	ADEsoR	121.0	1368.0	0.0	socket
+h2rap	H2Rap	hyp7	121.0	1368.0	0.0	hypoderm
+h2ra	H2Ra	H2Ra	995.0	1246.0	0.0		h2raa,h2rap	1368.0
+h2rpa	H2Rpa	hyp7	546.0	1792.0	0.0	hypoderm
+h2rppa	H2Rppa	hyp7	546.0	2338.0	0.0	hypoderm
+h2rpppa	H2Rpppa	hyp7	546.0	2884.0	0.0	hypoderm
+h2rpppp	H2Rpppp	se	546.0	2884.0	0.0	hypoderm
+h2rppp	H2Rppp	H2Rppp	546.0	2338.0	0.0		h2rpppa,h2rpppp	2884.0
+h2rpp	H2Rpp	H2Rpp	546.0	1792.0	0.0		h2rppa,h2rppp	2338.0
+h2rp	H2Rp	H2Rp	995.0	1246.0	0.0		h2rpa,h2rpp	1792.0
+abarpppaap	ABarpppaap	H2R	48.0	251.0	0.0		h2ra,h2rp	1246.0
+abarpppaa	ABarpppaa	ABarpppaa	52.0	203.0	0.0		abarpppaaa,abarpppaap	251.0
+abarpppapa	ABarpppapa	hyp7	43.0	246.0	0.0	hypoderm
+abarpppappa	ABarpppappa	ALMR	207.0	453.0	0.0	neuron
+abarpppappp	ABarpppappp	BDUR	207.0	453.0	0.0	neuron
+abarpppapp	ABarpppapp	ABarpppapp	43.0	246.0	0.0		abarpppappa,abarpppappp	453.0
+abarpppap	ABarpppap	ABarpppap	52.0	203.0	0.0		abarpppapa,abarpppapp	246.0
+abarpppa	ABarpppa	ABarpppa	30.0	151.0	0.0		abarpppaa,abarpppap	203.0
+v1ra	V1Ra	hyp7	879.0	1126.0	0.0	hypoderm
+v1rpaa	V1Rpaa	hyp7	61.0	1853.0	0.0	hypoderm
+v1rpapa	V1Rpapa	hyp7	485.0	2338.0	0.0	hypoderm
+v1rpappa	V1Rpappa	hyp7	546.0	2884.0	0.0	hypoderm
+v1rpappp	V1Rpappp	se	546.0	2884.0	0.0	hypoderm
+v1rpapp	V1Rpapp	V1Rpapp	485.0	2338.0	0.0		v1rpappa,v1rpappp	2884.0
+v1rpap	V1Rpap	V1Rpap	61.0	1853.0	0.0		v1rpapa,v1rpapp	2338.0
+v1rpa	V1Rpa	V1Rpa	667.0	1793.0	0.0		v1rpaa,v1rpap	1853.0
+v1rppa	V1Rppa	hyp7	61.0	1853.0	0.0	hypoderm
+v1rpppa	V1Rpppa	hyp7	485.0	2338.0	0.0	hypoderm
+v1rppppa	V1Rppppa	hyp7	546.0	2884.0	0.0	hypoderm
+v1rppppp	V1Rppppp	se	546.0	2884.0	0.0	hypoderm
+v1rpppp	V1Rpppp	V1Rpppp	485.0	2338.0	0.0		v1rppppa,v1rppppp	2884.0
+v1rppp	V1Rppp	V1Rppp	61.0	1853.0	0.0		v1rpppa,v1rpppp	2338.0
+v1rpp	V1Rpp	V1Rpp	667.0	1793.0	0.0		v1rppa,v1rppp	1853.0
+v1rp	V1Rp	V1Rp	879.0	1126.0	0.0		v1rpa,v1rpp	1793.0
+abarppppaa	ABarppppaa	V1R	51.0	246.0	0.0		v1ra,v1rp	1126.0
+v2ra	V2Ra	hyp7	879.0	1126.0	0.0	hypoderm
+v2rpaa	V2Rpaa	hyp7	61.0	1853.0	0.0	hypoderm
+v2rpapa	V2Rpapa	hyp7	485.0	2338.0	0.0	hypoderm
+v2rpappa	V2Rpappa	hyp7	546.0	2884.0	0.0	hypoderm
+v2rpappp	V2Rpappp	se	546.0	2884.0	0.0	hypoderm
+v2rpapp	V2Rpapp	V2Rpapp	485.0	2338.0	0.0		v2rpappa,v2rpappp	2884.0
+v2rpap	V2Rpap	V2Rpap	61.0	1853.0	0.0		v2rpapa,v2rpapp	2338.0
+v2rpa	V2Rpa	V2Rpa	667.0	1793.0	0.0		v2rpaa,v2rpap	1853.0
+v2rppa	V2Rppa	hyp7	61.0	1853.0	0.0	hypoderm
+v2rpppa	V2Rpppa	hyp7	485.0	2338.0	0.0	hypoderm
+v2rppppa	V2Rppppa	hyp7	546.0	2884.0	0.0	hypoderm
+v2rppppp	V2Rppppp	se	546.0	2884.0	0.0	hypoderm
+v2rpppp	V2Rpppp	V2Rpppp	485.0	2338.0	0.0		v2rppppa,v2rppppp	2884.0
+v2rppp	V2Rppp	V2Rppp	61.0	1853.0	0.0		v2rpppa,v2rpppp	2338.0
+v2rpp	V2Rpp	V2Rpp	667.0	1793.0	0.0		v2rppa,v2rppp	1853.0
+v2rp	V2Rp	V2Rp	879.0	1126.0	0.0		v2rpa,v2rpp	1793.0
+abarppppap	ABarppppap	V2R	51.0	246.0	0.0		v2ra,v2rp	1126.0
+abarppppa	ABarppppa	ABarppppa	45.0	196.0	0.0		abarppppaa,abarppppap	246.0
+v4ra	V4Ra	hyp7	879.0	1126.0	0.0	hypoderm
+v4rpaa	V4Rpaa	hyp7	61.0	1853.0	0.0	hypoderm
+v4rpapa	V4Rpapa	hyp7	485.0	2338.0	0.0	hypoderm
+v4rpappa	V4Rpappa	hyp7	546.0	2884.0	0.0	hypoderm
+v4rpappp	V4Rpappp	se	546.0	2884.0	0.0	hypoderm
+v4rpapp	V4Rpapp	V4Rpapp	485.0	2338.0	0.0		v4rpappa,v4rpappp	2884.0
+v4rpap	V4Rpap	V4Rpap	61.0	1853.0	0.0		v4rpapa,v4rpapp	2338.0
+v4rpa	V4Rpa	V4Rpa	667.0	1793.0	0.0		v4rpaa,v4rpap	1853.0
+v4rppa	V4Rppa	hyp7	61.0	1853.0	0.0	hypoderm
+v4rpppa	V4Rpppa	hyp7	485.0	2338.0	0.0	hypoderm
+v4rppppa	V4Rppppa	hyp7	546.0	2884.0	0.0	hypoderm
+v4rppppp	V4Rppppp	se	546.0	2884.0	0.0	hypoderm
+v4rpppp	V4Rpppp	V4Rpppp	485.0	2338.0	0.0		v4rppppa,v4rppppp	2884.0
+v4rppp	V4Rppp	V4Rppp	61.0	1853.0	0.0		v4rpppa,v4rpppp	2338.0
+v4rpp	V4Rpp	V4Rpp	667.0	1793.0	0.0		v4rppa,v4rppp	1853.0
+v4rp	V4Rp	V4Rp	879.0	1126.0	0.0		v4rpa,v4rpp	1793.0
+abarpppppa	ABarpppppa	V4R	51.0	246.0	0.0		v4ra,v4rp	1126.0
+v6ra	V6Ra	hyp7	885.0	1131.0	0.0	hypoderm
+v6rpaa	V6Rpaa	hyp7	72.0	1913.0	0.0	hypoderm
+v6rpapa	V6Rpapa	hyp7	455.0	2368.0	0.0	hypoderm
+v6rpappa	V6Rpappa	hyp7	576.0	2944.0	0.0	hypoderm
+v6rpappp	V6Rpappp	se	576.0	2944.0	0.0	hypoderm
+v6rpapp	V6Rpapp	V6Rpapp	455.0	2368.0	0.0		v6rpappa,v6rpappp	2944.0
+v6rpap	V6Rpap	V6Rpap	72.0	1913.0	0.0		v6rpapa,v6rpapp	2368.0
+v6rpa	V6Rpa	V6Rpa	709.0	1840.0	0.0		v6rpaa,v6rpap	1913.0
+v6rppa	V6Rppa	hyp7	72.0	1913.0	0.0	hypoderm
+v6rpppa	V6Rpppa	hyp7	455.0	2368.0	0.0	hypoderm
+v6rppppa	V6Rppppa	hyp7	576.0	2944.0	0.0	hypoderm
+v6rppppp	V6Rppppp	se	576.0	2944.0	0.0	hypoderm
+v6rpppp	V6Rpppp	V6Rpppp	455.0	2368.0	0.0		v6rppppa,v6rppppp	2944.0
+v6rppp	V6Rppp	V6Rppp	72.0	1913.0	0.0		v6rpppa,v6rpppp	2368.0
+v6rpp	V6Rpp	V6Rpp	709.0	1840.0	0.0		v6rppa,v6rppp	1913.0
+v6rp	V6Rp	V6Rp	885.0	1131.0	0.0		v6rpa,v6rpp	1840.0
+abarpppppp	ABarpppppp	V6R	51.0	246.0	0.0		v6ra,v6rp	1131.0
+abarppppp	ABarppppp	ABarppppp	45.0	196.0	0.0		abarpppppa,abarpppppp	246.0
+abarpppp	ABarpppp	ABarpppp	30.0	151.0	0.0		abarppppa,abarppppp	196.0
+abarppp	ABarppp	ABarppp	37.0	120.0	0.0		abarpppa,abarpppp	151.0
+abarpp	ABarpp	ABarpp	18.0	83.0	0.0		abarppa,abarppp	120.0
+abarp	ABarp	ABarp	15.0	65.0	0.0		abarpa,abarpp	83.0
+abar	ABar	ABar	18.0	50.0	0.0		abara,abarp	65.0
+aba	ABa	ABa	17.0	32.0	0.0		abal,abar	50.0
+abplaaaaaaa	ABplaaaaaaa	URADL	86.0	337.0	0.0	neuron
+abplaaaaaap	ABplaaaaaap	CEMDL	86.0	337.0	156.0	neuron
+abplaaaaaa	ABplaaaaaa	ABplaaaaaa	65.0	251.0	0.0		abplaaaaaaa,abplaaaaaap	337.0
+abplaaaaapa	ABplaaaaapa	ABplaaaaapa	61.0	312.0	35.0	
+abplaaaaappa	ABplaaaaappa	CEPDL	86.0	397.0	0.0	neuron
+abplaaaaappp	ABplaaaaappp	URXL	86.0	397.0	0.0	neuron
+abplaaaaapp	ABplaaaaapp	ABplaaaaapp	61.0	312.0	0.0		abplaaaaappa,abplaaaaappp	397.0
+abplaaaaap	ABplaaaaap	ABplaaaaap	65.0	251.0	0.0		abplaaaaapa,abplaaaaapp	312.0
+abplaaaaa	ABplaaaaa	ABplaaaaa	35.0	186.0	0.0		abplaaaaaa,abplaaaaap	251.0
+abplaaaapa	ABplaaaapa	hyp6	61.0	246.0	0.0	hypoderm
+abplaaaapp	ABplaaaapp	hyp6	61.0	246.0	0.0	hypoderm
+abplaaaap	ABplaaaap	ABplaaaap	35.0	186.0	0.0		abplaaaapa,abplaaaapp	246.0
+abplaaaa	ABplaaaa	ABplaaaa	30.0	151.0	0.0		abplaaaaa,abplaaaap	186.0
+abplaaapaa	ABplaaapaa	XXXL	71.0	256.0	0.0	hypoderm
+abplaaapap	ABplaaapap	hyp5	71.0	256.0	0.0	hypoderm
+abplaaapa	ABplaaapa	ABplaaapa	35.0	186.0	0.0		abplaaapaa,abplaaapap	256.0
+abplaaappa	ABplaaappa	H0L	55.0	241.0	0.0	hypoderm
+h1laa	H1Laa	se	527.0	1804.0	0.0	hypoderm
+h1lapa	H1Lapa	hyp7	594.0	2398.0	0.0	hypoderm
+h1lappa	H1Lappa	hyp7	576.0	2974.0	0.0	hypoderm
+h1lappp	H1Lappp	se	576.0	2974.0	0.0	hypoderm
+h1lapp	H1Lapp	H1Lapp	594.0	2398.0	0.0		h1lappa,h1lappp	2974.0
+h1lap	H1Lap	H1Lap	527.0	1804.0	0.0		h1lapa,h1lapp	2398.0
+h1la	H1La	H1La	1036.0	1277.0	0.0		h1laa,h1lap	1804.0
+h1lp	H1Lp	hyp7	1036.0	1277.0	0.0	hypoderm
+abplaaappp	ABplaaappp	H1L	55.0	241.0	0.0		h1la,h1lp	1277.0
+abplaaapp	ABplaaapp	ABplaaapp	35.0	186.0	0.0		abplaaappa,abplaaappp	241.0
+abplaaap	ABplaaap	ABplaaap	30.0	151.0	0.0		abplaaapa,abplaaapp	186.0
+abplaaa	ABplaaa	ABplaaa	30.0	120.0	0.0		abplaaaa,abplaaap	151.0
+abplaapaaaa	ABplaapaaaa	hyp3	81.0	327.0	0.0	hypoderm
+abplaapaaap	ABplaapaaap	ILsoDL	81.0	327.0	0.0	socket
+abplaapaaa	ABplaapaaa	ABplaapaaa	61.0	246.0	0.0		abplaapaaaa,abplaapaaap	327.0
+abplaapaapa	ABplaapaapa	URBL	61.0	307.0	0.0	neuron
+abplaapaapp	ABplaapaapp	AMshL	61.0	307.0	0.0	sheath
+abplaapaap	ABplaapaap	ABplaapaap	61.0	246.0	0.0		abplaapaapa,abplaapaapp	307.0
+abplaapaa	ABplaapaa	ABplaapaa	35.0	186.0	0.0		abplaapaaa,abplaapaap	246.0
+abplaapapaa	ABplaapapaa	AWAL	81.0	327.0	0.0	neuron
+abplaapapap	ABplaapapap	ASGL	81.0	327.0	0.0	neuron
+abplaapapa	ABplaapapa	ABplaapapa	61.0	246.0	0.0		abplaapapaa,abplaapapap	327.0
+abplaapappa	ABplaapappa	AIBL	55.0	302.0	0.0	neuron
+abplaapapppa	ABplaapapppa	ASIL	116.0	418.0	0.0	neuron
+abplaapapppp	ABplaapapppp	ABplaapapppp	116.0	418.0	20.0	
+abplaapappp	ABplaapappp	ABplaapappp	55.0	302.0	0.0		abplaapapppa,abplaapapppp	418.0
+abplaapapp	ABplaapapp	ABplaapapp	61.0	246.0	0.0		abplaapappa,abplaapappp	302.0
+abplaapap	ABplaapap	ABplaapap	35.0	186.0	0.0		abplaapapa,abplaapapp	246.0
+abplaapa	ABplaapa	ABplaapa	30.0	151.0	0.0		abplaapaa,abplaapap	186.0
+abplaappaa	ABplaappaa	hyp4	61.0	246.0	0.0	hypoderm
+abplaappap	ABplaappap	hyp6	61.0	246.0	0.0	hypoderm
+abplaappa	ABplaappa	ABplaappa	35.0	186.0	0.0		abplaappaa,abplaappap	246.0
+abplaapppa	ABplaapppa	hyp7	45.0	231.0	0.0	hypoderm
+abplaapppp	ABplaapppp	hyp7	45.0	231.0	0.0	hypoderm
+abplaappp	ABplaappp	ABplaappp	35.0	186.0	0.0		abplaapppa,abplaapppp	231.0
+abplaapp	ABplaapp	ABplaapp	30.0	151.0	0.0		abplaappa,abplaappp	186.0
+abplaap	ABplaap	ABplaap	30.0	120.0	0.0		abplaapa,abplaapp	151.0
+abplaa	ABplaa	ABplaa	25.0	90.0	0.0		abplaaa,abplaap	120.0
+abplapaaaaa	ABplapaaaaa	ABplapaaaaa	88.0	324.0	33.0	
+abplapaaaapa	ABplapaaaapa	ADEL	119.0	443.0	0.0	neuron
+abplapaaaapp	ABplapaaaapp	ADAL	119.0	443.0	0.0	neuron
+abplapaaaap	ABplapaaaap	ABplapaaaap	88.0	324.0	0.0		abplapaaaapa,abplapaaaapp	443.0
+abplapaaaa	ABplapaaaa	ABplapaaaa	45.0	236.0	0.0		abplapaaaaa,abplapaaaap	324.0
+abplapaaapad	ABplapaaapad	FLPL	120.0	443.0	0.0	neuron
+abplapaaapav	ABplapaaapav	AIZL	120.0	443.0	0.0	neuron
+abplapaaapa	ABplapaaapa	ABplapaaapa	87.0	323.0	0.0		abplapaaapad,abplapaaapav	443.0
+abplapaaapp	ABplapaaapp	RMGL	87.0	323.0	0.0	neuron
+abplapaaap	ABplapaaap	ABplapaaap	45.0	236.0	0.0		abplapaaapa,abplapaaapp	323.0
+abplapaaa	ABplapaaa	ABplapaaa	40.0	191.0	0.0		abplapaaaa,abplapaaap	236.0
+g2al	G2al	RMFL	303.0	2278.0	0.0	neuron
+g2ar	G2ar	RMFR	303.0	2278.0	0.0	neuron
+g2a	G2a	G2a	1733.0	1974.0	0.0		g2al,g2ar	2278.0
+g2p	G2p	exc socket	1733.0	1974.0	0.0	excretory
+abplapaapa	ABplapaapa	G2	51.0	241.0	0.0		g2a,g2p	1974.0
+abplapaappaaaa	ABplapaappaaaa	AVFL	121.0	1611.0	0.0	neuron
+abplapaappaaap	ABplapaappaaap	VB1	121.0	1611.0	0.0	neuron
+abplapaappaaa	ABplapaappaaa	P1aaa	91.0	1489.0	0.0		abplapaappaaaa,abplapaappaaap	1611.0
+abplapaappaap	ABplapaappaap	P1aap	91.0	1489.0	61.0	
+abplapaappaa	ABplapaappaa	P1aa	91.0	1398.0	0.0		abplapaappaaa,abplapaappaap	1489.0
+abplapaappapa	ABplapaappapa	AS1	121.0	1520.0	0.0	neuron
+abplapaappapp	ABplapaappapp	VD2	121.0	1520.0	0.0	neuron
+abplapaappap	ABplapaappap	P1ap	91.0	1398.0	0.0		abplapaappapa,abplapaappapp	1520.0
+abplapaappa	ABplapaappa	P1a	1066.0	1307.0	0.0		abplapaappaa,abplapaappap	1398.0
+abplapaappp	ABplapaappp	hyp7	1066.0	1307.0	0.0	hypoderm
+abplapaapp	ABplapaapp	P1	51.0	241.0	0.0		abplapaappa,abplapaappp	1307.0
+abplapaap	ABplapaap	ABplapaap	40.0	191.0	0.0		abplapaapa,abplapaapp	241.0
+abplapaa	ABplapaa	ABplapaa	30.0	151.0	0.0		abplapaaa,abplapaap	191.0
+qlaa	QLaa	QLaa	182.0	1186.0	121.0	
+qlap	QLap	PQR	182.0	1186.0	0.0	neuron
+qla	QLa	QLa	247.0	1004.0	0.0		qlaa,qlap	1186.0
+qlpaa	QLpaa	PVM	121.0	1307.0	0.0	neuron
+qlpap	QLpap	SDQL	121.0	1307.0	0.0	neuron
+qlpa	QLpa	QLpa	182.0	1186.0	0.0		qlpaa,qlpap	1307.0
+qlpp	QLpp	QLpp	182.0	1186.0	182.0	
+qlp	QLp	QLp	247.0	1004.0	0.0		qlpa,qlpp	1186.0
+abplapapaaa	ABplapapaaa	QL	526.0	756.0	0.0		qla,qlp	1004.0
+v5la	V5La	hyp7	369.0	1125.0	0.0	hypoderm
+v5lpaaa	V5Lpaaa	PDEL	61.0	1913.0	0.0	neuron
+v5lpaapa	V5Lpaapa	PVDL	61.0	1974.0	0.0	neuron
+v5lpaapp	V5Lpaapp	V5Lpaapp	61.0	1974.0	152.0	
+v5lpaap	V5Lpaap	V5Lpaap	61.0	1913.0	0.0		v5lpaapa,v5lpaapp	1974.0
+v5lpaa	V5Lpaa	V5Lpaa	61.0	1853.0	0.0		v5lpaaa,v5lpaap	1913.0
+v5lpapa	V5Lpapa	PDEsoL	66.0	1919.0	0.0	socket
+v5lpapp	V5Lpapp	PDEshL	66.0	1919.0	0.0	sheath
+v5lpap	V5Lpap	V5Lpap	61.0	1853.0	0.0		v5lpapa,v5lpapp	1919.0
+v5lpa	V5Lpa	V5Lpa	667.0	1792.0	0.0		v5lpaa,v5lpap	1853.0
+v5lppa	V5Lppa	hyp7	61.0	1853.0	0.0	hypoderm
+v5lpppa	V5Lpppa	hyp7	485.0	2338.0	0.0	hypoderm
+v5lppppa	V5Lppppa	hyp7	546.0	2884.0	0.0	hypoderm
+v5lppppp	V5Lppppp	se	546.0	2884.0	0.0	hypoderm
+v5lpppp	V5Lpppp	V5Lpppp	485.0	2338.0	0.0		v5lppppa,v5lppppp	2884.0
+v5lppp	V5Lppp	V5Lppp	61.0	1853.0	0.0		v5lpppa,v5lpppp	2338.0
+v5lpp	V5Lpp	V5Lpp	667.0	1792.0	0.0		v5lppa,v5lppp	1853.0
+v5lp	V5Lp	V5Lp	369.0	1125.0	0.0		v5lpa,v5lpp	1792.0
+abplapapaap	ABplapapaap	V5L	526.0	756.0	0.0	hypoderm	v5la,v5lp	1125.0
+abplapapaa	ABplapapaa	ABplapapaa	45.0	231.0	0.0		abplapapaaa,abplapapaap	756.0
+p9aaaa	P9aaaa	VA9	91.0	1671.0	0.0	neuron
+p9aaap	P9aaap	VB10	91.0	1671.0	0.0	neuron
+p9aaa	P9aaa	P9aaa	61.0	1580.0	0.0		p9aaaa,p9aaap	1671.0
+p9aap	P9aap	P9aap	61.0	1580.0	30.0	
+p9aa	P9aa	P9aa	121.0	1519.0	0.0		p9aaa,p9aap	1580.0
+p9apa	P9apa	AS9	61.0	1580.0	0.0	neuron
+p9app	P9app	VD10	61.0	1580.0	0.0	neuron
+p9ap	P9ap	P9ap	121.0	1519.0	0.0		p9apa,p9app	1580.0
+p9a	P9a	P9a	1167.0	1398.0	0.0		p9aa,p9ap	1519.0
+p9p	P9p	hyp7	1167.0	1398.0	0.0	hypoderm
+abplapapap	ABplapapap	P9	45.0	231.0	0.0		p9a,p9p	1398.0
+abplapapa	ABplapapa	ABplapapa	35.0	186.0	0.0		abplapapaa,abplapapap	231.0
+p11aaaa	P11aaaa	VA11	152.0	1762.0	0.0	neuron
+p11aaap	P11aaap	P11aaap	152.0	1762.0	61.0	
+p11aaa	P11aaa	P11aaa	61.0	1610.0	0.0		p11aaaa,p11aaap	1762.0
+p11aap	P11aap	P11aap	61.0	1610.0	30.0	
+p11aa	P11aa	P11aa	91.0	1549.0	0.0		p11aaa,p11aap	1610.0
+p11apa	P11apa	AS11	61.0	1610.0	0.0	neuron
+p11app	P11app	VD12	61.0	1610.0	0.0	neuron
+p11ap	P11ap	P11ap	91.0	1549.0	0.0		p11apa,p11app	1610.0
+p11a	P11a	P11a	1228.0	1459.0	0.0		p11aa,p11ap	1549.0
+p11p	P11p	hyp7	1228.0	1459.0	0.0	hypoderm
+abplapappa	ABplapappa	P11	45.0	231.0	0.0		p11a,p11p	1459.0
+abplapapppa	ABplapapppa	ABplapapppa	91.0	322.0	15.0	
+abplapappppaa	ABplapappppaa	PLML	86.0	503.0	0.0	neuron
+abplapappppap	ABplapappppap	ALNL	86.0	503.0	0.0	neuron
+abplapappppa	ABplapappppa	ABplapappppa	96.0	418.0	0.0		abplapappppaa,abplapappppap	503.0
+abplapappppp	ABplapappppp	ABplapappppp	96.0	418.0	20.0	
+abplapapppp	ABplapapppp	ABplapapppp	91.0	322.0	0.0		abplapappppa,abplapappppp	418.0
+abplapappp	ABplapappp	ABplapappp	45.0	231.0	0.0		abplapapppa,abplapapppp	322.0
+abplapapp	ABplapapp	ABplapapp	35.0	186.0	0.0		abplapappa,abplapappp	231.0
+abplapap	ABplapap	ABplapap	30.0	151.0	0.0		abplapapa,abplapapp	186.0
+abplapa	ABplapa	ABplapa	30.0	120.0	0.0		abplapaa,abplapap	151.0
+abplappaaaaaaa	ABplappaaaaaaa	VA3	91.0	1640.0	0.0	neuron
+abplappaaaaaap	ABplappaaaaaap	VB4	91.0	1640.0	0.0	neuron
+abplappaaaaaa	ABplappaaaaaa	P3aaa	91.0	1549.0	0.0		abplappaaaaaaa,abplappaaaaaap	1640.0
+abplappaaaaap	ABplappaaaaap	VC1	91.0	1549.0	0.0	neuron
+abplappaaaaa	ABplappaaaaa	P3aa	85.0	1458.0	0.0		abplappaaaaaa,abplappaaaaap	1549.0
+abplappaaaapa	ABplappaaaapa	AS3	91.0	1549.0	0.0	neuron
+abplappaaaapp	ABplappaaaapp	VD4	91.0	1549.0	0.0	neuron
+abplappaaaap	ABplappaaaap	P3ap	85.0	1458.0	0.0		abplappaaaapa,abplappaaaapp	1549.0
+abplappaaaa	ABplappaaaa	P3a	1143.0	1373.0	0.0		abplappaaaaa,abplappaaaap	1458.0
+abplappaaapa	ABplappaaapa	hyp7	1206.0	2580.0	0.0	hypoderm
+abplappaaapp	ABplappaaapp	hyp7	1206.0	2580.0	0.0	hypoderm
+abplappaaap	ABplappaaap	P3p	1143.0	1373.0	0.0		abplappaaapa,abplappaaapp	2580.0
+abplappaaa	ABplappaaa	P3	45.0	231.0	0.0		abplappaaaa,abplappaaap	1373.0
+p5aaaa	P5aaaa	VA5	91.0	1640.0	0.0	neuron
+p5aaap	P5aaap	VB6	91.0	1640.0	0.0	neuron
+p5aaa	P5aaa	P5aaa	91.0	1549.0	0.0		p5aaaa,p5aaap	1640.0
+p5aap	P5aap	VC3	91.0	1549.0	0.0	neuron
+p5aa	P5aa	P5aa	91.0	1459.0	0.0		p5aaa,p5aap	1549.0
+p5apa	P5apa	AS5	91.0	1549.0	0.0	neuron
+p5app	P5app	VD6	91.0	1549.0	0.0	neuron
+p5ap	P5ap	P5ap	91.0	1459.0	0.0		p5apa,p5app	1549.0
+p5a	P5a	P5a	1137.0	1368.0	0.0		p5aa,p5ap	1459.0
+p5paaa	P5paaa	vulA	61.0	2762.0	0.0	repro
+p5paap	P5paap	vulA	61.0	2762.0	0.0	repro
+p5paa	P5paa	P5paa	121.0	2702.0	0.0		p5paaa,p5paap	2762.0
+p5papa	P5papa	vulB	61.0	2762.0	0.0	repro
+p5papp	P5papp	vulB	61.0	2762.0	0.0	repro
+p5pap	P5pap	P5pap	121.0	2702.0	0.0		p5papa,p5papp	2762.0
+p5pa	P5pa	P5pa	1213.0	2580.0	0.0		p5paa,p5pap	2702.0
+p5ppal	P5ppal	vulC	121.0	2823.0	0.0	repro
+p5ppar	P5ppar	vulC	121.0	2823.0	0.0	repro
+p5ppa	P5ppa	P5ppa	121.0	2702.0	0.0		p5ppal,p5ppar	2823.0
+p5ppp	P5ppp	vulD	121.0	2702.0	0.0	repro
+p5pp	P5pp	P5pp	1213.0	2580.0	0.0		p5ppa,p5ppp	2702.0
+p5p	P5p	P5p	1137.0	1368.0	0.0		p5pa,p5pp	2580.0
+abplappaap	ABplappaap	P5	45.0	231.0	0.0		p5a,p5p	1368.0
+abplappaa	ABplappaa	ABplappaa	35.0	186.0	0.0		abplappaaa,abplappaap	231.0
+v3la	V3La	hyp7	894.0	1125.0	0.0	hypoderm
+v3lpaa	V3Lpaa	hyp7	61.0	1853.0	0.0	hypoderm
+v3lpapa	V3Lpapa	hyp7	485.0	2338.0	0.0	hypoderm
+v3lpappa	V3Lpappa	hyp7	546.0	2884.0	0.0	hypoderm
+v3lpappp	V3Lpappp	se	546.0	2884.0	0.0	hypoderm
+v3lpapp	V3Lpapp	V3Lpapp	485.0	2338.0	0.0		v3lpappa,v3lpappp	2884.0
+v3lpap	V3Lpap	V3Lpap	61.0	1853.0	0.0		v3lpapa,v3lpapp	2338.0
+v3lpa	V3Lpa	V3Lpa	667.0	1792.0	0.0		v3lpaa,v3lpap	1853.0
+v3lppa	V3Lppa	hyp7	61.0	1853.0	0.0	hypoderm
+v3lpppa	V3Lpppa	hyp7	485.0	2338.0	0.0	hypoderm
+v3lppppa	V3Lppppa	hyp7	546.0	2884.0	0.0	hypoderm
+v3lppppp	V3Lppppp	se	546.0	2884.0	0.0	hypoderm
+v3lpppp	V3Lpppp	V3Lpppp	485.0	2338.0	0.0		v3lppppa,v3lppppp	2884.0
+v3lppp	V3Lppp	V3Lppp	61.0	1853.0	0.0		v3lpppa,v3lpppp	2338.0
+v3lpp	V3Lpp	V3Lpp	667.0	1792.0	0.0		v3lppa,v3lppp	1853.0
+v3lp	V3Lp	V3Lp	894.0	1125.0	0.0		v3lpa,v3lpp	1792.0
+abplappapa	ABplappapa	V3L	45.0	231.0	0.0		v3la,v3lp	1125.0
+p7aaaa	P7aaaa	VA7	91.0	1671.0	0.0	neuron
+p7aaap	P7aaap	VB8	91.0	1671.0	0.0	neuron
+p7aaa	P7aaa	P7aaa	61.0	1580.0	0.0		p7aaaa,p7aaap	1671.0
+p7aap	P7aap	VC5	61.0	1580.0	0.0	neuron
+p7aa	P7aa	P7aa	121.0	1519.0	0.0		p7aaa,p7aap	1580.0
+p7apa	P7apa	AS7	61.0	1580.0	0.0	neuron
+p7app	P7app	VD8	61.0	1580.0	0.0	neuron
+p7ap	P7ap	P7ap	121.0	1519.0	0.0		p7apa,p7app	1580.0
+p7a	P7a	P7a	1167.0	1398.0	0.0		p7aa,p7ap	1519.0
+p7paa	P7paa	vulD	121.0	2702.0	0.0	repro
+p7papl	P7papl	vulC	121.0	2823.0	0.0	repro
+p7papr	P7papr	vulC	121.0	2823.0	0.0	repro
+p7pap	P7pap	P7pap	121.0	2702.0	0.0		p7papl,p7papr	2823.0
+p7pa	P7pa	P7pa	1182.0	2580.0	0.0		p7paa,p7pap	2702.0
+p7ppaa	P7ppaa	vulB	61.0	2762.0	0.0	repro
+p7ppap	P7ppap	vulB	61.0	2762.0	0.0	repro
+p7ppa	P7ppa	P7ppa	121.0	2702.0	0.0		p7ppaa,p7ppap	2762.0
+p7pppa	P7pppa	vulA	61.0	2762.0	0.0	repro
+p7pppp	P7pppp	vulA	61.0	2762.0	0.0	repro
+p7ppp	P7ppp	P7ppp	121.0	2702.0	0.0		p7pppa,p7pppp	2762.0
+p7pp	P7pp	P7pp	1182.0	2580.0	0.0		p7ppa,p7ppp	2702.0
+p7p	P7p	P7p	1167.0	1398.0	0.0		p7pa,p7pp	2580.0
+abplappapp	ABplappapp	P7	45.0	231.0	0.0		p7a,p7p	1398.0
+abplappap	ABplappap	ABplappap	35.0	186.0	0.0		abplappapa,abplappapp	231.0
+abplappa	ABplappa	ABplappa	30.0	151.0	0.0		abplappaa,abplappap	186.0
+abplapppaaa	ABplapppaaa	PVQL	81.0	327.0	0.0	neuron
+abplapppaap	ABplapppaap	ABplapppaap	81.0	327.0	20.0	
+abplapppaa	ABplapppaa	ABplapppaa	55.0	246.0	0.0		abplapppaaa,abplapppaap	327.0
+abplapppapa	ABplapppapa	ABplapppapa	55.0	302.0	22.0	
+abplapppappa	ABplapppappa	HSNL	121.0	423.0	0.0	neuron
+abplapppappp	ABplapppappp	PHBL	121.0	423.0	0.0	neuron
+abplapppapp	ABplapppapp	ABplapppapp	55.0	302.0	0.0		abplapppappa,abplapppappp	423.0
+abplapppap	ABplapppap	ABplapppap	55.0	246.0	0.0		abplapppapa,abplapppapp	302.0
+abplapppa	ABplapppa	ABplapppa	40.0	191.0	0.0		abplapppaa,abplapppap	246.0
+abplappppa	ABplappppa	hyp7	55.0	246.0	0.0	hypoderm
+tlaa	TLaa	hyp7	109.0	1246.0	0.0	hypoderm
+tlapaa	TLapaa	hyp7	170.0	2034.0	0.0	hypoderm
+tlapap	TLapap	hyp7	170.0	2034.0	0.0	hypoderm
+tlapa	TLapa	TLapa	618.0	1864.0	0.0		tlapaa,tlapap	2034.0
+tlappa	TLappa	se	170.0	2034.0	0.0	hypoderm
+tlappp	TLappp	PVNL	170.0	2034.0	0.0	neuron
+tlapp	TLapp	TLapp	618.0	1864.0	0.0		tlappa,tlappp	2034.0
+tlap	TLap	TLap	109.0	1246.0	0.0		tlapa,tlapp	1864.0
+tla	TLa	TLa	891.0	1137.0	0.0		tlaa,tlap	1246.0
+tlpaa	TLpaa	PHso1L	121.0	1373.0	0.0	socket
+tlpap	TLpap	PHso2L	121.0	1373.0	0.0	socket
+tlpa	TLpa	TLpa	115.0	1252.0	0.0		tlpaa,tlpap	1373.0
+tlppa	TLppa	PVWL	115.0	1367.0	0.0	neuron
+tlpppaa	TLpppaa	PHCL	61.0	1549.0	0.0	neuron
+tlpppap	TLpppap	PLNL	61.0	1549.0	0.0	neuron
+tlpppa	TLpppa	TLpppa	121.0	1488.0	0.0		tlpppaa,tlpppap	1549.0
+tlpppp	TLpppp	TLpppp	121.0	1488.0	61.0	
+tlppp	TLppp	TLppp	115.0	1367.0	0.0		tlpppa,tlpppp	1488.0
+tlpp	TLpp	TLpp	115.0	1252.0	0.0		tlppa,tlppp	1367.0
+tlp	TLp	TLp	891.0	1137.0	0.0		tlpa,tlpp	1252.0
+abplappppp	ABplappppp	TL	55.0	246.0	0.0		tla,tlp	1137.0
+abplapppp	ABplapppp	ABplapppp	40.0	191.0	0.0		abplappppa,abplappppp	246.0
+abplappp	ABplappp	ABplappp	30.0	151.0	0.0		abplapppa,abplapppp	191.0
+abplapp	ABplapp	ABplapp	30.0	120.0	0.0		abplappa,abplappp	151.0
+abplap	ABplap	ABplap	25.0	90.0	0.0		abplapa,abplapp	120.0
+abpla	ABpla	ABpla	15.0	65.0	0.0		abplaa,abplap	90.0
+abplpaaaaaa	ABplpaaaaaa	SAAVL	71.0	312.0	0.0	neuron
+abplpaaaaap	ABplpaaaaap	AWCL	71.0	312.0	0.0	neuron
+abplpaaaaa	ABplpaaaaa	ABplpaaaaa	45.0	241.0	0.0		abplpaaaaaa,abplpaaaaap	312.0
+abplpaaaapa	ABplpaaaapa	exc duct	65.0	306.0	0.0	excretory
+abplpaaaapp	ABplpaaaapp	DB1	65.0	306.0	0.0	neuron
+abplpaaaap	ABplpaaaap	ABplpaaaap	45.0	241.0	0.0		abplpaaaapa,abplpaaaapp	306.0
+abplpaaaa	ABplpaaaa	ABplpaaaa	45.0	196.0	0.0		abplpaaaaa,abplpaaaap	241.0
+abplpaaapaa	ABplpaaapaa	URAVL	81.0	322.0	0.0	neuron
+abplpaaapap	ABplpaaapap	CEPshVL	81.0	322.0	0.0	sheath
+abplpaaapa	ABplpaaapa	ABplpaaapa	45.0	241.0	0.0		abplpaaapaa,abplpaaapap	322.0
+abplpaaappaa	ABplpaaappaa	OLQVL	121.0	433.0	0.0	neuron
+abplpaaappap	ABplpaaappap	ABplpaaappap	121.0	433.0	35.0	
+abplpaaappa	ABplpaaappa	ABplpaaappa	71.0	312.0	0.0		abplpaaappaa,abplpaaappap	433.0
+abplpaaappp	ABplpaaappp	URYVL	71.0	312.0	0.0	neuron
+abplpaaapp	ABplpaaapp	ABplpaaapp	45.0	241.0	0.0		abplpaaappa,abplpaaappp	312.0
+abplpaaap	ABplpaaap	ABplpaaap	45.0	196.0	0.0		abplpaaapa,abplpaaapp	241.0
+abplpaaa	ABplpaaa	ABplpaaa	30.0	151.0	0.0		abplpaaaa,abplpaaap	196.0
+abplpaapaaa	ABplpaapaaa	RIVL	79.0	322.0	0.0	neuron
+abplpaapaap	ABplpaapaap	AVBL	79.0	322.0	0.0	neuron
+abplpaapaa	ABplpaapaa	ABplpaapaa	52.0	243.0	0.0		abplpaapaaa,abplpaapaap	322.0
+abplpaapapa	ABplpaapapa	AMsoL	84.0	327.0	0.0	socket
+abplpaapapp	ABplpaapapp	CEMVL	84.0	327.0	154.0	neuron
+abplpaapap	ABplpaapap	ABplpaapap	52.0	243.0	0.0		abplpaapapa,abplpaapapp	327.0
+abplpaapa	ABplpaapa	ABplpaapa	40.0	191.0	0.0		abplpaapaa,abplpaapap	243.0
+abplpaappaa	ABplpaappaa	ASHL	81.0	312.0	0.0	neuron
+abplpaappap	ABplpaappap	RIBL	81.0	312.0	0.0	neuron
+abplpaappa	ABplpaappa	ABplpaappa	40.0	231.0	0.0		abplpaappaa,abplpaappap	312.0
+abplpaapppa	ABplpaapppa	AIML	65.0	297.0	0.0	neuron
+abplpaappppa	ABplpaappppa	CEPVL	121.0	418.0	0.0	neuron
+abplpaappppp	ABplpaappppp	ABplpaappppp	121.0	418.0	25.0	
+abplpaapppp	ABplpaapppp	ABplpaapppp	65.0	297.0	0.0		abplpaappppa,abplpaappppp	418.0
+abplpaappp	ABplpaappp	ABplpaappp	40.0	231.0	0.0		abplpaapppa,abplpaapppp	297.0
+abplpaapp	ABplpaapp	ABplpaapp	40.0	191.0	0.0		abplpaappa,abplpaappp	231.0
+abplpaap	ABplpaap	ABplpaap	30.0	151.0	0.0		abplpaapa,abplpaapp	191.0
+abplpaa	ABplpaa	ABplpaa	38.0	120.0	0.0		abplpaaa,abplpaap	151.0
+abplpapaaaa	ABplpapaaaa	SMDDL	89.0	322.0	0.0	neuron
+abplpapaaap	ABplpapaaap	AIYL	89.0	322.0	0.0	neuron
+abplpapaaa	ABplpapaaa	ABplpapaaa	47.0	233.0	0.0		abplpapaaaa,abplpapaaap	322.0
+abplpapaapa	ABplpapaapa	SIADL	84.0	316.0	0.0	neuron
+abplpapaapp	ABplpapaapp	SIBVL	84.0	316.0	0.0	neuron
+abplpapaap	ABplpapaap	ABplpapaap	47.0	233.0	0.0		abplpapaapa,abplpapaapp	316.0
+abplpapaa	ABplpapaa	ABplpapaa	35.0	186.0	0.0		abplpapaaa,abplpapaap	233.0
+abplpapapaa	ABplpapapaa	exc gl L	76.0	306.0	0.0	excretory
+abplpapapap	ABplpapapap	AVKL	76.0	306.0	0.0	neuron
+abplpapapa	ABplpapapa	ABplpapapa	45.0	231.0	0.0		abplpapapaa,abplpapapap	306.0
+abplpapappa	ABplpapappa	SIAVL	81.0	312.0	0.0	neuron
+abplpapappp	ABplpapappp	DB5	81.0	312.0	0.0	neuron
+abplpapapp	ABplpapapp	ABplpapapp	45.0	231.0	0.0		abplpapappa,abplpapappp	312.0
+abplpapap	ABplpapap	ABplpapap	35.0	186.0	0.0		abplpapapa,abplpapapp	231.0
+abplpapa	ABplpapa	ABplpapa	30.0	151.0	0.0		abplpapaa,abplpapap	186.0
+abplpappaaa	ABplpappaaa	RMEV	55.0	281.0	0.0	neuron
+abplpappaap	ABplpappaap	exc cell	55.0	281.0	0.0	excretory
+abplpappaa	ABplpappaa	ABplpappaa	40.0	226.0	0.0		abplpappaaa,abplpappaap	281.0
+abplpappap	ABplpappap	ABplpappap	40.0	226.0	40.0	
+abplpappa	ABplpappa	ABplpappa	35.0	186.0	0.0		abplpappaa,abplpappap	226.0
+ka	Ka	rect hyp	1253.0	1550.0	0.0	hypoderm
+kp	Kp	DVB	1253.0	1550.0	0.0	neuron
+abplpapppaa	ABplpapppaa	K	61.0	297.0	0.0	rectal	ka,kp	1550.0
+abplpapppap	ABplpapppap	rect hyp	61.0	297.0	0.0	hypoderm
+abplpapppa	ABplpapppa	ABplpapppa	51.0	236.0	0.0		abplpapppaa,abplpapppap	297.0
+abplpappppa	ABplpappppa	PVT	65.0	302.0	0.0	neuron
+abplpappppp	ABplpappppp	rect D	65.0	302.0	0.0	epithelium
+abplpapppp	ABplpapppp	ABplpapppp	51.0	236.0	0.0		abplpappppa,abplpappppp	302.0
+abplpappp	ABplpappp	ABplpappp	35.0	186.0	0.0		abplpapppa,abplpapppp	236.0
+abplpapp	ABplpapp	ABplpapp	30.0	151.0	0.0		abplpappa,abplpappp	186.0
+abplpap	ABplpap	ABplpap	38.0	120.0	0.0		abplpapa,abplpapp	151.0
+abplpa	ABplpa	ABplpa	17.0	82.0	0.0		abplpaa,abplpap	120.0
+abplppaaaaa	ABplppaaaaa	SIBDL	69.0	314.0	0.0	neuron
+abplppaaaapa	ABplppaaaapa	ABplppaaaapa	111.0	426.0	22.0	
+abplppaaaapp	ABplppaaaapp	RICL	111.0	426.0	0.0	neuron
+abplppaaaap	ABplppaaaap	ABplppaaaap	69.0	314.0	0.0		abplppaaaapa,abplppaaaapp	426.0
+abplppaaaa	ABplppaaaa	ABplppaaaa	55.0	246.0	0.0		abplppaaaaa,abplppaaaap	314.0
+abplppaaap	ABplppaaap	ABplppaaap	55.0	246.0	25.0	
+abplppaaa	ABplppaaa	ABplppaaa	35.0	190.0	0.0		abplppaaaa,abplppaaap	246.0
+abplppaapaa	ABplppaapaa	ABplppaapaa	76.0	327.0	25.0	
+abplppaapap	ABplppaapap	RIML	76.0	327.0	0.0	neuron
+abplppaapa	ABplppaapa	ABplppaapa	61.0	251.0	0.0		abplppaapaa,abplppaapap	327.0
+abplppaappa	ABplppaappa	AIAL	71.0	322.0	0.0	neuron
+abplppaappp	ABplppaappp	DB6	71.0	322.0	0.0	neuron
+abplppaapp	ABplppaapp	ABplppaapp	61.0	251.0	0.0		abplppaappa,abplppaappp	322.0
+abplppaap	ABplppaap	ABplppaap	35.0	190.0	0.0		abplppaapa,abplppaapp	251.0
+abplppaa	ABplppaa	ABplppaa	35.0	155.0	0.0		abplppaaa,abplppaap	190.0
+abplppapaaaa	ABplppapaaaa	SABVL	121.0	432.0	0.0	neuron
+abplppapaaap	ABplppapaaap	RIFL	121.0	432.0	0.0	neuron
+abplppapaaa	ABplppapaaa	ABplppapaaa	65.0	311.0	0.0		abplppapaaaa,abplppapaaap	432.0
+abplppapaap	ABplppapaap	SABD	65.0	311.0	0.0	neuron
+abplppapaa	ABplppapaa	ABplppapaa	55.0	246.0	0.0		abplppapaaa,abplppapaap	311.0
+abplppapapa	ABplppapapa	DA2	86.0	331.0	0.0	neuron
+abplppapapp	ABplppapapp	DA4	86.0	331.0	0.0	neuron
+abplppapap	ABplppapap	ABplppapap	55.0	246.0	0.0		abplppapapa,abplppapapp	331.0
+abplppapa	ABplppapa	ABplppapa	35.0	190.0	0.0		abplppapaa,abplppapap	246.0
+abplppappaa	ABplppappaa	RIGL	79.0	324.0	0.0	neuron
+abplppappap	ABplppappap	DD1	79.0	324.0	0.0	neuron
+abplppappa	ABplppappa	ABplppappa	55.0	246.0	0.0		abplppappaa,abplppappap	324.0
+abplppapppa	ABplppapppa	DD3	91.0	337.0	0.0	neuron
+abplppapppp	ABplppapppp	DD5	91.0	337.0	0.0	neuron
+abplppappp	ABplppappp	ABplppappp	55.0	246.0	0.0		abplppapppa,abplppapppp	337.0
+abplppapp	ABplppapp	ABplppapp	35.0	190.0	0.0		abplppappa,abplppappp	246.0
+abplppap	ABplppap	ABplppap	35.0	155.0	0.0		abplppapa,abplppapp	190.0
+abplppa	ABplppa	ABplppa	38.0	120.0	0.0		abplppaa,abplppap	155.0
+abplpppaaaa	ABplpppaaaa	DA9	71.0	312.0	0.0	neuron
+abplpppaaap	ABplpppaaap	DA6	71.0	312.0	0.0	neuron
+abplpppaaa	ABplpppaaa	ABplpppaaa	55.0	241.0	0.0		abplpppaaaa,abplpppaaap	312.0
+abplpppaapaa	ABplpppaapaa	PVCL	45.0	347.0	0.0	neuron
+abplpppaapap	ABplpppaapap	LUAL	45.0	347.0	0.0	neuron
+abplpppaapa	ABplpppaapa	ABplpppaapa	61.0	302.0	0.0		abplpppaapaa,abplpppaapap	347.0
+abplpppaapp	ABplpppaapp	PHAL	61.0	302.0	0.0	neuron
+abplpppaap	ABplpppaap	ABplpppaap	55.0	241.0	0.0		abplpppaapa,abplpppaapp	302.0
+abplpppaa	ABplpppaa	ABplpppaa	30.0	186.0	0.0		abplpppaaa,abplpppaap	241.0
+abplpppapaa	ABplpppapaa	PHshL	51.0	291.0	0.0	sheath
+abplpppapap	ABplpppapap	hyp8	51.0	291.0	0.0	hypoderm
+abplpppapa	ABplpppapa	ABplpppapa	55.0	241.0	0.0		abplpppapaa,abplpppapap	291.0
+abplpppapp	ABplpppapp	ABplpppapp	55.0	241.0	30.0	
+abplpppap	ABplpppap	ABplpppap	30.0	186.0	0.0		abplpppapa,abplpppapp	241.0
+abplpppa	ABplpppa	ABplpppa	35.0	155.0	0.0		abplpppaa,abplpppap	186.0
+abplppppaaa	ABplppppaaa	PVPL	76.0	312.0	0.0	neuron
+abplppppaap	ABplppppaap	rect VL	76.0	312.0	0.0	epithelium
+abplppppaa	ABplppppaa	ABplppppaa	51.0	236.0	0.0		abplppppaaa,abplppppaap	312.0
+abplppppapa	ABplppppapa	U	61.0	297.0	0.0	rectal
+abplppppapp	ABplppppapp	F	61.0	297.0	0.0	epithelium
+abplppppap	ABplppppap	ABplppppap	51.0	236.0	0.0		abplppppapa,abplppppapp	297.0
+abplppppa	ABplppppa	ABplppppa	30.0	186.0	0.0		abplppppaa,abplppppap	236.0
+abplpppppaa	ABplpppppaa	mu int L	76.0	312.0	0.0	muscle
+abplpppppap	ABplpppppap	mu anal	76.0	312.0	0.0	muscle
+abplpppppa	ABplpppppa	ABplpppppa	51.0	236.0	0.0		abplpppppaa,abplpppppap	312.0
+abplppppppa	ABplppppppa	tail spike	76.0	312.0	334.0	tail
+abplppppppp	ABplppppppp	hyp10	76.0	312.0	0.0	hypoderm
+abplpppppp	ABplpppppp	ABplpppppp	51.0	236.0	0.0		abplppppppa,abplppppppp	312.0
+abplppppp	ABplppppp	ABplppppp	30.0	186.0	0.0		abplpppppa,abplpppppp	236.0
+abplpppp	ABplpppp	ABplpppp	35.0	155.0	0.0		abplppppa,abplppppp	186.0
+abplppp	ABplppp	ABplppp	38.0	120.0	0.0		abplpppa,abplpppp	155.0
+abplpp	ABplpp	ABplpp	17.0	82.0	0.0		abplppa,abplppp	120.0
+abplp	ABplp	ABplp	15.0	65.0	0.0		abplpa,abplpp	82.0
+abpl	ABpl	ABpl	18.0	50.0	0.0		abpla,abplp	65.0
+abpraaaaaaa	ABpraaaaaaa	AVER	76.0	332.0	0.0	neuron
+abpraaaaaap	ABpraaaaaap	OLQshVR	76.0	332.0	0.0	sheath
+abpraaaaaa	ABpraaaaaa	ABpraaaaaa	71.0	257.0	0.0		abpraaaaaaa,abpraaaaaap	332.0
+abpraaaaapd	ABpraaaaapd	OLLshR	86.0	343.0	0.0	sheath
+abpraaaaapv	ABpraaaaapv	ABpraaaaapv	86.0	343.0	25.0	
+abpraaaaap	ABpraaaaap	ABpraaaaap	71.0	257.0	0.0		abpraaaaapd,abpraaaaapv	343.0
+abpraaaaa	ABpraaaaa	ABpraaaaa	35.0	186.0	0.0		abpraaaaaa,abpraaaaap	257.0
+abpraaaapad	ABpraaaapad	RMDR	79.0	322.0	0.0	neuron
+abpraaaapav	ABpraaaapav	AFDR	79.0	322.0	0.0	neuron
+abpraaaapa	ABpraaaapa	ABpraaaapa	57.0	244.0	0.0		abpraaaapad,abpraaaapav	322.0
+abpraaaappa	ABpraaaappa	ABpraaaappa	63.0	307.0	17.0	
+abpraaaapppa	ABpraaaapppa	ASKR	96.0	403.0	0.0	neuron
+abpraaaapppp	ABpraaaapppp	ABpraaaapppp	96.0	403.0	20.0	
+abpraaaappp	ABpraaaappp	ABpraaaappp	63.0	307.0	0.0		abpraaaapppa,abpraaaapppp	403.0
+abpraaaapp	ABpraaaapp	ABpraaaapp	57.0	244.0	0.0		abpraaaappa,abpraaaappp	307.0
+abpraaaap	ABpraaaap	ABpraaaap	35.0	186.0	0.0		abpraaaapa,abpraaaapp	244.0
+abpraaaa	ABpraaaa	ABpraaaa	30.0	151.0	0.0		abpraaaaa,abpraaaap	186.0
+abpraaapaad	ABpraaapaad	ADLR	70.0	312.0	0.0	neuron
+abpraaapaav	ABpraaapaav	ABpraaapaav	70.0	312.0	45.0	
+abpraaapaa	ABpraaapaa	ABpraaapaa	61.0	243.0	0.0		abpraaapaad,abpraaapaav	312.0
+abpraaapapaa	ABpraaapapaa	OLLR	106.0	423.0	0.0	neuron
+abpraaapapap	ABpraaapapap	ABpraaapapap	106.0	423.0	35.0	
+abpraaapapa	ABpraaapapa	ABpraaapapa	74.0	317.0	0.0		abpraaapapaa,abpraaapapap	423.0
+abpraaapapp	ABpraaapapp	ABpraaapapp	74.0	317.0	20.0	
+abpraaapap	ABpraaapap	ABpraaapap	61.0	243.0	0.0		abpraaapapa,abpraaapapp	317.0
+abpraaapa	ABpraaapa	ABpraaapa	30.0	181.0	0.0		abpraaapaa,abpraaapap	243.0
+abpraaappaa	ABpraaappaa	ADFR	61.0	297.0	0.0	neuron
+abpraaappap	ABpraaappap	AWBR	61.0	297.0	0.0	neuron
+abpraaappa	ABpraaappa	ABpraaappa	55.0	237.0	0.0		abpraaappaa,abpraaappap	297.0
+abpraaapppaa	ABpraaapppaa	ASER	91.0	368.0	0.0	neuron
+abpraaapppap	ABpraaapppap	ABpraaapppap	91.0	368.0	35.0	
+abpraaapppa	ABpraaapppa	ABpraaapppa	40.0	277.0	0.0		abpraaapppaa,abpraaapppap	368.0
+abpraaappppa	ABpraaappppa	ASJR	91.0	368.0	0.0	neuron
+abpraaappppp	ABpraaappppp	AUAR	91.0	368.0	0.0	neuron
+abpraaapppp	ABpraaapppp	ABpraaapppp	40.0	277.0	0.0		abpraaappppa,abpraaappppp	368.0
+abpraaappp	ABpraaappp	ABpraaappp	55.0	237.0	0.0		abpraaapppa,abpraaapppp	277.0
+abpraaapp	ABpraaapp	ABpraaapp	30.0	181.0	0.0		abpraaappa,abpraaappp	237.0
+abpraaap	ABpraaap	ABpraaap	30.0	151.0	0.0		abpraaapa,abpraaapp	181.0
+abpraaa	ABpraaa	ABpraaa	30.0	121.0	0.0		abpraaaa,abpraaap	151.0
+abpraapaaaa	ABpraapaaaa	hyp3	76.0	322.0	0.0	hypoderm
+abpraapaaap	ABpraapaaap	ILsoDR	76.0	322.0	0.0	socket
+abpraapaaa	ABpraapaaa	ABpraapaaa	61.0	247.0	0.0		abpraapaaaa,abpraapaaap	322.0
+abpraapaapa	ABpraapaapa	URBR	65.0	312.0	0.0	neuron
+abpraapaapp	ABpraapaapp	AMshR	65.0	312.0	0.0	sheath
+abpraapaap	ABpraapaap	ABpraapaap	61.0	247.0	0.0		abpraapaapa,abpraapaapp	312.0
+abpraapaa	ABpraapaa	ABpraapaa	35.0	186.0	0.0		abpraapaaa,abpraapaap	247.0
+abpraapapaa	ABpraapapaa	AWAR	81.0	328.0	0.0	neuron
+abpraapapap	ABpraapapap	ASGR	81.0	328.0	0.0	neuron
+abpraapapa	ABpraapapa	ABpraapapa	61.0	247.0	0.0		abpraapapaa,abpraapapap	328.0
+abpraapappa	ABpraapappa	AIBR	65.0	312.0	0.0	neuron
+abpraapapppa	ABpraapapppa	ASIR	101.0	413.0	0.0	neuron
+abpraapapppp	ABpraapapppp	ABpraapapppp	101.0	413.0	30.0	
+abpraapappp	ABpraapappp	ABpraapappp	65.0	312.0	0.0		abpraapapppa,abpraapapppp	413.0
+abpraapapp	ABpraapapp	ABpraapapp	61.0	247.0	0.0		abpraapappa,abpraapappp	312.0
+abpraapap	ABpraapap	ABpraapap	35.0	186.0	0.0		abpraapapa,abpraapapp	247.0
+abpraapa	ABpraapa	ABpraapa	30.0	151.0	0.0		abpraapaa,abpraapap	186.0
+abpraappaa	ABpraappaa	hyp4	61.0	247.0	0.0	hypoderm
+abpraappap	ABpraappap	hyp6	61.0	247.0	0.0	hypoderm
+abpraappa	ABpraappa	ABpraappa	35.0	186.0	0.0		abpraappaa,abpraappap	247.0
+abpraapppa	ABpraapppa	hyp7	53.0	239.0	0.0	hypoderm
+abpraapppp	ABpraapppp	hyp7	53.0	239.0	0.0	hypoderm
+abpraappp	ABpraappp	ABpraappp	35.0	186.0	0.0		abpraapppa,abpraapppp	239.0
+abpraapp	ABpraapp	ABpraapp	30.0	151.0	0.0		abpraappa,abpraappp	186.0
+abpraap	ABpraap	ABpraap	30.0	121.0	0.0		abpraapa,abpraapp	151.0
+abpraa	ABpraa	ABpraa	20.0	90.0	0.0		abpraaa,abpraap	121.0
+abprapaaaaa	ABprapaaaaa	ABprapaaaaa	86.0	328.0	30.0	
+abprapaaaapa	ABprapaaaapa	ADER	116.0	444.0	0.0	neuron
+abprapaaaapp	ABprapaaaapp	ADAR	116.0	444.0	0.0	neuron
+abprapaaaap	ABprapaaaap	ABprapaaaap	86.0	328.0	0.0		abprapaaaapa,abprapaaaapp	444.0
+abprapaaaa	ABprapaaaa	ABprapaaaa	51.0	242.0	0.0		abprapaaaaa,abprapaaaap	328.0
+abprapaaapad	ABprapaaapad	FLPR	121.0	444.0	0.0	neuron
+abprapaaapav	ABprapaaapav	AIZR	121.0	444.0	0.0	neuron
+abprapaaapa	ABprapaaapa	ABprapaaapa	81.0	323.0	0.0		abprapaaapad,abprapaaapav	444.0
+abprapaaapp	ABprapaaapp	RMGR	81.0	323.0	0.0	neuron
+abprapaaap	ABprapaaap	ABprapaaap	51.0	242.0	0.0		abprapaaapa,abprapaaapp	323.0
+abprapaaa	ABprapaaa	ABprapaaa	40.0	191.0	0.0		abprapaaaa,abprapaaap	242.0
+waaa	Waaa	AVFR	145.0	1520.0	0.0	neuron
+waap	Waap	VB2	145.0	1520.0	0.0	neuron
+waa	Waa	Waa	127.0	1374.0	0.0		waaa,waap	1520.0
+wap	Wap	Wap	127.0	1374.0	115.0	
+wa	Wa	Wa	1005.0	1247.0	0.0		waa,wap	1374.0
+wpa	Wpa	VA1	127.0	1374.0	0.0	neuron
+wpp	Wpp	VD1	127.0	1374.0	0.0	neuron
+wp	Wp	Wp	1005.0	1247.0	0.0		wpa,wpp	1374.0
+abprapaapa	ABprapaapa	W	51.0	242.0	0.0		wa,wp	1247.0
+abprapaappaaaa	ABprapaappaaaa	VA2	91.0	1611.0	0.0	neuron
+abprapaappaaap	ABprapaappaaap	VB3	91.0	1611.0	0.0	neuron
+abprapaappaaa	ABprapaappaaa	P2aaa	91.0	1520.0	0.0		abprapaappaaaa,abprapaappaaap	1611.0
+abprapaappaap	ABprapaappaap	P2aap	91.0	1520.0	61.0	
+abprapaappaa	ABprapaappaa	P2aa	91.0	1429.0	0.0		abprapaappaaa,abprapaappaap	1520.0
+abprapaappapa	ABprapaappapa	AS2	121.0	1551.0	0.0	neuron
+abprapaappapp	ABprapaappapp	VD3	121.0	1551.0	0.0	neuron
+abprapaappap	ABprapaappap	P2ap	91.0	1429.0	0.0		abprapaappapa,abprapaappapp	1551.0
+abprapaappa	ABprapaappa	P2a	1096.0	1338.0	0.0		abprapaappaa,abprapaappap	1429.0
+abprapaappp	ABprapaappp	hyp7	1096.0	1338.0	0.0	hypoderm
+abprapaapp	ABprapaapp	P2	51.0	242.0	0.0		abprapaappa,abprapaappp	1338.0
+abprapaap	ABprapaap	ABprapaap	40.0	191.0	0.0		abprapaapa,abprapaapp	242.0
+abprapaa	ABprapaa	ABprapaa	30.0	151.0	0.0		abprapaaa,abprapaap	191.0
+qraa	QRaa	QRaa	182.0	1186.0	121.0	
+qrap	QRap	AQR	182.0	1186.0	0.0	neuron
+qra	QRa	QRa	253.0	1004.0	0.0		qraa,qrap	1186.0
+qrpaa	QRpaa	AVM	121.0	1307.0	0.0	neuron
+qrpap	QRpap	SDQR	121.0	1307.0	0.0	neuron
+qrpa	QRpa	QRpa	182.0	1186.0	0.0		qrpaa,qrpap	1307.0
+qrpp	QRpp	QRpp	182.0	1186.0	182.0	
+qrp	QRp	QRp	253.0	1004.0	0.0		qrpa,qrpp	1186.0
+abprapapaaa	ABprapapaaa	QR	512.0	752.0	0.0		qra,qrp	1004.0
+v5ra	V5Ra	hyp7	374.0	1126.0	0.0	hypoderm
+v5rpaaa	V5Rpaaa	PDER	61.0	1914.0	0.0	neuron
+v5rpaapa	V5Rpaapa	PVDR	61.0	1974.0	0.0	neuron
+v5rpaapp	V5Rpaapp	V5Rpaapp	61.0	1974.0	152.0	
+v5rpaap	V5Rpaap	V5Rpaap	61.0	1914.0	0.0		v5rpaapa,v5rpaapp	1974.0
+v5rpaa	V5Rpaa	V5Rpaa	61.0	1853.0	0.0		v5rpaaa,v5rpaap	1914.0
+v5rpapa	V5Rpapa	PDEsoR	66.0	1920.0	0.0	socket
+v5rpapp	V5Rpapp	PDEshR	66.0	1920.0	0.0	sheath
+v5rpap	V5Rpap	V5Rpap	61.0	1853.0	0.0		v5rpapa,v5rpapp	1920.0
+v5rpa	V5Rpa	V5Rpa	667.0	1793.0	0.0		v5rpaa,v5rpap	1853.0
+v5rppa	V5Rppa	hyp7	61.0	1853.0	0.0	hypoderm
+v5rpppa	V5Rpppa	hyp7	485.0	2338.0	0.0	hypoderm
+v5rppppa	V5Rppppa	hyp7	546.0	2884.0	0.0	hypoderm
+v5rppppp	V5Rppppp	se	546.0	2884.0	0.0	hypoderm
+v5rpppp	V5Rpppp	V5Rpppp	485.0	2338.0	0.0		v5rppppa,v5rppppp	2884.0
+v5rppp	V5Rppp	V5Rppp	61.0	1853.0	0.0		v5rpppa,v5rpppp	2338.0
+v5rpp	V5Rpp	V5Rpp	667.0	1793.0	0.0		v5rppa,v5rppp	1853.0
+v5rp	V5Rp	V5Rp	374.0	1126.0	0.0		v5rpa,v5rpp	1793.0
+abprapapaap	ABprapapaap	V5R	512.0	752.0	0.0	hypoderm	v5ra,v5rp	1126.0
+abprapapaa	ABprapapaa	ABprapapaa	53.0	239.0	0.0		abprapapaaa,abprapapaap	752.0
+p10aaaa	P10aaaa	VA10	91.0	1671.0	0.0	neuron
+p10aaap	P10aaap	VB11	91.0	1671.0	0.0	neuron
+p10aaa	P10aaa	P10aaa	61.0	1580.0	0.0		p10aaaa,p10aaap	1671.0
+p10aap	P10aap	P10aap	61.0	1580.0	30.0	
+p10aa	P10aa	P10aa	121.0	1520.0	0.0		p10aaa,p10aap	1580.0
+p10apa	P10apa	AS10	61.0	1580.0	0.0	neuron
+p10app	P10app	VD11	61.0	1580.0	0.0	neuron
+p10ap	P10ap	P10ap	121.0	1520.0	0.0		p10apa,p10app	1580.0
+p10a	P10a	P10a	1159.0	1398.0	0.0		p10aa,p10ap	1520.0
+p10p	P10p	hyp7	1159.0	1398.0	0.0	hypoderm
+abprapapap	ABprapapap	P10	53.0	239.0	0.0		p10a,p10p	1398.0
+abprapapa	ABprapapa	ABprapapa	35.0	186.0	0.0		abprapapaa,abprapapap	239.0
+p12aaaa	P12aaaa	VA12	152.0	1762.0	0.0	neuron
+p12aaap	P12aaap	P12aaap	152.0	1762.0	61.0	
+p12aaa	P12aaa	P12aaa	61.0	1611.0	0.0		p12aaaa,p12aaap	1762.0
+p12aap	P12aap	P12aap	61.0	1611.0	61.0	
+p12aa	P12aa	P12aa	91.0	1550.0	0.0		p12aaa,p12aap	1611.0
+p12apa	P12apa	PDB	61.0	1611.0	0.0	neuron
+p12app	P12app	VD13	61.0	1611.0	0.0	neuron
+p12ap	P12ap	P12ap	91.0	1550.0	0.0		p12apa,p12app	1611.0
+p12a	P12a	P12a	1220.0	1459.0	0.0		p12aa,p12ap	1550.0
+p12pa	P12pa	hyp12	152.0	1611.0	0.0	hypoderm
+p12pp	P12pp	P12pp	152.0	1611.0	61.0	
+p12p	P12p	P12p	1220.0	1459.0	0.0		p12pa,p12pp	1611.0
+abprapappa	ABprapappa	P12	53.0	239.0	0.0		p12a,p12p	1459.0
+abprapapppa	ABprapapppa	ABprapapppa	78.0	317.0	20.0	
+abprapappppaa	ABprapappppaa	PLMR	81.0	494.0	0.0	neuron
+abprapappppap	ABprapappppap	ALNR	81.0	494.0	0.0	neuron
+abprapappppa	ABprapappppa	ABprapappppa	96.0	413.0	0.0		abprapappppaa,abprapappppap	494.0
+abprapappppp	ABprapappppp	ABprapappppp	96.0	413.0	30.0	
+abprapapppp	ABprapapppp	ABprapapppp	78.0	317.0	0.0		abprapappppa,abprapappppp	413.0
+abprapappp	ABprapappp	ABprapappp	53.0	239.0	0.0		abprapapppa,abprapapppp	317.0
+abprapapp	ABprapapp	ABprapapp	35.0	186.0	0.0		abprapappa,abprapappp	239.0
+abprapap	ABprapap	ABprapap	30.0	151.0	0.0		abprapapa,abprapapp	186.0
+abprapa	ABprapa	ABprapa	30.0	121.0	0.0		abprapaa,abprapap	151.0
+abprappaaaaaaa	ABprappaaaaaaa	VA4	91.0	1640.0	0.0	neuron
+abprappaaaaaap	ABprappaaaaaap	VB5	91.0	1640.0	0.0	neuron
+abprappaaaaaa	ABprappaaaaaa	P4aaa	91.0	1549.0	0.0		abprappaaaaaaa,abprappaaaaaap	1640.0
+abprappaaaaap	ABprappaaaaap	VC2	91.0	1549.0	0.0	neuron
+abprappaaaaa	ABprappaaaaa	P4aa	85.0	1459.0	0.0		abprappaaaaaa,abprappaaaaap	1549.0
+abprappaaaapa	ABprappaaaapa	AS4	91.0	1549.0	0.0	neuron
+abprappaaaapp	ABprappaaaapp	VD5	91.0	1549.0	0.0	neuron
+abprappaaaap	ABprappaaaap	P4ap	85.0	1459.0	0.0		abprappaaaapa,abprappaaaapp	1549.0
+abprappaaaa	ABprappaaaa	P4a	1135.0	1374.0	0.0		abprappaaaaa,abprappaaaap	1459.0
+abprappaaapa	ABprappaaapa	hyp7	1206.0	2580.0	0.0	hypoderm
+abprappaaapp	ABprappaaapp	hyp7	1206.0	2580.0	0.0	hypoderm
+abprappaaap	ABprappaaap	P4p	1135.0	1374.0	0.0		abprappaaapa,abprappaaapp	2580.0
+abprappaaa	ABprappaaa	P4	53.0	239.0	0.0		abprappaaaa,abprappaaap	1374.0
+p6aaaa	P6aaaa	VA6	91.0	1641.0	0.0	neuron
+p6aaap	P6aaap	VB7	91.0	1641.0	0.0	neuron
+p6aaa	P6aaa	P6aaa	91.0	1550.0	0.0		p6aaaa,p6aaap	1641.0
+p6aap	P6aap	VC4	91.0	1550.0	0.0	neuron
+p6aa	P6aa	P6aa	91.0	1459.0	0.0		p6aaa,p6aap	1550.0
+p6apa	P6apa	AS6	91.0	1550.0	0.0	neuron
+p6app	P6app	VD7	91.0	1550.0	0.0	neuron
+p6ap	P6ap	P6ap	91.0	1459.0	0.0		p6apa,p6app	1550.0
+p6a	P6a	P6a	1129.0	1368.0	0.0		p6aa,p6ap	1459.0
+p6paal	P6paal	vulE	61.0	2763.0	0.0	repro
+p6paar	P6paar	vulE	61.0	2763.0	0.0	repro
+p6paa	P6paa	P6paa	121.0	2702.0	0.0		p6paal,p6paar	2763.0
+p6papl	P6papl	vulF	121.0	2823.0	0.0	repro
+p6papr	P6papr	vulF	121.0	2823.0	0.0	repro
+p6pap	P6pap	P6pap	121.0	2702.0	0.0		p6papl,p6papr	2823.0
+p6pa	P6pa	P6pa	1213.0	2581.0	0.0		p6paa,p6pap	2702.0
+p6ppal	P6ppal	vulF	121.0	2823.0	0.0	repro
+p6ppar	P6ppar	vulF	121.0	2823.0	0.0	repro
+p6ppa	P6ppa	P6ppa	121.0	2702.0	0.0		p6ppal,p6ppar	2823.0
+p6pppl	P6pppl	vulE	61.0	2763.0	0.0	repro
+p6pppr	P6pppr	vulE	61.0	2763.0	0.0	repro
+p6ppp	P6ppp	P6ppp	121.0	2702.0	0.0		p6pppl,p6pppr	2763.0
+p6pp	P6pp	P6pp	1213.0	2581.0	0.0		p6ppa,p6ppp	2702.0
+p6p	P6p	P6p	1129.0	1368.0	0.0		p6pa,p6pp	2581.0
+abprappaap	ABprappaap	P6	53.0	239.0	0.0		p6a,p6p	1368.0
+abprappaa	ABprappaa	ABprappaa	35.0	186.0	0.0		abprappaaa,abprappaap	239.0
+v3ra	V3Ra	hyp7	886.0	1126.0	0.0	hypoderm
+v3rpaa	V3Rpaa	hyp7	61.0	1853.0	0.0	hypoderm
+v3rpapa	V3Rpapa	hyp7	485.0	2338.0	0.0	hypoderm
+v3rpappa	V3Rpappa	hyp7	546.0	2884.0	0.0	hypoderm
+v3rpappp	V3Rpappp	se	546.0	2884.0	0.0	hypoderm
+v3rpapp	V3Rpapp	V3Rpapp	485.0	2338.0	0.0		v3rpappa,v3rpappp	2884.0
+v3rpap	V3Rpap	V3Rpap	61.0	1853.0	0.0		v3rpapa,v3rpapp	2338.0
+v3rpa	V3Rpa	V3Rpa	667.0	1793.0	0.0		v3rpaa,v3rpap	1853.0
+v3rppa	V3Rppa	hyp7	61.0	1853.0	0.0	hypoderm
+v3rpppa	V3Rpppa	hyp7	485.0	2338.0	0.0	hypoderm
+v3rppppa	V3Rppppa	hyp7	546.0	2884.0	0.0	hypoderm
+v3rppppp	V3Rppppp	se	546.0	2884.0	0.0	hypoderm
+v3rpppp	V3Rpppp	V3Rpppp	485.0	2338.0	0.0		v3rppppa,v3rppppp	2884.0
+v3rppp	V3Rppp	V3Rppp	61.0	1853.0	0.0		v3rpppa,v3rpppp	2338.0
+v3rpp	V3Rpp	V3Rpp	667.0	1793.0	0.0		v3rppa,v3rppp	1853.0
+v3rp	V3Rp	V3Rp	886.0	1126.0	0.0		v3rpa,v3rpp	1793.0
+abprappapa	ABprappapa	V3R	53.0	239.0	0.0		v3ra,v3rp	1126.0
+p8aaaa	P8aaaa	VA8	91.0	1671.0	0.0	neuron
+p8aaap	P8aaap	VB9	91.0	1671.0	0.0	neuron
+p8aaa	P8aaa	P8aaa	61.0	1580.0	0.0		p8aaaa,p8aaap	1671.0
+p8aap	P8aap	VC6	61.0	1580.0	0.0	neuron
+p8aa	P8aa	P8aa	121.0	1520.0	0.0		p8aaa,p8aap	1580.0
+p8apa	P8apa	AS8	61.0	1580.0	0.0	neuron
+p8app	P8app	VD9	61.0	1580.0	0.0	neuron
+p8ap	P8ap	P8ap	121.0	1520.0	0.0		p8apa,p8app	1580.0
+p8a	P8a	P8a	1159.0	1398.0	0.0		p8aa,p8ap	1520.0
+p8pa	P8pa	hyp7	1182.0	2581.0	0.0	hypoderm
+p8pp	P8pp	hyp7	1182.0	2581.0	0.0	hypoderm
+p8p	P8p	P8p	1159.0	1398.0	0.0		p8pa,p8pp	2581.0
+abprappapp	ABprappapp	P8	53.0	239.0	0.0		p8a,p8p	1398.0
+abprappap	ABprappap	ABprappap	35.0	186.0	0.0		abprappapa,abprappapp	239.0
+abprappa	ABprappa	ABprappa	30.0	151.0	0.0		abprappaa,abprappap	186.0
+abprapppaaa	ABprapppaaa	PVQR	86.0	332.0	0.0	neuron
+abprapppaap	ABprapppaap	ABprapppaap	86.0	332.0	10.0	
+abprapppaa	ABprapppaa	ABprapppaa	55.0	247.0	0.0		abprapppaaa,abprapppaap	332.0
+abprapppapa	ABprapppapa	ABprapppapa	61.0	307.0	20.0	
+abprapppappa	ABprapppappa	HSNR	116.0	423.0	0.0	neuron
+abprapppappp	ABprapppappp	PHBR	116.0	423.0	0.0	neuron
+abprapppapp	ABprapppapp	ABprapppapp	61.0	307.0	0.0		abprapppappa,abprapppappp	423.0
+abprapppap	ABprapppap	ABprapppap	55.0	247.0	0.0		abprapppapa,abprapppapp	307.0
+abprapppa	ABprapppa	ABprapppa	40.0	191.0	0.0		abprapppaa,abprapppap	247.0
+abprappppa	ABprappppa	hyp7	55.0	247.0	0.0	hypoderm
+traa	TRaa	hyp7	109.0	1247.0	0.0	hypoderm
+trapaa	TRapaa	hyp7	170.0	2035.0	0.0	hypoderm
+trapap	TRapap	hyp7	170.0	2035.0	0.0	hypoderm
+trapa	TRapa	TRapa	618.0	1865.0	0.0		trapaa,trapap	2035.0
+trappa	TRappa	se	170.0	2035.0	0.0	hypoderm
+trappp	TRappp	PVNR	170.0	2035.0	0.0	neuron
+trapp	TRapp	TRapp	618.0	1865.0	0.0		trappa,trappp	2035.0
+trap	TRap	TRap	109.0	1247.0	0.0		trapa,trapp	1865.0
+tra	TRa	TRa	891.0	1138.0	0.0		traa,trap	1247.0
+trpaa	TRpaa	PHso1R	121.0	1374.0	0.0	socket
+trpap	TRpap	PHso2R	121.0	1374.0	0.0	socket
+trpa	TRpa	TRpa	115.0	1253.0	0.0		trpaa,trpap	1374.0
+trppa	TRppa	PVWR	115.0	1368.0	0.0	neuron
+trpppaa	TRpppaa	PHCR	61.0	1549.0	0.0	neuron
+trpppap	TRpppap	PLNR	61.0	1549.0	0.0	neuron
+trpppa	TRpppa	TRpppa	121.0	1489.0	0.0		trpppaa,trpppap	1549.0
+trpppp	TRpppp	TRpppp	121.0	1489.0	61.0	
+trppp	TRppp	TRppp	115.0	1368.0	0.0		trpppa,trpppp	1489.0
+trpp	TRpp	TRpp	115.0	1253.0	0.0		trppa,trppp	1368.0
+trp	TRp	TRp	891.0	1138.0	0.0		trpa,trpp	1253.0
+abprappppp	ABprappppp	TR	55.0	247.0	0.0		tra,trp	1138.0
+abprapppp	ABprapppp	ABprapppp	40.0	191.0	0.0		abprappppa,abprappppp	247.0
+abprappp	ABprappp	ABprappp	30.0	151.0	0.0		abprapppa,abprapppp	191.0
+abprapp	ABprapp	ABprapp	30.0	121.0	0.0		abprappa,abprappp	151.0
+abprap	ABprap	ABprap	20.0	90.0	0.0		abprapa,abprapp	121.0
+abpra	ABpra	ABpra	20.0	70.0	0.0		abpraa,abprap	90.0
+abprpaaaaaa	ABprpaaaaaa	SAAVR	72.0	314.0	0.0	neuron
+abprpaaaaap	ABprpaaaaap	AWCR	72.0	314.0	0.0	neuron
+abprpaaaaa	ABprpaaaaa	ABprpaaaaa	45.0	241.0	0.0		abprpaaaaaa,abprpaaaaap	314.0
+g1l	G1l	RMHL	1210.0	1520.0	0.0	neuron
+g1r	G1r	RMHR	1210.0	1520.0	0.0	neuron
+abprpaaaapa	ABprpaaaapa	G1	69.0	310.0	0.0		g1l,g1r	1520.0
+abprpaaaapp	ABprpaaaapp	DB3	69.0	310.0	0.0	neuron
+abprpaaaap	ABprpaaaap	ABprpaaaap	45.0	241.0	0.0		abprpaaaapa,abprpaaaapp	310.0
+abprpaaaa	ABprpaaaa	ABprpaaaa	45.0	196.0	0.0		abprpaaaaa,abprpaaaap	241.0
+abprpaaapaa	ABprpaaapaa	URAVR	86.0	327.0	0.0	neuron
+abprpaaapap	ABprpaaapap	CEPshVR	86.0	327.0	0.0	sheath
+abprpaaapa	ABprpaaapa	ABprpaaapa	45.0	241.0	0.0		abprpaaapaa,abprpaaapap	327.0
+abprpaaappaa	ABprpaaappaa	OLQVR	114.0	426.0	0.0	neuron
+abprpaaappap	ABprpaaappap	ABprpaaappap	114.0	426.0	27.0	
+abprpaaappa	ABprpaaappa	ABprpaaappa	71.0	312.0	0.0		abprpaaappaa,abprpaaappap	426.0
+abprpaaappp	ABprpaaappp	URYVR	71.0	312.0	0.0	neuron
+abprpaaapp	ABprpaaapp	ABprpaaapp	45.0	241.0	0.0		abprpaaappa,abprpaaappp	312.0
+abprpaaap	ABprpaaap	ABprpaaap	45.0	196.0	0.0		abprpaaapa,abprpaaapp	241.0
+abprpaaa	ABprpaaa	ABprpaaa	30.0	151.0	0.0		abprpaaaa,abprpaaap	196.0
+abprpaapaaa	ABprpaapaaa	RIVR	76.0	318.0	0.0	neuron
+abprpaapaap	ABprpaapaap	AVBR	76.0	318.0	0.0	neuron
+abprpaapaa	ABprpaapaa	ABprpaapaa	51.0	242.0	0.0		abprpaapaaa,abprpaapaap	318.0
+abprpaapapa	ABprpaapapa	AMsoR	79.0	321.0	0.0	socket
+abprpaapapp	ABprpaapapp	CEMVR	79.0	321.0	169.0	neuron
+abprpaapap	ABprpaapap	ABprpaapap	51.0	242.0	0.0		abprpaapapa,abprpaapapp	321.0
+abprpaapa	ABprpaapa	ABprpaapa	40.0	191.0	0.0		abprpaapaa,abprpaapap	242.0
+abprpaappaa	ABprpaappaa	ASHR	81.0	318.0	0.0	neuron
+abprpaappap	ABprpaappap	RIBR	81.0	318.0	0.0	neuron
+abprpaappa	ABprpaappa	ABprpaappa	45.0	237.0	0.0		abprpaappaa,abprpaappap	318.0
+abprpaapppa	ABprpaapppa	AIMR	76.0	312.0	0.0	neuron
+abprpaappppa	ABprpaappppa	CEPVR	114.0	426.0	0.0	neuron
+abprpaappppp	ABprpaappppp	ABprpaappppp	114.0	426.0	32.0	
+abprpaapppp	ABprpaapppp	ABprpaapppp	76.0	312.0	0.0		abprpaappppa,abprpaappppp	426.0
+abprpaappp	ABprpaappp	ABprpaappp	45.0	237.0	0.0		abprpaapppa,abprpaapppp	312.0
+abprpaapp	ABprpaapp	ABprpaapp	40.0	191.0	0.0		abprpaappa,abprpaappp	237.0
+abprpaap	ABprpaap	ABprpaap	30.0	151.0	0.0		abprpaapa,abprpaapp	191.0
+abprpaa	ABprpaa	ABprpaa	30.0	121.0	0.0		abprpaaa,abprpaap	151.0
+abprpapaaaa	ABprpapaaaa	SMDDR	81.0	323.0	0.0	neuron
+abprpapaaap	ABprpapaaap	AIYR	81.0	323.0	0.0	neuron
+abprpapaaa	ABprpapaaa	ABprpapaaa	61.0	242.0	0.0		abprpapaaaa,abprpapaaap	323.0
+abprpapaapa	ABprpapaapa	SIADR	76.0	318.0	0.0	neuron
+abprpapaapp	ABprpapaapp	SIBVR	76.0	318.0	0.0	neuron
+abprpapaap	ABprpapaap	ABprpapaap	61.0	242.0	0.0		abprpapaapa,abprpapaapp	318.0
+abprpapaa	ABprpapaa	ABprpapaa	30.0	181.0	0.0		abprpapaaa,abprpapaap	242.0
+abprpapapaa	ABprpapapaa	exc gl R	71.0	307.0	0.0	excretory
+abprpapapap	ABprpapapap	AVKR	71.0	307.0	0.0	neuron
+abprpapapa	ABprpapapa	ABprpapapa	55.0	237.0	0.0		abprpapapaa,abprpapapap	307.0
+abprpapappa	ABprpapappa	SIAVR	78.0	314.0	0.0	neuron
+abprpapappp	ABprpapappp	DA8	78.0	314.0	0.0	neuron
+abprpapapp	ABprpapapp	ABprpapapp	55.0	237.0	0.0		abprpapappa,abprpapappp	314.0
+abprpapap	ABprpapap	ABprpapap	30.0	181.0	0.0		abprpapapa,abprpapapp	237.0
+abprpapa	ABprpapa	ABprpapa	30.0	151.0	0.0		abprpapaa,abprpapap	181.0
+abprpappaaa	ABprpappaaa	RIH	71.0	307.0	0.0	neuron
+abprpappaap	ABprpappaap	AVL	71.0	307.0	0.0	neuron
+abprpappaa	ABprpappaa	ABprpappaa	55.0	237.0	0.0		abprpappaaa,abprpappaap	307.0
+abprpappapa	ABprpappapa	RIS	71.0	307.0	0.0	neuron
+abprpappapp	ABprpappapp	DB4	71.0	307.0	0.0	neuron
+abprpappap	ABprpappap	ABprpappap	55.0	237.0	0.0		abprpappapa,abprpappapp	307.0
+abprpappa	ABprpappa	ABprpappa	30.0	181.0	0.0		abprpappaa,abprpappap	237.0
+abprpapppaa	ABprpapppaa	RIR	71.0	313.0	0.0	neuron
+abprpapppap	ABprpapppap	AVG	71.0	313.0	0.0	neuron
+abprpapppa	ABprpapppa	ABprpapppa	61.0	242.0	0.0		abprpapppaa,abprpapppap	313.0
+abprpappppa	ABprpappppa	virR	65.0	307.0	0.0	valve
+abprpappppp	ABprpappppp	virL	65.0	307.0	0.0	valve
+abprpapppp	ABprpapppp	ABprpapppp	61.0	242.0	0.0		abprpappppa,abprpappppp	307.0
+abprpappp	ABprpappp	ABprpappp	30.0	181.0	0.0		abprpapppa,abprpapppp	242.0
+abprpapp	ABprpapp	ABprpapp	30.0	151.0	0.0		abprpappa,abprpappp	181.0
+abprpap	ABprpap	ABprpap	30.0	121.0	0.0		abprpapa,abprpapp	151.0
+abprpa	ABprpa	ABprpa	20.0	90.0	0.0		abprpaa,abprpap	121.0
+abprppaaaaa	ABprppaaaaa	SIBDR	68.0	314.0	0.0	neuron
+abprppaaaapa	ABprppaaaapa	ABprppaaaapa	119.0	433.0	25.0	
+abprppaaaapp	ABprppaaaapp	RICR	119.0	433.0	0.0	neuron
+abprppaaaap	ABprppaaaap	ABprppaaaap	68.0	314.0	0.0		abprppaaaapa,abprppaaaapp	433.0
+abprppaaaa	ABprppaaaa	ABprppaaaa	55.0	246.0	0.0		abprppaaaaa,abprppaaaap	314.0
+abprppaaap	ABprppaaap	ABprppaaap	55.0	246.0	25.0	
+abprppaaa	ABprppaaa	ABprppaaa	35.0	191.0	0.0		abprppaaaa,abprppaaap	246.0
+abprppaapaa	ABprppaapaa	ABprppaapaa	81.0	332.0	30.0	
+abprppaapap	ABprppaapap	RIMR	81.0	332.0	0.0	neuron
+abprppaapa	ABprppaapa	ABprppaapa	61.0	252.0	0.0		abprppaapaa,abprppaapap	332.0
+abprppaappa	ABprppaappa	AIAR	71.0	322.0	0.0	neuron
+abprppaappp	ABprppaappp	DB7	71.0	322.0	0.0	neuron
+abprppaapp	ABprppaapp	ABprppaapp	61.0	252.0	0.0		abprppaappa,abprppaappp	322.0
+abprppaap	ABprppaap	ABprppaap	35.0	191.0	0.0		abprppaapa,abprppaapp	252.0
+abprppaa	ABprppaa	ABprppaa	35.0	156.0	0.0		abprppaaa,abprppaap	191.0
+abprppapaaaa	ABprppapaaaa	SABVR	121.0	433.0	0.0	neuron
+abprppapaaap	ABprppapaaap	RIFR	121.0	433.0	0.0	neuron
+abprppapaaa	ABprppapaaa	ABprppapaaa	65.0	312.0	0.0		abprppapaaaa,abprppapaaap	433.0
+abprppapaap	ABprppapaap	DA1	65.0	312.0	0.0	neuron
+abprppapaa	ABprppapaa	ABprppapaa	55.0	246.0	0.0		abprppapaaa,abprppapaap	312.0
+abprppapapa	ABprppapapa	DA3	86.0	332.0	0.0	neuron
+abprppapapp	ABprppapapp	DA5	86.0	332.0	0.0	neuron
+abprppapap	ABprppapap	ABprppapap	55.0	246.0	0.0		abprppapapa,abprppapapp	332.0
+abprppapa	ABprppapa	ABprppapa	35.0	191.0	0.0		abprppapaa,abprppapap	246.0
+abprppappaa	ABprppappaa	RIGR	78.0	324.0	0.0	neuron
+abprppappap	ABprppappap	DD2	78.0	324.0	0.0	neuron
+abprppappa	ABprppappa	ABprppappa	55.0	246.0	0.0		abprppappaa,abprppappap	324.0
+abprppapppa	ABprppapppa	DD4	91.0	337.0	0.0	neuron
+abprppapppp	ABprppapppp	DD6	91.0	337.0	0.0	neuron
+abprppappp	ABprppappp	ABprppappp	55.0	246.0	0.0		abprppapppa,abprppapppp	337.0
+abprppapp	ABprppapp	ABprppapp	35.0	191.0	0.0		abprppappa,abprppappp	246.0
+abprppap	ABprppap	ABprppap	35.0	156.0	0.0		abprppapa,abprppapp	191.0
+abprppa	ABprppa	ABprppa	30.0	121.0	0.0		abprppaa,abprppap	156.0
+abprpppaaaa	ABprpppaaaa	PDA	65.0	310.0	0.0	neuron
+abprpppaaap	ABprpppaaap	DA7	65.0	310.0	0.0	neuron
+abprpppaaa	ABprpppaaa	ABprpppaaa	59.0	245.0	0.0		abprpppaaaa,abprpppaaap	310.0
+abprpppaapaa	ABprpppaapaa	PVCR	146.0	453.0	0.0	neuron
+abprpppaapap	ABprpppaapap	LUAR	146.0	453.0	0.0	neuron
+abprpppaapa	ABprpppaapa	ABprpppaapa	62.0	307.0	0.0		abprpppaapaa,abprpppaapap	453.0
+abprpppaapp	ABprpppaapp	PHAR	62.0	307.0	0.0	neuron
+abprpppaap	ABprpppaap	ABprpppaap	59.0	245.0	0.0		abprpppaapa,abprpppaapp	307.0
+abprpppaa	ABprpppaa	ABprpppaa	30.0	186.0	0.0		abprpppaaa,abprpppaap	245.0
+abprpppapaa	ABprpppapaa	PHshR	47.0	292.0	0.0	sheath
+abprpppapap	ABprpppapap	hyp9	47.0	292.0	0.0	hypoderm
+abprpppapa	ABprpppapa	ABprpppapa	59.0	245.0	0.0		abprpppapaa,abprpppapap	292.0
+abprpppapp	ABprpppapp	ABprpppapp	59.0	245.0	27.0	
+abprpppap	ABprpppap	ABprpppap	30.0	186.0	0.0		abprpppapa,abprpppapp	245.0
+abprpppa	ABprpppa	ABprpppa	35.0	156.0	0.0		abprpppaa,abprpppap	186.0
+abprppppaaa	ABprppppaaa	PVPR	69.0	310.0	0.0	neuron
+abprppppaap	ABprppppaap	rect VR	69.0	310.0	0.0	epithelium
+abprppppaa	ABprppppaa	ABprppppaa	55.0	241.0	0.0		abprppppaaa,abprppppaap	310.0
+abprppppapa	ABprppppapa	B	55.0	297.0	0.0	rectal
+abprppppapp	ABprppppapp	DVA	55.0	297.0	0.0	neuron
+abprppppap	ABprppppap	ABprppppap	55.0	241.0	0.0		abprppppapa,abprppppapp	297.0
+abprppppa	ABprppppa	ABprppppa	30.0	186.0	0.0		abprppppaa,abprppppap	241.0
+abprpppppaa	ABprpppppaa	mu bod	69.0	310.0	0.0	muscle
+abprpppppap	ABprpppppap	mu sph	69.0	310.0	0.0	muscle
+abprpppppa	ABprpppppa	ABprpppppa	55.0	241.0	0.0		abprpppppaa,abprpppppap	310.0
+abprppppppa	ABprppppppa	tail spike	69.0	310.0	340.0	tail
+abprppppppp	ABprppppppp	hyp10	69.0	310.0	0.0	hypoderm
+abprpppppp	ABprpppppp	ABprpppppp	55.0	241.0	0.0		abprppppppa,abprppppppp	310.0
+abprppppp	ABprppppp	ABprppppp	30.0	186.0	0.0		abprpppppa,abprpppppp	241.0
+abprpppp	ABprpppp	ABprpppp	35.0	156.0	0.0		abprppppa,abprppppp	186.0
+abprppp	ABprppp	ABprppp	30.0	121.0	0.0		abprpppa,abprpppp	156.0
+abprpp	ABprpp	ABprpp	20.0	90.0	0.0		abprppa,abprppp	121.0
+abprp	ABprp	ABprp	20.0	70.0	0.0		abprpa,abprpp	90.0
+abpr	ABpr	ABpr	18.0	50.0	0.0		abpra,abprp	70.0
+abp	ABp	ABp	17.0	32.0	0.0		abpl,abpr	50.0
+p0a	P0a	AB	15.0	15.0	0.0		aba,abp	32.0
+ealaad	Ealaad	int1DL	131.0	377.0	0.0	intestine
+ealaav	Ealaav	int1VL	131.0	377.0	0.0	intestine
+ealaa	Ealaa	Ealaa	65.0	246.0	0.0		ealaad,ealaav	377.0
+ealapa	Ealapa	int3Va	40.0	286.0	0.0	intestine
+ealapp	Ealapp	int3Vp	40.0	286.0	0.0	intestine
+ealap	Ealap	int3V	65.0	246.0	0.0		ealapa,ealapp	286.0
+eala	Eala	Eala	55.0	180.0	0.0		ealaa,ealap	246.0
+ealpa	Ealpa	int2V	65.0	246.0	0.0	intestine
+ealppa	Ealppa	int5La	40.0	286.0	0.0	intestine
+ealppp	Ealppp	int5Lp	40.0	286.0	0.0	intestine
+ealpp	Ealpp	int5L	65.0	246.0	0.0		ealppa,ealppp	286.0
+ealp	Ealp	Ealp	55.0	180.0	0.0		ealpa,ealpp	246.0
+eal	Eal	Eal	52.0	125.0	0.0		eala,ealp	180.0
+earaad	Earaad	int1DR	131.0	377.0	0.0	intestine
+earaav	Earaav	int1VR	131.0	377.0	0.0	intestine
+earaa	Earaa	Earaa	65.0	246.0	0.0		earaad,earaav	377.0
+earapa	Earapa	int3Da	40.0	286.0	0.0	intestine
+earapp	Earapp	int3Dp	40.0	286.0	0.0	intestine
+earap	Earap	int3D	65.0	246.0	0.0		earapa,earapp	286.0
+eara	Eara	Eara	55.0	180.0	0.0		earaa,earap	246.0
+earpa	Earpa	int2D	65.0	246.0	0.0	intestine
+earppa	Earppa	int5Ra	40.0	286.0	0.0	intestine
+earppp	Earppp	int5Rp	40.0	286.0	0.0	intestine
+earpp	Earpp	int5R	65.0	246.0	0.0		earppa,earppp	286.0
+earp	Earp	Earp	55.0	180.0	0.0		earpa,earpp	246.0
+ear	Ear	Ear	52.0	125.0	0.0		eara,earp	180.0
+ea	Ea	Ea	19.0	73.0	0.0		eal,ear	125.0
+eplaaa	Eplaaa	int4Va	40.0	291.0	0.0	intestine
+eplaap	Eplaap	int4Vp	40.0	291.0	0.0	intestine
+eplaa	Eplaa	int4V	65.0	251.0	0.0		eplaaa,eplaap	291.0
+eplapa	Eplapa	int6La	40.0	291.0	0.0	intestine
+eplapp	Eplapp	int6Lp	40.0	291.0	0.0	intestine
+eplap	Eplap	int6L	65.0	251.0	0.0		eplapa,eplapp	291.0
+epla	Epla	Epla	55.0	186.0	0.0		eplaa,eplap	251.0
+eplpaa	Eplpaa	int7La	40.0	302.0	0.0	intestine
+eplpap	Eplpap	int7Lp	40.0	302.0	0.0	intestine
+eplpa	Eplpa	int7L	76.0	261.0	0.0		eplpaa,eplpap	302.0
+eplppaa	Eplppaa	int8La	40.0	433.0	0.0	intestine
+eplppap	Eplppap	int8Lp	40.0	433.0	0.0	intestine
+eplppa	Eplppa	int8L	131.0	393.0	0.0		eplppaa,eplppap	433.0
+eplpppa	Eplpppa	int9La	40.0	433.0	0.0	intestine
+eplpppp	Eplpppp	int9Lp	40.0	433.0	0.0	intestine
+eplppp	Eplppp	int9L	131.0	393.0	0.0		eplpppa,eplpppp	433.0
+eplpp	Eplpp	Eplpp	76.0	261.0	0.0		eplppa,eplppp	393.0
+eplp	Eplp	Eplp	55.0	186.0	0.0		eplpa,eplpp	261.0
+epl	Epl	Epl	57.0	130.0	0.0		epla,eplp	186.0
+epraaa	Epraaa	int4Da	40.0	291.0	0.0	intestine
+epraap	Epraap	int4Dp	40.0	291.0	0.0	intestine
+epraa	Epraa	int4D	65.0	251.0	0.0		epraaa,epraap	291.0
+eprapa	Eprapa	int6Ra	40.0	291.0	0.0	intestine
+eprapp	Eprapp	int6Rp	40.0	291.0	0.0	intestine
+eprap	Eprap	int6R	65.0	251.0	0.0		eprapa,eprapp	291.0
+epra	Epra	Epra	55.0	186.0	0.0		epraa,eprap	251.0
+eprpaa	Eprpaa	int7Ra	40.0	302.0	0.0	intestine
+eprpap	Eprpap	int7Rp	40.0	302.0	0.0	intestine
+eprpa	Eprpa	int7R	76.0	261.0	0.0		eprpaa,eprpap	302.0
+eprppaa	Eprppaa	int8Ra	40.0	433.0	0.0	intestine
+eprppap	Eprppap	int8Rp	40.0	433.0	0.0	intestine
+eprppa	Eprppa	int8R	131.0	393.0	0.0		eprppaa,eprppap	433.0
+eprpppa	Eprpppa	int9Ra	40.0	433.0	0.0	intestine
+eprpppp	Eprpppp	int9Rp	40.0	433.0	0.0	intestine
+eprppp	Eprppp	int9R	131.0	393.0	0.0		eprpppa,eprpppp	433.0
+eprpp	Eprpp	Eprpp	76.0	261.0	0.0		eprppa,eprppp	393.0
+eprp	Eprp	Eprp	55.0	186.0	0.0		eprpa,eprpp	261.0
+epr	Epr	Epr	57.0	130.0	0.0		epra,eprp	186.0
+ep	Ep	Ep	19.0	73.0	0.0		epl,epr	130.0
+e	E	E	21.0	54.0	0.0		ea,ep	73.0
+msaaaaaal	MSaaaaaal	GLRDL	123.0	367.0	0.0	other
+msaaaaaar	MSaaaaaar	GLRDR	123.0	367.0	0.0	other
+msaaaaaa	MSaaaaaa	MSaaaaaa	48.0	244.0	0.0		msaaaaaal,msaaaaaar	367.0
+msaaaaapaa	MSaaaaapaa	I3	71.0	367.0	0.0	neuron
+msaaaaapap	MSaaaaapap	g1P	71.0	367.0	0.0	gland
+msaaaaapa	MSaaaaapa	MSaaaaapa	52.0	296.0	0.0		msaaaaapaa,msaaaaapap	367.0
+msaaaaapp	MSaaaaapp	m4DL	52.0	296.0	0.0	muscle
+msaaaaap	MSaaaaap	MSaaaaap	48.0	244.0	0.0		msaaaaapa,msaaaaapp	296.0
+msaaaaa	MSaaaaa	MSaaaaa	35.0	196.0	0.0		msaaaaaa,msaaaaap	244.0
+msaaaapaa	MSaaaapaa	I4	51.0	302.0	0.0	neuron
+msaaaapap	MSaaaapap	m5DL	51.0	302.0	0.0	muscle
+msaaaapa	MSaaaapa	MSaaaapa	55.0	251.0	0.0		msaaaapaa,msaaaapap	302.0
+msaaaappa	MSaaaappa	MSaaaappa	65.0	316.0	51.0	
+msaaaappp	MSaaaappp	m7D	65.0	316.0	0.0	muscle
+msaaaapp	MSaaaapp	MSaaaapp	55.0	251.0	0.0		msaaaappa,msaaaappp	316.0
+msaaaap	MSaaaap	MSaaaap	35.0	196.0	0.0		msaaaapa,msaaaapp	251.0
+msaaaa	MSaaaa	MSaaaa	30.0	161.0	0.0		msaaaaa,msaaaap	196.0
+msaaapaaa	MSaaapaaa	m3DL	45.0	301.0	0.0	muscle
+msaaapaap	MSaaapaap	m4L	45.0	301.0	0.0	muscle
+msaaapaa	MSaaapaa	MSaaapaa	52.0	256.0	0.0		msaaapaaa,msaaapaap	301.0
+msaaapapa	MSaaapapa	mc3DL	61.0	316.0	0.0	marginal
+msaaapapp	MSaaapapp	m8	61.0	316.0	0.0	muscle
+msaaapap	MSaaapap	MSaaapap	52.0	256.0	0.0		msaaapapa,msaaapapp	316.0
+msaaapa	MSaaapa	MSaaapa	43.0	204.0	0.0		msaaapaa,msaaapap	256.0
+msaaappa	MSaaappa	MSaaappa	93.0	296.0	25.0	
+msaaappp	MSaaappp	vpi3D	93.0	296.0	0.0	valve
+msaaapp	MSaaapp	MSaaapp	43.0	204.0	0.0		msaaappa,msaaappp	296.0
+msaaap	MSaaap	MSaaap	30.0	161.0	0.0		msaaapa,msaaapp	204.0
+msaaa	MSaaa	MSaaa	30.0	130.0	0.0		msaaaa,msaaap	161.0
+msaapaaaa	MSaapaaaa	m4VL	45.0	296.0	0.0	muscle
+msaapaaap	MSaapaaap	m5VL	45.0	296.0	0.0	muscle
+msaapaaa	MSaapaaa	MSaapaaa	55.0	251.0	0.0		msaapaaaa,msaapaaap	296.0
+msaapaapaa	MSaapaapaa	g1AL	106.0	397.0	0.0	gland
+msaapaapap	MSaapaapap	MSaapaapap	106.0	397.0	35.0	
+msaapaapa	MSaapaapa	MSaapaapa	40.0	291.0	0.0		msaapaapaa,msaapaapap	397.0
+msaapaapp	MSaapaapp	m7VL	40.0	291.0	0.0	muscle
+msaapaap	MSaapaap	MSaapaap	55.0	251.0	0.0		msaapaapa,msaapaapp	291.0
+msaapaa	MSaapaa	MSaapaa	35.0	196.0	0.0		msaapaaa,msaapaap	251.0
+msaapapaa	MSaapapaa	g2L	111.0	368.0	0.0	gland
+msaapapap	MSaapapap	MSaapapap	111.0	368.0	40.0	
+msaapapa	MSaapapa	MSaapapa	61.0	256.0	0.0		msaapapaa,msaapapap	368.0
+msaapappa	MSaapappa	m6VL	51.0	307.0	0.0	muscle
+msaapappp	MSaapappp	vpi2DL	51.0	307.0	0.0	valve
+msaapapp	MSaapapp	MSaapapp	61.0	256.0	0.0		msaapappa,msaapappp	307.0
+msaapap	MSaapap	MSaapap	35.0	196.0	0.0		msaapapa,msaapapp	256.0
+msaapa	MSaapa	MSaapa	30.0	161.0	0.0		msaapaa,msaapap	196.0
+msaappaa	MSaappaa	vpi2V	97.0	307.0	0.0	valve
+msaappap	MSaappap	vpi3V	97.0	307.0	0.0	valve
+msaappa	MSaappa	MSaappa	49.0	210.0	0.0		msaappaa,msaappap	307.0
+msaapppaa	MSaapppaa	mu bod	71.0	357.0	0.0	muscle
+msaapppap	MSaapppap	mu bod	71.0	357.0	0.0	muscle
+msaapppa	MSaapppa	MSaapppa	77.0	287.0	0.0		msaapppaa,msaapppap	357.0
+msaappppa	MSaappppa	mu bod	101.0	388.0	0.0	muscle
+msaappppp	MSaappppp	mu bod	101.0	388.0	0.0	muscle
+msaapppp	MSaapppp	MSaapppp	77.0	287.0	0.0		msaappppa,msaappppp	388.0
+msaappp	MSaappp	MSaappp	49.0	210.0	0.0		msaapppa,msaapppp	287.0
+msaapp	MSaapp	MSaapp	30.0	161.0	0.0		msaappa,msaappp	210.0
+msaap	MSaap	MSaap	30.0	130.0	0.0		msaapa,msaapp	161.0
+msaa	MSaa	MSaa	27.0	100.0	0.0		msaaa,msaap	130.0
+msapaaaad	MSapaaaad	GLRL	131.0	387.0	0.0	other
+msapaaaav	MSapaaaav	GLRVL	131.0	387.0	0.0	other
+msapaaaa	MSapaaaa	MSapaaaa	52.0	256.0	0.0		msapaaaad,msapaaaav	387.0
+msapaaap	MSapaaap	mu bod	52.0	256.0	0.0	muscle
+msapaaa	MSapaaa	MSapaaa	38.0	204.0	0.0		msapaaaa,msapaaap	256.0
+msapaapa	MSapaapa	MSapaapa	72.0	276.0	30.0	
+mdlaa	Mdlaa	mu bod	152.0	1610.0	0.0	muscle
+mdlap	Mdlap	mu bod	152.0	1610.0	0.0	muscle
+mdla	Mdla	Mdla	121.0	1459.0	0.0		mdlaa,mdlap	1610.0
+mdlpa	Mdlpa	cc herm DL	212.0	1671.0	0.0	coelomocyte
+mdlpp	Mdlpp	mu bod	212.0	1671.0	0.0	muscle
+mdlp	Mdlp	Mdlp	121.0	1459.0	0.0		mdlpa,mdlpp	1671.0
+mdl	Mdl	Mdl	121.0	1337.0	0.0		mdla,mdlp	1459.0
+mdraa	Mdraa	mu bod	152.0	1610.0	0.0	muscle
+mdrap	Mdrap	mu bod	152.0	1610.0	0.0	muscle
+mdra	Mdra	Mdra	121.0	1459.0	0.0		mdraa,mdrap	1610.0
+mdrpa	Mdrpa	cc herm DR	212.0	1671.0	0.0	coelomocyte
+mdrpp	Mdrpp	mu bod	212.0	1671.0	0.0	muscle
+mdrp	Mdrp	Mdrp	121.0	1459.0	0.0		mdrpa,mdrpp	1671.0
+mdr	Mdr	Mdr	121.0	1337.0	0.0		mdra,mdrp	1459.0
+md	Md	Md	940.0	1216.0	0.0		mdl,mdr	1337.0
+mvlaa	Mvlaa	mu bod	121.0	1549.0	0.0	muscle
+mvlap	Mvlap	mu bod	121.0	1549.0	0.0	muscle
+mvla	Mvla	Mvla	121.0	1428.0	0.0		mvlaa,mvlap	1549.0
+mvlpaaaaa	Mvlpaaaaa	um2	152.0	2884.0	0.0	muscle
+mvlpaaaap	Mvlpaaaap	um1	152.0	2884.0	0.0	muscle
+mvlpaaaa	Mvlpaaaa	Mvlpaaaa	152.0	2732.0	0.0		mvlpaaaaa,mvlpaaaap	2884.0
+mvlpaaapa	Mvlpaaapa	vm2	152.0	2884.0	0.0	muscle
+mvlpaaapp	Mvlpaaapp	vm1	152.0	2884.0	0.0	muscle
+mvlpaaap	Mvlpaaap	Mvlpaaap	152.0	2732.0	0.0		mvlpaaapa,mvlpaaapp	2884.0
+mvlpaaa	Mvlpaaa	Mvlpaaa	879.0	2580.0	0.0		mvlpaaaa,mvlpaaap	2732.0
+mvlpaapaa	Mvlpaapaa	vm1	152.0	2884.0	0.0	muscle
+mvlpaapap	Mvlpaapap	vm2	152.0	2884.0	0.0	muscle
+mvlpaapa	Mvlpaapa	Mvlpaapa	152.0	2732.0	0.0		mvlpaapaa,mvlpaapap	2884.0
+mvlpaappa	Mvlpaappa	um1	152.0	2884.0	0.0	muscle
+mvlpaappp	Mvlpaappp	um2	152.0	2884.0	0.0	muscle
+mvlpaapp	Mvlpaapp	Mvlpaapp	152.0	2732.0	0.0		mvlpaappa,mvlpaappp	2884.0
+mvlpaap	Mvlpaap	Mvlpaap	879.0	2580.0	0.0		mvlpaapa,mvlpaapp	2732.0
+mvlpaa	Mvlpaa	Mvlpaa	152.0	1701.0	0.0		mvlpaaa,mvlpaap	2580.0
+mvlpap	Mvlpap	mu bod	152.0	1701.0	0.0	muscle
+mvlpa	Mvlpa	Mvlpa	121.0	1549.0	0.0		mvlpaa,mvlpap	1701.0
+mvlpp	Mvlpp	mu bod	121.0	1549.0	0.0	muscle
+mvlp	Mvlp	Mvlp	121.0	1428.0	0.0		mvlpa,mvlpp	1549.0
+mvl	Mvl	Mvl	91.0	1307.0	0.0		mvla,mvlp	1428.0
+mvraa	Mvraa	mu bod	121.0	1549.0	0.0	muscle
+mvrap	Mvrap	mu bod	121.0	1549.0	0.0	muscle
+mvra	Mvra	Mvra	121.0	1428.0	0.0		mvraa,mvrap	1549.0
+mvrpaaaaa	Mvrpaaaaa	um2	152.0	2884.0	0.0	muscle
+mvrpaaaap	Mvrpaaaap	um1	152.0	2884.0	0.0	muscle
+mvrpaaaa	Mvrpaaaa	Mvrpaaaa	152.0	2732.0	0.0		mvrpaaaaa,mvrpaaaap	2884.0
+mvrpaaapa	Mvrpaaapa	vm2	152.0	2884.0	0.0	muscle
+mvrpaaapp	Mvrpaaapp	vm1	152.0	2884.0	0.0	muscle
+mvrpaaap	Mvrpaaap	Mvrpaaap	152.0	2732.0	0.0		mvrpaaapa,mvrpaaapp	2884.0
+mvrpaaa	Mvrpaaa	Mvrpaaa	879.0	2580.0	0.0		mvrpaaaa,mvrpaaap	2732.0
+mvrpaapaa	Mvrpaapaa	vm1	152.0	2884.0	0.0	muscle
+mvrpaapap	Mvrpaapap	vm2	152.0	2884.0	0.0	muscle
+mvrpaapa	Mvrpaapa	Mvrpaapa	152.0	2732.0	0.0		mvrpaapaa,mvrpaapap	2884.0
+mvrpaappa	Mvrpaappa	um1	152.0	2884.0	0.0	muscle
+mvrpaappp	Mvrpaappp	um2	152.0	2884.0	0.0	muscle
+mvrpaapp	Mvrpaapp	Mvrpaapp	152.0	2732.0	0.0		mvrpaappa,mvrpaappp	2884.0
+mvrpaap	Mvrpaap	Mvrpaap	879.0	2580.0	0.0		mvrpaapa,mvrpaapp	2732.0
+mvrpaa	Mvrpaa	Mvrpaa	152.0	1701.0	0.0		mvrpaaa,mvrpaap	2580.0
+mvrpap	Mvrpap	mu bod	152.0	1701.0	0.0	muscle
+mvrpa	Mvrpa	Mvrpa	121.0	1549.0	0.0		mvrpaa,mvrpap	1701.0
+mvrpp	Mvrpp	mu bod	121.0	1549.0	0.0	muscle
+mvrp	Mvrp	Mvrp	121.0	1428.0	0.0		mvrpa,mvrpp	1549.0
+mvr	Mvr	Mvr	91.0	1307.0	0.0		mvra,mvrp	1428.0
+mv	Mv	Mv	940.0	1216.0	0.0		mvl,mvr	1307.0
+msapaapp	MSapaapp	M	72.0	276.0	0.0		md,mv	1216.0
+msapaap	MSapaap	MSapaap	38.0	204.0	0.0		msapaapa,msapaapp	276.0
+msapaa	MSapaa	MSapaa	30.0	165.0	0.0		msapaaa,msapaap	204.0
+msapapaaa	MSapapaaa	ccAL	202.0	458.0	0.0	coelomocyte
+msapapaap	MSapapaap	ccPL	202.0	458.0	0.0	coelomocyte
+msapapaa	MSapapaa	MSapapaa	52.0	256.0	0.0		msapapaaa,msapapaap	458.0
+msapapap	MSapapap	mu bod	52.0	256.0	0.0	muscle
+msapapa	MSapapa	MSapapa	38.0	204.0	0.0		msapapaa,msapapap	256.0
+msapappa	MSapappa	mu bod	62.0	266.0	0.0	muscle
+msapappp	MSapappp	mu bod	62.0	266.0	0.0	muscle
+msapapp	MSapapp	MSapapp	38.0	204.0	0.0		msapappa,msapappp	266.0
+msapap	MSapap	MSapap	30.0	165.0	0.0		msapapa,msapapp	204.0
+msapa	MSapa	MSapa	35.0	135.0	0.0		msapaa,msapap	165.0
+msappaaa	MSappaaa	hmc	71.0	281.0	0.0	mesoderm
+z4aaaaaaa	Z4aaaaaaa	gon herm vut	61.0	2944.0	0.0	repro
+z4aaaaaap	Z4aaaaaap	gon herm vut	61.0	2944.0	0.0	repro
+z4aaaaaa	Z4aaaaaa	Z4aaaaaa	182.0	2883.0	0.0		z4aaaaaaa,z4aaaaaap	2944.0
+z4aaaaapa	Z4aaaaapa	gon herm vut	61.0	2944.0	0.0	repro
+z4aaaaapp	Z4aaaaapp	gon herm vut	61.0	2944.0	0.0	repro
+z4aaaaap	Z4aaaaap	Z4aaaaap	182.0	2883.0	0.0		z4aaaaapa,z4aaaaapp	2944.0
+z4aaaaa	Z4aaaaa	Z4aaaaa	182.0	2701.0	0.0		z4aaaaaa,z4aaaaap	2883.0
+z4aaaapd	Z4aaaapd	gon herm vut	182.0	2883.0	0.0	repro
+z4aaaapv	Z4aaaapv	gon herm vut	182.0	2883.0	0.0	repro
+z4aaaap	Z4aaaap	Z4aaaap	182.0	2701.0	0.0		z4aaaapd,z4aaaapv	2883.0
+z4aaaa	Z4aaaa	Z4aaaa	667.0	2519.0	0.0		z4aaaaa,z4aaaap	2701.0
+z4aaapad	Z4aaapad	gon herm vut	182.0	2883.0	0.0	repro
+z4aaapav	Z4aaapav	gon herm vut	182.0	2883.0	0.0	repro
+z4aaapa	Z4aaapa	Z4aaapa	182.0	2701.0	0.0		z4aaapad,z4aaapav	2883.0
+z4aaappd	Z4aaappd	gon herm vut	182.0	2883.0	0.0	repro
+z4aaappv	Z4aaappv	gon herm vut	182.0	2883.0	0.0	repro
+z4aaapp	Z4aaapp	Z4aaapp	182.0	2701.0	0.0		z4aaappd,z4aaappv	2883.0
+z4aaap	Z4aaap	Z4aaap	667.0	2519.0	0.0		z4aaapa,z4aaapp	2701.0
+z4aaa	Z4aaa	Z4aaa	364.0	1852.0	0.0		z4aaaa,z4aaap	2519.0
+z4aapaad	Z4aapaad	gon herm vut	182.0	2883.0	0.0	repro
+z4aapaav	Z4aapaav	gon herm vut	182.0	2883.0	0.0	repro
+z4aapaa	Z4aapaa	Z4aapaa	182.0	2701.0	0.0		z4aapaad,z4aapaav	2883.0
+z4aapapaa	Z4aapapaa	gon herm vut	61.0	2944.0	0.0	repro
+z4aapapap	Z4aapapap	gon herm vut	61.0	2944.0	0.0	repro
+z4aapapa	Z4aapapa	Z4aapapa	182.0	2883.0	0.0		z4aapapaa,z4aapapap	2944.0
+z4aapappa	Z4aapappa	gon herm vut	61.0	2944.0	0.0	repro
+z4aapappp	Z4aapappp	gon herm vut	61.0	2944.0	0.0	repro
+z4aapapp	Z4aapapp	Z4aapapp	182.0	2883.0	0.0		z4aapappa,z4aapappp	2944.0
+z4aapap	Z4aapap	Z4aapap	182.0	2701.0	0.0		z4aapapa,z4aapapp	2883.0
+z4aapa	Z4aapa	Z4aapa	667.0	2519.0	0.0		z4aapaa,z4aapap	2701.0
+z4aappaaa	Z4aappaaa	gon herm vut	61.0	2944.0	0.0	repro
+z4aappaap	Z4aappaap	gon herm vut	61.0	2944.0	0.0	repro
+z4aappaa	Z4aappaa	Z4aappaa	182.0	2883.0	0.0		z4aappaaa,z4aappaap	2944.0
+z4aappapa	Z4aappapa	gon herm vut	61.0	2944.0	0.0	repro
+z4aappapp	Z4aappapp	gon herm vut	61.0	2944.0	0.0	repro
+z4aappap	Z4aappap	Z4aappap	182.0	2883.0	0.0		z4aappapa,z4aappapp	2944.0
+z4aappa	Z4aappa	Z4aappa	182.0	2701.0	0.0		z4aappaa,z4aappap	2883.0
+z4aapppaa	Z4aapppaa	gon herm vut	61.0	2944.0	0.0	repro
+z4aapppap	Z4aapppap	gon herm sujn P	61.0	2944.0	0.0	repro
+z4aapppa	Z4aapppa	Z4aapppa	182.0	2883.0	0.0		z4aapppaa,z4aapppap	2944.0
+z4aappppa	Z4aappppa	gon herm vut	61.0	2944.0	0.0	repro
+z4aappppp	Z4aappppp	gon herm sujn P	61.0	2944.0	0.0	repro
+z4aapppp	Z4aapppp	Z4aapppp	182.0	2883.0	0.0		z4aappppa,z4aappppp	2944.0
+z4aappp	Z4aappp	Z4aappp	182.0	2701.0	0.0		z4aapppa,z4aapppp	2883.0
+z4aapp	Z4aapp	Z4aapp	667.0	2519.0	0.0		z4aappa,z4aappp	2701.0
+z4aap	Z4aap	Z4aap	364.0	1852.0	0.0		z4aapa,z4aapp	2519.0
+z4aa	Z4aa	Z4aa	152.0	1488.0	0.0		z4aaa,z4aap	1852.0
+z4apaaaad	Z4apaaaad	gon herm spth A	182.0	2883.0	0.0	repro
+z4apaaaav	Z4apaaaav	gon herm spth A	182.0	2883.0	0.0	repro
+z4apaaaa	Z4apaaaa	Z4apaaaa	182.0	2701.0	0.0		z4apaaaad,z4apaaaav	2883.0
+z4apaaapd	Z4apaaapd	gon herm sujn A	182.0	2883.0	0.0	repro
+z4apaaapv	Z4apaaapv	gon herm spth A	182.0	2883.0	0.0	repro
+z4apaaap	Z4apaaap	Z4apaaap	182.0	2701.0	0.0		z4apaaapd,z4apaaapv	2883.0
+z4apaaa	Z4apaaa	Z4apaaa	61.0	2519.0	0.0		z4apaaaa,z4apaaap	2701.0
+z4apaapaaa	Z4apaapaaa	gon herm sujn A	152.0	3004.0	0.0	repro
+z4apaapaap	Z4apaapaap	gon herm dut	152.0	3004.0	0.0	repro
+z4apaapaa	Z4apaapaa	Z4apaapaa	182.0	2853.0	0.0		z4apaapaaa,z4apaapaap	3004.0
+z4apaapapa	Z4apaapapa	gon herm dut	152.0	3004.0	0.0	repro
+z4apaapapp	Z4apaapapp	gon herm dut	152.0	3004.0	0.0	repro
+z4apaapap	Z4apaapap	Z4apaapap	182.0	2853.0	0.0		z4apaapapa,z4apaapapp	3004.0
+z4apaapa	Z4apaapa	Z4apaapa	152.0	2671.0	0.0		z4apaapaa,z4apaapap	2853.0
+z4apaappaa	Z4apaappaa	gon herm dut	152.0	3004.0	0.0	repro
+z4apaappap	Z4apaappap	gon herm dut	152.0	3004.0	0.0	repro
+z4apaappa	Z4apaappa	Z4apaappa	182.0	2853.0	0.0		z4apaappaa,z4apaappap	3004.0
+z4apaapppa	Z4apaapppa	gon herm dut	152.0	3004.0	0.0	repro
+z4apaapppp	Z4apaapppp	gon herm dut	152.0	3004.0	0.0	repro
+z4apaappp	Z4apaappp	Z4apaappp	182.0	2853.0	0.0		z4apaapppa,z4apaapppp	3004.0
+z4apaapp	Z4apaapp	Z4apaapp	152.0	2671.0	0.0		z4apaappa,z4apaappp	2853.0
+z4apaap	Z4apaap	Z4apaap	61.0	2519.0	0.0		z4apaapa,z4apaapp	2671.0
+z4apaa	Z4apaa	Z4apaa	606.0	2459.0	0.0		z4apaaa,z4apaap	2519.0
+z4apapaaaa	Z4apapaaaa	gon herm dut	152.0	3004.0	0.0	repro
+z4apapaaap	Z4apapaaap	gon herm dut	152.0	3004.0	0.0	repro
+z4apapaaa	Z4apapaaa	Z4apapaaa	182.0	2853.0	0.0		z4apapaaaa,z4apapaaap	3004.0
+z4apapaapa	Z4apapaapa	gon herm dut	152.0	3004.0	0.0	repro
+z4apapaapp	Z4apapaapp	gon herm dut	152.0	3004.0	0.0	repro
+z4apapaap	Z4apapaap	Z4apapaap	182.0	2853.0	0.0		z4apapaapa,z4apapaapp	3004.0
+z4apapaa	Z4apapaa	Z4apapaa	152.0	2671.0	0.0		z4apapaaa,z4apapaap	2853.0
+z4apapapaa	Z4apapapaa	gon herm dut	152.0	3004.0	0.0	repro
+z4apapapap	Z4apapapap	gon herm dut	152.0	3004.0	0.0	repro
+z4apapapa	Z4apapapa	Z4apapapa	182.0	2853.0	0.0		z4apapapaa,z4apapapap	3004.0
+z4apapappa	Z4apapappa	gon herm dut	152.0	3004.0	0.0	repro
+z4apapappp	Z4apapappp	gon herm sujn P	152.0	3004.0	0.0	repro
+z4apapapp	Z4apapapp	Z4apapapp	182.0	2853.0	0.0		z4apapappa,z4apapappp	3004.0
+z4apapap	Z4apapap	Z4apapap	152.0	2671.0	0.0		z4apapapa,z4apapapp	2853.0
+z4apapa	Z4apapa	Z4apapa	61.0	2519.0	0.0		z4apapaa,z4apapap	2671.0
+z4apappad	Z4apappad	gon herm sujn P	212.0	2913.0	0.0	repro
+z4apappav	Z4apappav	gon herm spth P	212.0	2913.0	0.0	repro
+z4apappa	Z4apappa	Z4apappa	182.0	2701.0	0.0		z4apappad,z4apappav	2913.0
+z4apapppd	Z4apapppd	gon herm spth P	212.0	2913.0	0.0	repro
+z4apapppv	Z4apapppv	gon herm spth P	212.0	2913.0	0.0	repro
+z4apappp	Z4apappp	Z4apappp	182.0	2701.0	0.0		z4apapppd,z4apapppv	2913.0
+z4apapp	Z4apapp	Z4apapp	61.0	2519.0	0.0		z4apappa,z4apappp	2701.0
+z4apap	Z4apap	Z4apap	606.0	2459.0	0.0		z4apapa,z4apapp	2519.0
+z4apa	Z4apa	Z4apa	364.0	1852.0	0.0		z4apaa,z4apap	2459.0
+z4appaaaa	Z4appaaaa	gon herm spth P	91.0	2944.0	0.0	repro
+z4appaaap	Z4appaaap	gon herm spth P	91.0	2944.0	0.0	repro
+z4appaaa	Z4appaaa	Z4appaaa	182.0	2853.0	0.0		z4appaaaa,z4appaaap	2944.0
+z4appaapaa	Z4appaapaa	gon herm spth P	79.0	3004.0	0.0	repro
+z4appaapapa	Z4appaapapa	gon herm spth P	30.0	3034.0	0.0	repro
+z4appaapapp	Z4appaapapp	gon herm spth P	30.0	3034.0	0.0	repro
+z4appaapap	Z4appaapap	Z4appaapap	79.0	3004.0	0.0		z4appaapapa,z4appaapapp	3034.0
+z4appaapa	Z4appaapa	Z4appaapa	72.0	2925.0	0.0		z4appaapaa,z4appaapap	3004.0
+z4appaappaa	Z4appaappaa	gon herm spth P	30.0	3034.0	0.0	repro
+z4appaappap	Z4appaappap	gon herm spth P	30.0	3034.0	0.0	repro
+z4appaappa	Z4appaappa	Z4appaappa	79.0	3004.0	0.0		z4appaappaa,z4appaappap	3034.0
+z4appaapppa	Z4appaapppa	gon herm spth P	12.0	3015.0	0.0	repro
+z4appaapppp	Z4appaapppp	gon herm spth P	12.0	3015.0	0.0	repro
+z4appaappp	Z4appaappp	Z4appaappp	79.0	3004.0	0.0		z4appaapppa,z4appaapppp	3015.0
+z4appaapp	Z4appaapp	Z4appaapp	72.0	2925.0	0.0		z4appaappa,z4appaappp	3004.0
+z4appaap	Z4appaap	Z4appaap	182.0	2853.0	0.0		z4appaapa,z4appaapp	2925.0
+z4appaa	Z4appaa	Z4appaa	182.0	2671.0	0.0		z4appaaa,z4appaap	2853.0
+z4appapaa	Z4appapaa	posterior sheath	91.0	2944.0	0.0	repro
+z4appapap	Z4appapap	posterior sheath	91.0	2944.0	0.0	repro
+z4appapa	Z4appapa	Z4appapa	182.0	2853.0	0.0		z4appapaa,z4appapap	2944.0
+z4appappa	Z4appappa	posterior sheath	72.0	2925.0	0.0	repro
+z4appappp	Z4appappp	posterior sheath	72.0	2925.0	0.0	repro
+z4appapp	Z4appapp	Z4appapp	182.0	2853.0	0.0		z4appappa,z4appappp	2925.0
+z4appap	Z4appap	Z4appap	182.0	2671.0	0.0		z4appapa,z4appapp	2853.0
+z4appa	Z4appa	Z4appa	637.0	2489.0	0.0		z4appaa,z4appap	2671.0
+z4appp	Z4appp	gon herm dish P	637.0	2489.0	0.0	epithelium
+z4app	Z4app	Z4app	364.0	1852.0	0.0		z4appa,z4appp	2489.0
+z4ap	Z4ap	Z4ap	152.0	1488.0	0.0		z4apa,z4app	1852.0
+z4a	Z4a	Z4a	1056.0	1337.0	0.0		z4aa,z4ap	1488.0
+z4paaaaa	Z4paaaaa	gon herm spth P	121.0	2974.0	0.0	repro
+z4paaaap	Z4paaaap	gon herm spth P	121.0	2974.0	0.0	repro
+z4paaaa	Z4paaaa	Z4paaaa	182.0	2853.0	0.0		z4paaaaa,z4paaaap	2974.0
+z4paaapaa	Z4paaapaa	gon herm spth P	79.0	3004.0	0.0	repro
+z4paaapapa	Z4paaapapa	gon herm spth P	30.0	3034.0	0.0	repro
+z4paaapapp	Z4paaapapp	gon herm spth P	30.0	3034.0	0.0	repro
+z4paaapap	Z4paaapap	Z4paaapap	79.0	3004.0	0.0		z4paaapapa,z4paaapapp	3034.0
+z4paaapa	Z4paaapa	Z4paaapa	72.0	2925.0	0.0		z4paaapaa,z4paaapap	3004.0
+z4paaappaa	Z4paaappaa	gon herm spth P	30.0	3034.0	0.0	repro
+z4paaappap	Z4paaappap	gon herm spth P	30.0	3034.0	0.0	repro
+z4paaappa	Z4paaappa	Z4paaappa	79.0	3004.0	0.0		z4paaappaa,z4paaappap	3034.0
+z4paaapppa	Z4paaapppa	gon herm spth P	30.0	3034.0	0.0	repro
+z4paaapppp	Z4paaapppp	gon herm spth P	30.0	3034.0	0.0	repro
+z4paaappp	Z4paaappp	Z4paaappp	79.0	3004.0	0.0		z4paaapppa,z4paaapppp	3034.0
+z4paaapp	Z4paaapp	Z4paaapp	72.0	2925.0	0.0		z4paaappa,z4paaappp	3004.0
+z4paaap	Z4paaap	Z4paaap	182.0	2853.0	0.0		z4paaapa,z4paaapp	2925.0
+z4paaa	Z4paaa	Z4paaa	182.0	2671.0	0.0		z4paaaa,z4paaap	2853.0
+z4paapaa	Z4paapaa	gon herm prsh P	91.0	2944.0	0.0	epithelium
+z4paapap	Z4paapap	gon herm prsh P	91.0	2944.0	0.0	epithelium
+z4paapa	Z4paapa	Z4paapa	182.0	2853.0	0.0		z4paapaa,z4paapap	2944.0
+z4paappa	Z4paappa	gon herm prsh P	91.0	2944.0	0.0	epithelium
+z4paappp	Z4paappp	gon herm prsh P	91.0	2944.0	0.0	epithelium
+z4paapp	Z4paapp	Z4paapp	182.0	2853.0	0.0		z4paappa,z4paappp	2944.0
+z4paap	Z4paap	Z4paap	182.0	2671.0	0.0		z4paapa,z4paapp	2853.0
+z4paa	Z4paa	Z4paa	1001.0	2489.0	0.0		z4paaa,z4paap	2671.0
+z4pap	Z4pap	gon herm dish P	1001.0	2489.0	0.0	epithelium
+z4pa	Z4pa	Z4pa	152.0	1488.0	0.0		z4paa,z4pap	2489.0
+z4pp	Z4pp	gon herm dtc B	152.0	1488.0	0.0	repro
+z4p	Z4p	Z4p	1056.0	1337.0	0.0		z4pa,z4pp	1488.0
+msappaap	MSappaap	Z4	71.0	281.0	0.0		z4a,z4p	1337.0
+msappaa	MSappaa	MSappaa	44.0	210.0	0.0		msappaaa,msappaap	281.0
+msappapa	MSappapa	MSappapa	77.0	286.0	30.0	
+msappapp	MSappapp	mu bod	77.0	286.0	0.0	muscle
+msappap	MSappap	MSappap	44.0	210.0	0.0		msappapa,msappapp	286.0
+msappa	MSappa	MSappa	30.0	165.0	0.0		msappaa,msappap	210.0
+msapppaa	MSapppaa	mu bod	66.0	276.0	0.0	muscle
+msapppap	MSapppap	mu bod	66.0	276.0	0.0	muscle
+msapppa	MSapppa	MSapppa	44.0	210.0	0.0		msapppaa,msapppap	276.0
+msappppa	MSappppa	mu bod	66.0	276.0	0.0	muscle
+msappppp	MSappppp	mu bod	66.0	276.0	0.0	muscle
+msapppp	MSapppp	MSapppp	44.0	210.0	0.0		msappppa,msappppp	276.0
+msappp	MSappp	MSappp	30.0	165.0	0.0		msapppa,msapppp	210.0
+msapp	MSapp	MSapp	35.0	135.0	0.0		msappa,msappp	165.0
+msap	MSap	MSap	27.0	100.0	0.0		msapa,msapp	135.0
+msa	MSa	MSa	19.0	73.0	0.0		msaa,msap	100.0
+mspaaaaaa	MSpaaaaaa	M4	101.0	347.0	0.0	neuron
+mspaaaaap	MSpaaaaap	MSpaaaaap	101.0	347.0	45.0	
+mspaaaaa	MSpaaaaa	MSpaaaaa	45.0	246.0	0.0		mspaaaaaa,mspaaaaap	347.0
+mspaaaapa	MSpaaaapa	m3DR	61.0	306.0	0.0	muscle
+mspaaaapp	MSpaaaapp	m4DR	61.0	306.0	0.0	muscle
+mspaaaap	MSpaaaap	MSpaaaap	45.0	246.0	0.0		mspaaaapa,mspaaaapp	306.0
+mspaaaa	MSpaaaa	MSpaaaa	35.0	201.0	0.0		mspaaaaa,mspaaaap	246.0
+mspaaapaa	MSpaaapaa	I6	86.0	337.0	0.0	neuron
+mspaaapap	MSpaaapap	M5	86.0	337.0	0.0	neuron
+mspaaapa	MSpaaapa	MSpaaapa	51.0	251.0	0.0		mspaaapaa,mspaaapap	337.0
+mspaaappa	MSpaaappa	m5DR	65.0	316.0	0.0	muscle
+mspaaappp	MSpaaappp	m6D	65.0	316.0	0.0	muscle
+mspaaapp	MSpaaapp	MSpaaapp	51.0	251.0	0.0		mspaaappa,mspaaappp	316.0
+mspaaap	MSpaaap	MSpaaap	35.0	201.0	0.0		mspaaapa,mspaaapp	251.0
+mspaaa	MSpaaa	MSpaaa	30.0	165.0	0.0		mspaaaa,mspaaap	201.0
+mspaapaaa	MSpaapaaa	M1	81.0	342.0	0.0	neuron
+mspaapaap	MSpaapaap	MSpaapaap	81.0	342.0	45.0	
+mspaapaa	MSpaapaa	MSpaapaa	55.0	261.0	0.0		mspaapaaa,mspaapaap	342.0
+mspaapapa	MSpaapapa	mc3DR	61.0	322.0	0.0	marginal
+mspaapapp	MSpaapapp	vpi1	61.0	322.0	0.0	valve
+mspaapap	MSpaapap	MSpaapap	55.0	261.0	0.0		mspaapapa,mspaapapp	322.0
+mspaapa	MSpaapa	MSpaapa	40.0	206.0	0.0		mspaapaa,mspaapap	261.0
+mspaapp	MSpaapp	MSpaapp	40.0	206.0	33.0	
+mspaap	MSpaap	MSpaap	30.0	165.0	0.0		mspaapa,mspaapp	206.0
+mspaa	MSpaa	MSpaa	35.0	135.0	0.0		mspaaa,mspaap	165.0
+mspapaaaa	MSpapaaaa	m4VR	43.0	294.0	0.0	muscle
+mspapaaap	MSpapaaap	m5VR	43.0	294.0	0.0	muscle
+mspapaaa	MSpapaaa	MSpapaaa	51.0	251.0	0.0		mspapaaaa,mspapaaap	294.0
+mspapaapaa	MSpapaapaa	g1AR	106.0	397.0	0.0	gland
+mspapaapap	MSpapaapap	MSpapaapap	106.0	397.0	32.0	
+mspapaapa	MSpapaapa	MSpapaapa	40.0	291.0	0.0		mspapaapaa,mspapaapap	397.0
+mspapaapp	MSpapaapp	m7VR	40.0	291.0	0.0	muscle
+mspapaap	MSpapaap	MSpapaap	51.0	251.0	0.0		mspapaapa,mspapaapp	291.0
+mspapaa	MSpapaa	MSpapaa	35.0	201.0	0.0		mspapaaa,mspapaap	251.0
+mspapapaa	MSpapapaa	g2R	116.0	372.0	0.0	gland
+mspapapap	MSpapapap	MSpapapap	116.0	372.0	30.0	
+mspapapa	MSpapapa	MSpapapa	55.0	256.0	0.0		mspapapaa,mspapapap	372.0
+mspapappa	MSpapappa	m6VR	51.0	306.0	0.0	muscle
+mspapappp	MSpapappp	vpi2DR	51.0	306.0	0.0	valve
+mspapapp	MSpapapp	MSpapapp	55.0	256.0	0.0		mspapappa,mspapappp	306.0
+mspapap	MSpapap	MSpapap	35.0	201.0	0.0		mspapapa,mspapapp	256.0
+mspapa	MSpapa	MSpapa	30.0	165.0	0.0		mspapaa,mspapap	201.0
+mspappaa	MSpappaa	mu bod	76.0	286.0	0.0	muscle
+mspappap	MSpappap	mu bod	76.0	286.0	0.0	muscle
+mspappa	MSpappa	MSpappa	45.0	211.0	0.0		mspappaa,mspappap	286.0
+mspapppaa	MSpapppaa	mu bod	76.0	362.0	0.0	muscle
+mspapppap	MSpapppap	mu bod	76.0	362.0	0.0	muscle
+mspapppa	MSpapppa	MSpapppa	76.0	286.0	0.0		mspapppaa,mspapppap	362.0
+mspappppa	MSpappppa	mu bod	96.0	382.0	0.0	muscle
+mspappppp	MSpappppp	mu bod	96.0	382.0	0.0	muscle
+mspapppp	MSpapppp	MSpapppp	76.0	286.0	0.0		mspappppa,mspappppp	382.0
+mspappp	MSpappp	MSpappp	45.0	211.0	0.0		mspapppa,mspapppp	286.0
+mspapp	MSpapp	MSpapp	30.0	165.0	0.0		mspappa,mspappp	211.0
+mspap	MSpap	MSpap	35.0	135.0	0.0		mspapa,mspapp	165.0
+mspa	MSpa	MSpa	27.0	100.0	0.0		mspaa,mspap	135.0
+msppaaaad	MSppaaaad	GLRR	131.0	387.0	0.0	other
+msppaaaav	MSppaaaav	GLRVR	131.0	387.0	0.0	other
+msppaaaa	MSppaaaa	MSppaaaa	51.0	256.0	0.0		msppaaaad,msppaaaav	387.0
+msppaaap	MSppaaap	mu bod	51.0	256.0	0.0	muscle
+msppaaa	MSppaaa	MSppaaa	35.0	205.0	0.0		msppaaaa,msppaaap	256.0
+msppaapa	MSppaapa	MSppaapa	71.0	276.0	30.0	
+msppaapp	MSppaapp	mu int R	71.0	276.0	0.0	muscle
+msppaap	MSppaap	MSppaap	35.0	205.0	0.0		msppaapa,msppaapp	276.0
+msppaa	MSppaa	MSppaa	33.0	170.0	0.0		msppaaa,msppaap	205.0
+msppapaaa	MSppapaaa	ccAR	202.0	458.0	0.0	coelomocyte
+msppapaap	MSppapaap	ccPR	202.0	458.0	0.0	coelomocyte
+msppapaa	MSppapaa	MSppapaa	51.0	256.0	0.0		msppapaaa,msppapaap	458.0
+msppapap	MSppapap	mu bod	51.0	256.0	0.0	muscle
+msppapa	MSppapa	MSppapa	35.0	205.0	0.0		msppapaa,msppapap	256.0
+msppappa	MSppappa	mu bod	61.0	266.0	0.0	muscle
+msppappp	MSppappp	mu bod	61.0	266.0	0.0	muscle
+msppapp	MSppapp	MSppapp	35.0	205.0	0.0		msppappa,msppappp	266.0
+msppap	MSppap	MSppap	33.0	170.0	0.0		msppapa,msppapp	205.0
+msppa	MSppa	MSppa	37.0	137.0	0.0		msppaa,msppap	170.0
+mspppaaa	MSpppaaa	MSpppaaa	71.0	281.0	369.0	
+z1aa	Z1aa	gon herm dtc a	152.0	1459.0	0.0	repro
+z1apa	Z1apa	gon herm dish A	1031.0	2489.0	0.0	epithelium
+z1appaaa	Z1appaaa	gon herm prsh A	61.0	2914.0	0.0	epithelium
+z1appaap	Z1appaap	gon herm prsh A	61.0	2914.0	0.0	epithelium
+z1appaa	Z1appaa	Z1appaa	152.0	2853.0	0.0		z1appaaa,z1appaap	2914.0
+z1appapa	Z1appapa	gon herm prsh A	91.0	2944.0	0.0	epithelium
+z1appapp	Z1appapp	gon herm prsh A	91.0	2944.0	0.0	epithelium
+z1appap	Z1appap	Z1appap	152.0	2853.0	0.0		z1appapa,z1appapp	2944.0
+z1appa	Z1appa	Z1appa	212.0	2702.0	0.0		z1appaa,z1appap	2853.0
+z1apppaaaa	Z1apppaaaa	gon herm spth A	30.0	3035.0	0.0	repro
+z1apppaaap	Z1apppaaap	gon herm spth A	30.0	3035.0	0.0	repro
+z1apppaaa	Z1apppaaa	Z1apppaaa	91.0	3005.0	0.0		z1apppaaaa,z1apppaaap	3035.0
+z1apppaapa	Z1apppaapa	gon herm spth A	61.0	3065.0	0.0	repro
+z1apppaapp	Z1apppaapp	gon herm spth A	61.0	3065.0	0.0	repro
+z1apppaap	Z1apppaap	Z1apppaap	91.0	3005.0	0.0		z1apppaapa,z1apppaapp	3065.0
+z1apppaa	Z1apppaa	Z1apppaa	61.0	2914.0	0.0		z1apppaaa,z1apppaap	3005.0
+z1apppapaa	Z1apppapaa	gon herm spth A	61.0	3065.0	0.0	repro
+z1apppapap	Z1apppapap	gon herm spth A	61.0	3065.0	0.0	repro
+z1apppapa	Z1apppapa	Z1apppapa	91.0	3005.0	0.0		z1apppapaa,z1apppapap	3065.0
+z1apppapp	Z1apppapp	gon herm spth A	91.0	3005.0	0.0	repro
+z1apppap	Z1apppap	Z1apppap	61.0	2914.0	0.0		z1apppapa,z1apppapp	3005.0
+z1apppa	Z1apppa	Z1apppa	152.0	2853.0	0.0		z1apppaa,z1apppap	2914.0
+z1appppa	Z1appppa	gon herm spth A	91.0	2944.0	0.0	repro
+z1appppp	Z1appppp	gon herm spth A	91.0	2944.0	0.0	repro
+z1apppp	Z1apppp	Z1apppp	152.0	2853.0	0.0		z1appppa,z1appppp	2944.0
+z1appp	Z1appp	Z1appp	212.0	2702.0	0.0		z1apppa,z1apppp	2853.0
+z1app	Z1app	Z1app	1031.0	2489.0	0.0		z1appa,z1appp	2702.0
+z1ap	Z1ap	Z1ap	152.0	1459.0	0.0		z1apa,z1app	2489.0
+z1a	Z1a	Z1a	1026.0	1307.0	0.0		z1aa,z1ap	1459.0
+z1paaa	Z1paaa	gon herm dish A	637.0	2489.0	0.0	epithelium
+z1paapaaa	Z1paapaaa	gon herm prsh A	61.0	2914.0	0.0	epithelium
+z1paapaap	Z1paapaap	gon herm prsh A	61.0	2914.0	0.0	epithelium
+z1paapaa	Z1paapaa	Z1paapaa	152.0	2853.0	0.0		z1paapaaa,z1paapaap	2914.0
+z1paapapa	Z1paapapa	gon herm prsh A	91.0	2944.0	0.0	epithelium
+z1paapapp	Z1paapapp	gon herm prsh A	91.0	2944.0	0.0	epithelium
+z1paapap	Z1paapap	Z1paapap	152.0	2853.0	0.0		z1paapapa,z1paapapp	2944.0
+z1paapa	Z1paapa	Z1paapa	212.0	2702.0	0.0		z1paapaa,z1paapap	2853.0
+z1paappaaaa	Z1paappaaaa	gon herm spth A	30.0	3035.0	0.0	repro
+z1paappaaap	Z1paappaaap	gon herm spth A	30.0	3035.0	0.0	repro
+z1paappaaa	Z1paappaaa	Z1paappaaa	91.0	3005.0	0.0		z1paappaaaa,z1paappaaap	3035.0
+z1paappaapa	Z1paappaapa	gon herm spth A	61.0	3065.0	0.0	repro
+z1paappaapp	Z1paappaapp	gon herm spth A	61.0	3065.0	0.0	repro
+z1paappaap	Z1paappaap	Z1paappaap	91.0	3005.0	0.0		z1paappaapa,z1paappaapp	3065.0
+z1paappaa	Z1paappaa	Z1paappaa	61.0	2914.0	0.0		z1paappaaa,z1paappaap	3005.0
+z1paappapaa	Z1paappapaa	gon herm spth A	61.0	3065.0	0.0	repro
+z1paappapap	Z1paappapap	gon herm spth A	61.0	3065.0	0.0	repro
+z1paappapa	Z1paappapa	Z1paappapa	91.0	3005.0	0.0		z1paappapaa,z1paappapap	3065.0
+z1paappapp	Z1paappapp	gon herm spth A	91.0	3005.0	0.0	repro
+z1paappap	Z1paappap	Z1paappap	61.0	2914.0	0.0		z1paappapa,z1paappapp	3005.0
+z1paappa	Z1paappa	Z1paappa	152.0	2853.0	0.0		z1paappaa,z1paappap	2914.0
+z1paapppa	Z1paapppa	gon herm spth A	91.0	2944.0	0.0	repro
+z1paapppp	Z1paapppp	gon herm spth A	91.0	2944.0	0.0	repro
+z1paappp	Z1paappp	Z1paappp	152.0	2853.0	0.0		z1paapppa,z1paapppp	2944.0
+z1paapp	Z1paapp	Z1paapp	212.0	2702.0	0.0		z1paappa,z1paappp	2853.0
+z1paap	Z1paap	Z1paap	637.0	2489.0	0.0		z1paapa,z1paapp	2702.0
+z1paa	Z1paa	Z1paa	394.0	1853.0	0.0		z1paaa,z1paap	2489.0
+z1papaaad	Z1papaaad	gon herm spth A	212.0	2914.0	0.0	repro
+z1papaaav	Z1papaaav	gon herm spth A	212.0	2914.0	0.0	repro
+z1papaaa	Z1papaaa	Z1papaaa	152.0	2702.0	0.0		z1papaaad,z1papaaav	2914.0
+z1papaapd	Z1papaapd	gon herm sujn A	212.0	2914.0	0.0	repro
+z1papaapv	Z1papaapv	gon herm spth A	212.0	2914.0	0.0	repro
+z1papaap	Z1papaap	Z1papaap	152.0	2702.0	0.0		z1papaapd,z1papaapv	2914.0
+z1papaa	Z1papaa	Z1papaa	91.0	2550.0	0.0		z1papaaa,z1papaap	2702.0
+z1papapaaa	Z1papapaaa	gon herm sujn A	91.0	2974.0	0.0	repro
+z1papapaap	Z1papapaap	gon herm dut	91.0	2974.0	0.0	repro
+z1papapaa	Z1papapaa	Z1papapaa	182.0	2884.0	0.0		z1papapaaa,z1papapaap	2974.0
+z1papapapa	Z1papapapa	gon herm dut	91.0	2974.0	0.0	repro
+z1papapapp	Z1papapapp	gon herm dut	91.0	2974.0	0.0	repro
+z1papapap	Z1papapap	Z1papapap	182.0	2884.0	0.0		z1papapapa,z1papapapp	2974.0
+z1papapa	Z1papapa	Z1papapa	152.0	2702.0	0.0		z1papapaa,z1papapap	2884.0
+z1papappaa	Z1papappaa	gon herm dut	91.0	2974.0	0.0	repro
+z1papappap	Z1papappap	gon herm dut	91.0	2974.0	0.0	repro
+z1papappa	Z1papappa	Z1papappa	182.0	2884.0	0.0		z1papappaa,z1papappap	2974.0
+z1papapppa	Z1papapppa	gon herm dut	91.0	2974.0	0.0	repro
+z1papapppp	Z1papapppp	gon herm dut	91.0	2974.0	0.0	repro
+z1papappp	Z1papappp	Z1papappp	182.0	2884.0	0.0		z1papapppa,z1papapppp	2974.0
+z1papapp	Z1papapp	Z1papapp	152.0	2702.0	0.0		z1papappa,z1papappp	2884.0
+z1papap	Z1papap	Z1papap	91.0	2550.0	0.0		z1papapa,z1papapp	2702.0
+z1papa	Z1papa	Z1papa	606.0	2459.0	0.0		z1papaa,z1papap	2550.0
+z1pappaaaa	Z1pappaaaa	gon herm dut	91.0	2974.0	0.0	repro
+z1pappaaap	Z1pappaaap	gon herm dut	91.0	2974.0	0.0	repro
+z1pappaaa	Z1pappaaa	Z1pappaaa	182.0	2884.0	0.0		z1pappaaaa,z1pappaaap	2974.0
+z1pappaapa	Z1pappaapa	gon herm dut	91.0	2974.0	0.0	repro
+z1pappaapp	Z1pappaapp	gon herm dut	91.0	2974.0	0.0	repro
+z1pappaap	Z1pappaap	Z1pappaap	182.0	2884.0	0.0		z1pappaapa,z1pappaapp	2974.0
+z1pappaa	Z1pappaa	Z1pappaa	152.0	2702.0	0.0		z1pappaaa,z1pappaap	2884.0
+z1pappapaa	Z1pappapaa	gon herm dut	91.0	2974.0	0.0	repro
+z1pappapap	Z1pappapap	gon herm dut	91.0	2974.0	0.0	repro
+z1pappapa	Z1pappapa	Z1pappapa	182.0	2884.0	0.0		z1pappapaa,z1pappapap	2974.0
+z1pappappa	Z1pappappa	gon herm dut	91.0	2974.0	0.0	repro
+z1pappappp	Z1pappappp	gon herm sujn P	91.0	2974.0	0.0	repro
+z1pappapp	Z1pappapp	Z1pappapp	182.0	2884.0	0.0		z1pappappa,z1pappappp	2974.0
+z1pappap	Z1pappap	Z1pappap	152.0	2702.0	0.0		z1pappapa,z1pappapp	2884.0
+z1pappa	Z1pappa	Z1pappa	91.0	2550.0	0.0		z1pappaa,z1pappap	2702.0
+z1papppad	Z1papppad	gon herm sujn P	212.0	2914.0	0.0	repro
+z1papppav	Z1papppav	gon herm spth P	212.0	2914.0	0.0	repro
+z1papppa	Z1papppa	Z1papppa	152.0	2702.0	0.0		z1papppad,z1papppav	2914.0
+z1pappppd	Z1pappppd	gon herm spth P	212.0	2914.0	0.0	repro
+z1pappppv	Z1pappppv	gon herm spth P	212.0	2914.0	0.0	repro
+z1papppp	Z1papppp	Z1papppp	152.0	2702.0	0.0		z1pappppd,z1pappppv	2914.0
+z1pappp	Z1pappp	Z1pappp	91.0	2550.0	0.0		z1papppa,z1papppp	2702.0
+z1papp	Z1papp	Z1papp	606.0	2459.0	0.0		z1pappa,z1pappp	2550.0
+z1pap	Z1pap	Z1pap	394.0	1853.0	0.0		z1papa,z1papp	2459.0
+z1pa	Z1pa	Z1pa	152.0	1459.0	0.0		z1paa,z1pap	1853.0
+z1ppaaaaa	Z1ppaaaaa	gon herm sujn A	61.0	2944.0	0.0	repro
+z1ppaaaap	Z1ppaaaap	gon herm vut	61.0	2944.0	0.0	repro
+z1ppaaaa	Z1ppaaaa	Z1ppaaaa	182.0	2884.0	0.0		z1ppaaaaa,z1ppaaaap	2944.0
+z1ppaaapa	Z1ppaaapa	gon herm sujn A	61.0	2944.0	0.0	repro
+z1ppaaapp	Z1ppaaapp	gon herm vut	61.0	2944.0	0.0	repro
+z1ppaaap	Z1ppaaap	Z1ppaaap	182.0	2884.0	0.0		z1ppaaapa,z1ppaaapp	2944.0
+z1ppaaa	Z1ppaaa	Z1ppaaa	182.0	2702.0	0.0		z1ppaaaa,z1ppaaap	2884.0
+z1ppaapaa	Z1ppaapaa	gon herm vut	61.0	2944.0	0.0	repro
+z1ppaapap	Z1ppaapap	gon herm vut	61.0	2944.0	0.0	repro
+z1ppaapa	Z1ppaapa	Z1ppaapa	182.0	2884.0	0.0		z1ppaapaa,z1ppaapap	2944.0
+z1ppaappa	Z1ppaappa	gon herm vut	61.0	2944.0	0.0	repro
+z1ppaappp	Z1ppaappp	gon herm vut	61.0	2944.0	0.0	repro
+z1ppaapp	Z1ppaapp	Z1ppaapp	182.0	2884.0	0.0		z1ppaappa,z1ppaappp	2944.0
+z1ppaap	Z1ppaap	Z1ppaap	182.0	2702.0	0.0		z1ppaapa,z1ppaapp	2884.0
+z1ppaa	Z1ppaa	Z1ppaa	667.0	2520.0	0.0		z1ppaaa,z1ppaap	2702.0
+z1ppapad	Z1ppapad	gon herm vut	182.0	2884.0	0.0	repro
+z1ppapav	Z1ppapav	gon herm vut	182.0	2884.0	0.0	repro
+z1ppapa	Z1ppapa	Z1ppapa	182.0	2702.0	0.0		z1ppapad,z1ppapav	2884.0
+z1ppappd	Z1ppappd	gon herm vut	182.0	2884.0	0.0	repro
+z1ppappv	Z1ppappv	gon herm vut	182.0	2884.0	0.0	repro
+z1ppapp	Z1ppapp	Z1ppapp	182.0	2702.0	0.0		z1ppappd,z1ppappv	2884.0
+z1ppap	Z1ppap	Z1ppap	667.0	2520.0	0.0		z1ppapa,z1ppapp	2702.0
+z1ppa	Z1ppa	Z1ppa	394.0	1853.0	0.0		z1ppaa,z1ppap	2520.0
+z1ppp	Z1ppp	gon herm anch	394.0	1853.0	0.0	repro
+z1pp	Z1pp	Z1pp	152.0	1459.0	0.0		z1ppa,z1ppp	1853.0
+z1p	Z1p	Z1p	1026.0	1307.0	0.0		z1pa,z1pp	1459.0
+mspppaap	MSpppaap	Z1	71.0	281.0	0.0		z1a,z1p	1307.0
+mspppaa	MSpppaa	MSpppaa	40.0	211.0	0.0		mspppaaa,mspppaap	281.0
+mspppapa	MSpppapa	MSpppapa	76.0	286.0	30.0	
+mspppapp	MSpppapp	mu bod	76.0	286.0	0.0	muscle
+mspppap	MSpppap	MSpppap	40.0	211.0	0.0		mspppapa,mspppapp	286.0
+mspppa	MSpppa	MSpppa	33.0	170.0	0.0		mspppaa,mspppap	211.0
+msppppaa	MSppppaa	mu bod	65.0	276.0	0.0	muscle
+msppppap	MSppppap	mu bod	65.0	276.0	0.0	muscle
+msppppa	MSppppa	MSppppa	40.0	211.0	0.0		msppppaa,msppppap	276.0
+mspppppa	MSpppppa	mu bod	65.0	276.0	0.0	muscle
+mspppppp	MSpppppp	mu bod	65.0	276.0	0.0	muscle
+msppppp	MSppppp	MSppppp	40.0	211.0	0.0		mspppppa,mspppppp	276.0
+mspppp	MSpppp	MSpppp	33.0	170.0	0.0		msppppa,msppppp	211.0
+msppp	MSppp	MSppp	37.0	137.0	0.0		mspppa,mspppp	170.0
+mspp	MSpp	MSpp	27.0	100.0	0.0		msppa,msppp	137.0
+msp	MSp	MSp	19.0	73.0	0.0		mspa,mspp	100.0
+ms	MS	MS	21.0	54.0	0.0		msa,msp	73.0
+ems	EMS	EMS	18.0	33.0	0.0		e,ms	54.0
+caaaaa	Caaaaa	hyp7	55.0	236.0	0.0	hypoderm
+caaaap	Caaaap	hyp7	55.0	236.0	0.0	hypoderm
+caaaa	Caaaa	Caaaa	32.0	180.0	0.0		caaaaa,caaaap	236.0
+caaapa	Caaapa	hyp7	57.0	238.0	0.0	hypoderm
+caaapp	Caaapp	hyp7	57.0	238.0	0.0	hypoderm
+caaap	Caaap	Caaap	32.0	180.0	0.0		caaapa,caaapp	238.0
+caaa	Caaa	Caaa	36.0	148.0	0.0		caaaa,caaap	180.0
+caapaa	Caapaa	DVC	152.0	347.0	0.0	neuron
+caapap	Caapap	Caapap	152.0	347.0	35.0	
+caapa	Caapa	Caapa	47.0	196.0	0.0		caapaa,caapap	347.0
+caappd	Caappd	hyp7	55.0	251.0	0.0	hypoderm
+caappv	Caappv	PVR	55.0	251.0	0.0	neuron
+caapp	Caapp	Caapp	47.0	196.0	0.0		caappd,caappv	251.0
+caap	Caap	Caap	36.0	148.0	0.0		caapa,caapp	196.0
+caa	Caa	Caa	27.0	112.0	0.0		caaa,caap	148.0
+capaaaa	Capaaaa	mu bod	72.0	338.0	0.0	muscle
+capaaap	Capaaap	mu bod	72.0	338.0	0.0	muscle
+capaaa	Capaaa	Capaaa	65.0	266.0	0.0		capaaaa,capaaap	338.0
+capaapa	Capaapa	mu bod	81.0	347.0	0.0	muscle
+capaapp	Capaapp	mu bod	81.0	347.0	0.0	muscle
+capaap	Capaap	Capaap	65.0	266.0	0.0		capaapa,capaapp	347.0
+capaa	Capaa	Capaa	52.0	201.0	0.0		capaaa,capaap	266.0
+capapaa	Capapaa	mu bod	76.0	341.0	0.0	muscle
+capapap	Capapap	mu bod	76.0	341.0	0.0	muscle
+capapa	Capapa	Capapa	65.0	266.0	0.0		capapaa,capapap	341.0
+capappa	Capappa	mu bod	81.0	347.0	0.0	muscle
+capappp	Capappp	mu bod	81.0	347.0	0.0	muscle
+capapp	Capapp	Capapp	65.0	266.0	0.0		capappa,capappp	347.0
+capap	Capap	Capap	52.0	201.0	0.0		capapa,capapp	266.0
+capa	Capa	Capa	36.0	148.0	0.0		capaa,capap	201.0
+cappaaa	Cappaaa	mu bod	71.0	327.0	0.0	muscle
+cappaap	Cappaap	mu bod	71.0	327.0	0.0	muscle
+cappaa	Cappaa	Cappaa	55.0	256.0	0.0		cappaaa,cappaap	327.0
+cappapa	Cappapa	mu bod	82.0	338.0	0.0	muscle
+cappapp	Cappapp	mu bod	82.0	338.0	0.0	muscle
+cappap	Cappap	Cappap	55.0	256.0	0.0		cappapa,cappapp	338.0
+cappa	Cappa	Cappa	52.0	201.0	0.0		cappaa,cappap	256.0
+capppaa	Capppaa	mu bod	82.0	338.0	0.0	muscle
+capppap	Capppap	mu bod	82.0	338.0	0.0	muscle
+capppa	Capppa	Capppa	55.0	256.0	0.0		capppaa,capppap	338.0
+cappppd	Cappppd	mu bod	91.0	347.0	0.0	muscle
+cappppv	Cappppv	mu bod	91.0	347.0	0.0	muscle
+capppp	Capppp	Capppp	55.0	256.0	0.0		cappppd,cappppv	347.0
+cappp	Cappp	Cappp	52.0	201.0	0.0		capppa,capppp	256.0
+capp	Capp	Capp	36.0	148.0	0.0		cappa,cappp	201.0
+cap	Cap	Cap	27.0	112.0	0.0		capa,capp	148.0
+ca	Ca	Ca	28.0	85.0	0.0		caa,cap	112.0
+cpaaaa	Cpaaaa	hyp7	52.0	238.0	0.0	hypoderm
+cpaaap	Cpaaap	hyp7	52.0	238.0	0.0	hypoderm
+cpaaa	Cpaaa	Cpaaa	37.0	186.0	0.0		cpaaaa,cpaaap	238.0
+cpaapa	Cpaapa	hyp7	51.0	236.0	0.0	hypoderm
+cpaapp	Cpaapp	hyp7	51.0	236.0	0.0	hypoderm
+cpaap	Cpaap	Cpaap	37.0	186.0	0.0		cpaapa,cpaapp	236.0
+cpaa	Cpaa	Cpaa	36.0	148.0	0.0		cpaaa,cpaap	186.0
+cpapaa	Cpapaa	hyp7	55.0	246.0	0.0	hypoderm
+cpapap	Cpapap	hyp7	55.0	246.0	0.0	hypoderm
+cpapa	Cpapa	Cpapa	42.0	190.0	0.0		cpapaa,cpapap	246.0
+cpappd	Cpappd	hyp7	61.0	251.0	0.0	hypoderm
+cpappv	Cpappv	hyp11	61.0	251.0	0.0	hypoderm
+cpapp	Cpapp	Cpapp	42.0	190.0	0.0		cpappd,cpappv	251.0
+cpap	Cpap	Cpap	36.0	148.0	0.0		cpapa,cpapp	190.0
+cpa	Cpa	Cpa	27.0	112.0	0.0		cpaa,cpap	148.0
+cppaaaa	Cppaaaa	mu bod	72.0	338.0	0.0	muscle
+cppaaap	Cppaaap	mu bod	72.0	338.0	0.0	muscle
+cppaaa	Cppaaa	Cppaaa	65.0	266.0	0.0		cppaaaa,cppaaap	338.0
+cppaapa	Cppaapa	mu bod	81.0	347.0	0.0	muscle
+cppaapp	Cppaapp	mu bod	81.0	347.0	0.0	muscle
+cppaap	Cppaap	Cppaap	65.0	266.0	0.0		cppaapa,cppaapp	347.0
+cppaa	Cppaa	Cppaa	52.0	201.0	0.0		cppaaa,cppaap	266.0
+cppapaa	Cppapaa	mu bod	76.0	341.0	0.0	muscle
+cppapap	Cppapap	mu bod	76.0	341.0	0.0	muscle
+cppapa	Cppapa	Cppapa	65.0	266.0	0.0		cppapaa,cppapap	341.0
+cppappa	Cppappa	mu bod	81.0	347.0	0.0	muscle
+cppappp	Cppappp	mu bod	81.0	347.0	0.0	muscle
+cppapp	Cppapp	Cppapp	65.0	266.0	0.0		cppappa,cppappp	347.0
+cppap	Cppap	Cppap	52.0	201.0	0.0		cppapa,cppapp	266.0
+cppa	Cppa	Cppa	36.0	148.0	0.0		cppaa,cppap	201.0
+cpppaaa	Cpppaaa	mu bod	71.0	327.0	0.0	muscle
+cpppaap	Cpppaap	mu bod	71.0	327.0	0.0	muscle
+cpppaa	Cpppaa	Cpppaa	55.0	256.0	0.0		cpppaaa,cpppaap	327.0
+cpppapa	Cpppapa	mu bod	82.0	338.0	0.0	muscle
+cpppapp	Cpppapp	mu bod	82.0	338.0	0.0	muscle
+cpppap	Cpppap	Cpppap	55.0	256.0	0.0		cpppapa,cpppapp	338.0
+cpppa	Cpppa	Cpppa	52.0	201.0	0.0		cpppaa,cpppap	256.0
+cppppaa	Cppppaa	mu bod	82.0	338.0	0.0	muscle
+cppppap	Cppppap	mu bod	82.0	338.0	0.0	muscle
+cppppa	Cppppa	Cppppa	55.0	256.0	0.0		cppppaa,cppppap	338.0
+cpppppd	Cpppppd	mu bod	91.0	347.0	0.0	muscle
+cpppppv	Cpppppv	mu bod	91.0	347.0	0.0	muscle
+cppppp	Cppppp	Cppppp	55.0	256.0	0.0		cpppppd,cpppppv	347.0
+cpppp	Cpppp	Cpppp	52.0	201.0	0.0		cppppa,cppppp	256.0
+cppp	Cppp	Cppp	36.0	148.0	0.0		cpppa,cpppp	201.0
+cpp	Cpp	Cpp	27.0	112.0	0.0		cppa,cppp	148.0
+cp	Cp	Cp	28.0	85.0	0.0		cpa,cpp	112.0
+c	C	C	24.0	57.0	0.0		ca,cp	85.0
+daaaa	Daaaa	mu bod	65.0	291.0	0.0	muscle
+daaap	Daaap	mu bod	65.0	291.0	0.0	muscle
+daaa	Daaa	Daaa	45.0	226.0	0.0		daaaa,daaap	291.0
+daapa	Daapa	mu bod	69.0	295.0	0.0	muscle
+daapp	Daapp	mu bod	69.0	295.0	0.0	muscle
+daap	Daap	Daap	45.0	226.0	0.0		daapa,daapp	295.0
+daa	Daa	Daa	51.0	181.0	0.0		daaa,daap	226.0
+dapaa	Dapaa	mu bod	71.0	287.0	0.0	muscle
+dapap	Dapap	mu bod	71.0	287.0	0.0	muscle
+dapa	Dapa	Dapa	35.0	216.0	0.0		dapaa,dapap	287.0
+dappaa	Dappaa	mu bod	76.0	357.0	0.0	muscle
+dappap	Dappap	mu bod	76.0	357.0	0.0	muscle
+dappa	Dappa	Dappa	65.0	281.0	0.0		dappaa,dappap	357.0
+dapppa	Dapppa	mu bod	96.0	377.0	0.0	muscle
+dapppp	Dapppp	mu bod	96.0	377.0	0.0	muscle
+dappp	Dappp	Dappp	65.0	281.0	0.0		dapppa,dapppp	377.0
+dapp	Dapp	Dapp	35.0	216.0	0.0		dappa,dappp	281.0
+dap	Dap	Dap	51.0	181.0	0.0		dapa,dapp	216.0
+da	Da	Da	47.0	130.0	0.0		daa,dap	181.0
+dpaaa	Dpaaa	mu bod	65.0	291.0	0.0	muscle
+dpaap	Dpaap	mu bod	65.0	291.0	0.0	muscle
+dpaa	Dpaa	Dpaa	45.0	226.0	0.0		dpaaa,dpaap	291.0
+dpapa	Dpapa	mu bod	68.0	294.0	0.0	muscle
+dpapp	Dpapp	mu bod	68.0	294.0	0.0	muscle
+dpap	Dpap	Dpap	45.0	226.0	0.0		dpapa,dpapp	294.0
+dpa	Dpa	Dpa	51.0	181.0	0.0		dpaa,dpap	226.0
+dppaa	Dppaa	mu bod	71.0	287.0	0.0	muscle
+dppap	Dppap	mu bod	71.0	287.0	0.0	muscle
+dppa	Dppa	Dppa	35.0	216.0	0.0		dppaa,dppap	287.0
+dpppaa	Dpppaa	mu bod	76.0	357.0	0.0	muscle
+dpppap	Dpppap	mu bod	76.0	357.0	0.0	muscle
+dpppa	Dpppa	Dpppa	65.0	281.0	0.0		dpppaa,dpppap	357.0
+dppppa	Dppppa	mu bod	96.0	377.0	0.0	muscle
+dppppp	Dppppp	mu bod	96.0	377.0	0.0	muscle
+dpppp	Dpppp	Dpppp	65.0	281.0	0.0		dppppa,dppppp	377.0
+dppp	Dppp	Dppp	35.0	216.0	0.0		dpppa,dpppp	281.0
+dpp	Dpp	Dpp	51.0	181.0	0.0		dppa,dppp	216.0
+dp	Dp	Dp	47.0	130.0	0.0		dpa,dpp	181.0
+d	D	D	26.0	83.0	0.0		da,dp	130.0
+p4a	P4a	Z3	72.0	155.0	0.0	repro
+p4p	P4p	Z2	72.0	155.0	0.0	repro
+p4	P4	P4	26.0	83.0	0.0		p4a,p4p	155.0
+p3	P3	P3	24.0	57.0	0.0		d,p4	83.0
+p2	P2	P2	18.0	33.0	0.0		c,p3	57.0
+p1	P1	P1	15.0	15.0	0.0		ems,p2	33.0
+p0	P0	P0	0.0	0.0	0.0		p0a,p1	15.0

@@ -1,0 +1,36 @@
+source of cell lineage:
+
+https://github.com/irepansalvador/Challenge_2
+
+they say they got it from:
+
+http://wormweb.org/celllineage#c=Eprp&z=0.37
+
+paper about thhis DREAM challenge
+https://www.cell.com/cell-systems/fulltext/S2405-4712(21)00194-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405471221001940%3Fshowall%3Dtrue
+
+
+
+json to newick:
+https://github.com/okeeffdp/json_to_newick
+
+
+
+import json
+
+lineage_file=open("lineage_DREAM.js","r")
+lineage=json.load(lineage_file)
+
+
+
+can also get same lineage in json format from inspecting source data
+on wormweb
+http://wormweb.org/celllineage#c=ABarppppa&z=0.37
+
+Need to remove enclosing javascript function and convert javascript to json:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
+
+remove enclosing >' ' and pretty format:
+https://jsonformatter.org/json-pretty-print
+
+then run ./getNewick_wormweb.py
