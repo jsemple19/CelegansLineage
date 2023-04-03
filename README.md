@@ -8,4 +8,4 @@ https://github.com/okeeffdp/json_to_newick
 which i found thanks to:
 https://github.com/irepansalvador/Challenge_2
 
-I extracted more data from teh original file than was done in the dream challenge (such as birth time of children), death time of cell. I also converted the times to the right scale (~).
+I extracted more data from teh original file than was done in the dream challenge (e.g. birth time of children, death time of cell). I also converted the times to the right scale (~).
